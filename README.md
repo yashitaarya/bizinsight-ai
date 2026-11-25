@@ -8,6 +8,13 @@
 ![Tests](https://img.shields.io/badge/tests-231%20passing-2EA44F)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
+### ▶ [Try the live demo: bizinsight-ai.streamlit.app](https://bizinsight-ai.streamlit.app)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bizinsight-ai.streamlit.app)
+
+No sign-up or installation: open the link, click **Explore retail sales sample**, and use the tabs at the top.
+New to the app? Click **How to use BizInsight AI** on the welcome screen for a two-minute guide.
+
 Turn your business data into insights you can actually use. Simply upload a CSV or Excel file to explore
 interactive dashboards, discover trends, and get clear summaries of your data. You can also ask questions
 in plain English and receive helpful answers and business recommendations, all backed by real calculations
@@ -20,6 +27,7 @@ so you can understand where every insight comes from.
 
 ## Contents
 
+- [Try it online](#try-it-online)
 - [Why BizInsight AI](#why-bizinsight-ai)
 - [Key features](#key-features)
 - [Screenshots](#screenshots)
@@ -36,6 +44,21 @@ so you can understand where every insight comes from.
 - [Future improvements](#future-improvements)
 - [About this project](#about-this-project)
 - [License](#license)
+
+## Try it online
+
+The app is deployed on Streamlit Community Cloud at **<https://bizinsight-ai.streamlit.app>**.
+
+1. Click **Explore retail sales sample** or **Explore support tickets sample** — or upload your own CSV or
+   Excel file in the sidebar (please don't upload confidential data to the public demo).
+2. Start on **Home**, then explore **Overview**, **Charts** and **Data**. These work without limits.
+3. Open **AI Summary** and **Ask AI** to see the AI explain the calculated results. To keep the demo free to
+   run, new AI requests are limited to a small number per day across all visitors; summaries and answers
+   that were already generated for the samples are shown instantly and don't count toward the limit.
+4. Open **Sources & calculations** under any AI answer to see exactly which calculations it is based on.
+
+The **Guide** tab inside the app explains every page, good questions to ask and what the AI won't do.
+If the app has been idle, Streamlit may take about a minute to wake it up.
 
 ## Why BizInsight AI
 

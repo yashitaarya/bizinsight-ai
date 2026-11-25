@@ -1,0 +1,1501 @@
+Ticket ID,Opened,Channel,Priority,Product Area,Team,First Response Minutes,Resolution Hours,Satisfaction Score,Reopened
+TCK-50830,2025-03-01 12:22,Chat,Medium,Integrations,Tier 1,4.0,21.8,4.0,Yes
+TCK-50352,2025-03-01 17:38,Chat,Medium,Login & Access,Tier 1,40.0,7.5,,No
+TCK-51229,2025-03-01 18:00,Chat,High,Integrations,Tier 2,2.0,8.8,,No
+TCK-50075,2025-03-01 20:31,Phone,Medium,Reporting,Tier 1,16.0,13.9,5.0,Yes
+TCK-50229,2025-03-02 04:27,Email,Medium,Payments,Tier 2,65.0,5.0,5.0,No
+TCK-50013,2025-03-02 04:56,Email,Low,Billing,Tier 1,30.0,8.8,5.0,No
+TCK-51361,2025-03-02 07:27,Phone,Low,Billing,Tier 1,21.0,12.4,,No
+TCK-50140,2025-03-02 17:43,Email,Low,Billing,Tier 1,62.0,14.6,5.0,No
+TCK-50884,2025-03-03 14:39,Email,Medium,Reporting,Tier 1,35.0,17.5,,Yes
+TCK-50065,2025-03-03 16:49,Email,Medium,Reporting,Tier 2,56.0,6.8,,No
+TCK-51360,2025-03-03 20:32,Email,Medium,Billing,Tier 2,12.0,6.3,5.0,No
+TCK-51386,2025-03-03 21:17,Chat,Medium,Login & Access,Tier 1,22.0,0.5,,No
+TCK-51495,2025-03-03 21:55,Email,Medium,Mobile App,Tier 1,36.0,7.0,5.0,No
+TCK-51116,2025-03-04 02:01,Email,Low,Payments,Tier 1,32.0,16.5,3.0,No
+TCK-51218,2025-03-04 04:14,Phone,Medium,Mobile App,Tier 1,18.0,4.1,5.0,No
+TCK-50142,2025-03-04 06:23,Email,Medium,Login & Access,Tier 1,34.0,1.9,5.0,No
+TCK-50241,2025-03-04 06:26,Web form,Medium,Billing,Tier 2,28.0,10.3,5.0,No
+TCK-51123,2025-03-04 10:50,Web form,Medium,Login & Access,Tier 1,52.0,26.6,5.0,No
+TCK-50849,2025-03-04 12:49,Phone,Urgent,Reporting,Tier 2,11.0,11.7,4.0,No
+TCK-50418,2025-03-04 15:46,Chat,Medium,Payments,Tier 1,59.0,5.1,5.0,No
+TCK-51193,2025-03-05 06:34,Email,High,Mobile App,Tier 2,73.0,4.4,,No
+TCK-50544,2025-03-05 11:46,Phone,Low,Billing,Tier 2,27.0,15.3,3.0,No
+TCK-50375,2025-03-05 15:06,Phone,Medium,Reporting,Tier 1,5.0,17.5,2.0,No
+TCK-50626,2025-03-05 15:15,Phone,Low,Payments,Tier 2,11.0,18.7,4.0,No
+TCK-50393,2025-03-05 19:49,Email,Low,Login & Access,Tier 1,27.0,2.1,5.0,No
+TCK-51128,2025-03-06 12:28,Email,High,Login & Access,Tier 2,52.0,1.0,5.0,No
+TCK-50193,2025-03-06 18:28,Email,Medium,Integrations,Tier 1,28.0,3.4,,Yes
+TCK-51115,2025-03-06 21:44,Web form,Low,Mobile App,Tier 1,39.0,17.8,3.0,No
+TCK-51297,2025-03-07 01:22,Chat,Medium,Login & Access,Tier 2,15.0,4.9,5.0,No
+TCK-51152,2025-03-07 02:42,Chat,High,Reporting,Specialists,28.0,3.5,,No
+TCK-50471,2025-03-07 02:45,Email,Urgent,Billing,Tier 2,54.0,2.2,4.0,No
+TCK-50638,2025-03-07 18:27,Email,Low,Payments,Tier 1,16.0,9.6,,Yes
+TCK-50373,2025-03-07 22:28,Phone,Low,Payments,Tier 1,16.0,5.9,4.0,No
+TCK-50197,2025-03-07 22:48,Phone,Medium,Reporting,Tier 1,2.0,2.0,,Yes
+TCK-50630,2025-03-08 07:26,Chat,Low,Payments,Tier 1,30.0,11.8,4.0,No
+TCK-51169,2025-03-08 10:18,Web form,Low,Reporting,Tier 1,67.0,3.0,5.0,No
+TCK-50679,2025-03-08 10:56,Email,Low,Mobile App,Tier 1,23.0,20.5,5.0,No
+TCK-50705,2025-03-08 13:29,Email,Medium,Mobile App,Tier 1,11.0,62.1,3.0,Yes
+TCK-50617,2025-03-08 15:13,Email,Low,Mobile App,Tier 2,37.0,46.1,,No
+TCK-50941,2025-03-08 21:00,Phone,Urgent,Login & Access,Specialists,6.0,6.6,,No
+TCK-51259,2025-03-09 01:33,Phone,Low,Billing,Tier 2,21.0,7.9,,No
+TCK-50049,2025-03-09 04:05,Chat,Low,Payments,Tier 1,27.0,20.2,4.0,No
+TCK-50868,2025-03-09 09:31,Chat,Low,Mobile App,Tier 2,56.0,12.4,5.0,No
+TCK-50904,2025-03-09 16:55,Email,High,Mobile App,Specialists,19.0,26.2,,No
+TCK-50181,2025-03-09 17:09,Email,High,Login & Access,Specialists,23.0,5.9,4.0,No
+TCK-50385,2025-03-09 22:15,Chat,Low,Billing,Tier 1,80.0,7.8,,No
+TCK-50871,2025-03-10 01:40,Email,Low,Reporting,Tier 2,3.0,4.9,,No
+TCK-50411,2025-03-10 02:06,Email,Low,Mobile App,Tier 1,114.0,21.8,3.0,No
+TCK-50761,2025-03-10 06:44,Email,Medium,Reporting,Tier 1,131.0,7.5,5.0,No
+TCK-51383,2025-03-10 13:18,Email,High,Reporting,Specialists,50.0,5.0,5.0,No
+TCK-50090,2025-03-10 15:27,Email,Low,Billing,Tier 1,95.0,16.8,3.0,No
+TCK-50840,2025-03-10 21:23,Chat,High,Login & Access,Specialists,39.0,3.7,,No
+TCK-50047,2025-03-11 01:30,Chat,Medium,Mobile App,Tier 1,10.0,9.2,4.0,No
+TCK-51457,2025-03-11 03:19,Email,Low,Mobile App,Tier 2,57.0,41.9,3.0,No
+TCK-51162,2025-03-11 08:08,Email,Medium,Mobile App,Tier 1,41.0,5.9,5.0,No
+TCK-51074,2025-03-11 09:25,Chat,Medium,Reporting,Tier 1,4.0,3.3,,No
+TCK-50371,2025-03-11 16:24,Web form,Medium,Billing,Tier 1,34.0,7.0,3.0,No
+TCK-51238,2025-03-12 02:29,Phone,Low,Login & Access,Tier 1,5.0,16.0,5.0,No
+TCK-50166,2025-03-12 06:13,Email,Low,Reporting,Tier 1,61.0,4.2,5.0,No
+TCK-51151,2025-03-12 07:45,Email,Low,Reporting,Tier 2,71.0,11.3,,No
+TCK-50319,2025-03-12 14:40,Phone,Low,Payments,Tier 1,3.0,21.0,5.0,No
+TCK-50419,2025-03-12 14:42,Chat,Low,Mobile App,Tier 1,45.0,2.0,5.0,No
+TCK-50454,2025-03-12 17:29,Chat,Medium,Integrations,Tier 1,66.0,7.7,5.0,No
+TCK-50132,2025-03-12 23:13,Email,Low,Billing,Tier 1,15.0,12.7,4.0,No
+TCK-51310,2025-03-13 02:02,Web form,High,Billing,Tier 2,24.0,15.5,5.0,Yes
+TCK-51090,2025-03-13 13:04,Email,High,Integrations,Tier 2,43.0,15.1,4.0,No
+TCK-50584,2025-03-13 14:04,Chat,Urgent,Mobile App,Specialists,85.0,4.9,5.0,Yes
+TCK-50856,2025-03-13 14:13,Web form,Medium,Billing,Tier 1,35.0,11.0,4.0,No
+TCK-50192,2025-03-13 14:49,Email,High,Integrations,Specialists,36.0,5.9,5.0,No
+TCK-50008,2025-03-13 17:12,Email,Low,Billing,Tier 2,50.0,1.1,5.0,No
+TCK-51025,2025-03-13 23:40,Phone,Low,Integrations,Tier 1,2.0,37.1,5.0,No
+TCK-50689,2025-03-14 00:01,Email,Medium,Billing,Tier 2,50.0,5.2,4.0,No
+TCK-50212,2025-03-14 06:59,Email,High,Billing,Specialists,17.0,11.9,5.0,No
+TCK-51236,2025-03-14 09:37,Chat,Medium,Login & Access,Tier 2,12.0,6.2,5.0,No
+TCK-50105,2025-03-14 13:38,Chat,Low,Login & Access,Tier 1,29.0,3.9,,No
+TCK-50174,2025-03-14 21:08,Chat,Medium,Mobile App,Tier 1,17.0,22.7,4.0,No
+TCK-50926,2025-03-15 03:53,Email,Low,Mobile App,Tier 2,57.0,34.0,2.0,Yes
+TCK-50349,2025-03-15 04:00,Chat,Low,Billing,Tier 1,40.0,4.9,5.0,No
+TCK-50698,2025-03-15 04:34,Chat,Low,Reporting,Tier 1,40.0,7.3,4.0,No
+TCK-51033,2025-03-15 07:14,Chat,High,Login & Access,Tier 2,99.0,7.6,,No
+TCK-51327,2025-03-15 10:36,Email,Medium,Payments,Tier 1,6.0,11.6,4.0,No
+TCK-50565,2025-03-15 16:54,Chat,Medium,Payments,Tier 2,23.0,14.1,3.0,No
+TCK-50845,2025-03-15 22:58,Web form,High,Reporting,Tier 2,31.0,1.8,5.0,No
+TCK-50767,2025-03-16 04:55,Chat,Urgent,Reporting,Specialists,3.0,10.9,,No
+TCK-51353,2025-03-16 05:55,Web form,High,Mobile App,Tier 2,56.0,26.8,3.0,No
+TCK-51063,2025-03-16 10:50,Email,Low,Login & Access,Tier 1,46.0,15.3,3.0,No
+TCK-50675,2025-03-16 11:32,Email,Medium,Integrations,Tier 1,46.0,37.7,4.0,Yes
+TCK-50293,2025-03-16 17:39,Phone,Low,Mobile App,Tier 1,27.0,27.9,5.0,No
+TCK-50876,2025-03-16 18:22,Email,High,Payments,Tier 2,118.0,13.3,4.0,No
+TCK-51098,2025-03-16 20:35,Email,High,Mobile App,Tier 2,34.0,12.5,5.0,No
+TCK-50556,2025-03-17 01:17,Chat,Urgent,Billing,Specialists,30.0,23.8,4.0,No
+TCK-51467,2025-03-17 01:40,Email,Low,Billing,Tier 1,26.0,13.9,,No
+TCK-51390,2025-03-17 01:54,Chat,Low,Login & Access,Tier 1,24.0,1.3,5.0,No
+TCK-51406,2025-03-17 07:56,Email,Medium,Integrations,Tier 2,14.0,49.6,,Yes
+TCK-50922,2025-03-17 12:16,Email,Low,Billing,Tier 1,45.0,13.9,4.0,No
+TCK-51096,2025-03-17 17:07,Email,Urgent,Reporting,Specialists,57.0,2.3,,No
+TCK-51369,2025-03-17 18:24,Email,Low,Login & Access,Tier 1,23.0,5.0,,Yes
+TCK-50991,2025-03-17 18:48,Chat,Medium,Payments,Tier 1,87.0,11.6,5.0,No
+TCK-50879,2025-03-17 23:35,Chat,Low,Billing,Tier 1,11.0,18.8,5.0,No
+TCK-51343,2025-03-18 04:47,Email,Low,Reporting,Tier 1,35.0,5.4,4.0,No
+TCK-50998,2025-03-18 06:27,Chat,High,Billing,Specialists,28.0,17.8,,No
+TCK-51054,2025-03-18 11:32,Email,Medium,Mobile App,Tier 2,63.0,0.5,5.0,No
+TCK-51319,2025-03-18 15:17,Chat,Urgent,Billing,Specialists,10.0,4.3,5.0,No
+TCK-51338,2025-03-18 15:50,Email,Medium,Payments,Tier 1,6.0,9.5,,No
+TCK-51234,2025-03-18 16:56,Email,High,Reporting,Tier 2,26.0,3.2,5.0,No
+TCK-51207,2025-03-18 17:55,Email,Low,Integrations,Tier 1,43.0,12.9,4.0,No
+TCK-50521,2025-03-18 18:11,Email,Medium,Integrations,Tier 1,76.0,20.8,3.0,No
+TCK-50206,2025-03-19 02:19,Email,High,Mobile App,Specialists,90.0,4.2,4.0,No
+TCK-50792,2025-03-19 14:14,Chat,Low,Billing,Tier 1,20.0,7.2,,No
+TCK-50531,2025-03-19 14:37,Chat,Urgent,Billing,Tier 2,15.0,4.1,5.0,Yes
+TCK-50513,2025-03-19 16:05,Phone,Medium,Payments,Tier 2,5.0,40.1,3.0,No
+TCK-51389,2025-03-19 18:04,Chat,Low,Mobile App,Tier 2,18.0,5.5,5.0,No
+TCK-50462,2025-03-20 03:19,Chat,High,Payments,Tier 2,28.0,4.1,,No
+TCK-51265,2025-03-20 07:51,Chat,Low,Integrations,Tier 1,13.0,9.9,,No
+TCK-50863,2025-03-20 09:49,Web form,Medium,Payments,Tier 1,35.0,8.8,5.0,No
+TCK-50248,2025-03-21 00:44,Email,Medium,Integrations,Tier 1,80.0,36.0,,Yes
+TCK-50596,2025-03-21 03:38,Phone,High,Login & Access,Specialists,2.0,6.9,5.0,No
+TCK-50392,2025-03-21 04:18,Email,Low,Payments,Tier 2,18.0,19.5,5.0,No
+TCK-50934,2025-03-21 08:15,Email,Low,Login & Access,Tier 1,11.0,4.6,5.0,No
+TCK-50268,2025-03-21 10:49,Chat,Low,Mobile App,Tier 1,14.0,9.1,5.0,No
+TCK-50346,2025-03-21 16:17,Email,Medium,Billing,Tier 2,12.0,16.3,4.0,No
+TCK-51230,2025-03-21 22:36,Chat,Low,Payments,Tier 1,49.0,21.7,3.0,No
+TCK-51204,2025-03-21 22:38,Phone,Medium,Billing,Tier 1,13.0,15.3,5.0,No
+TCK-50093,2025-03-21 22:51,Phone,Low,Login & Access,Tier 1,20.0,8.6,4.0,No
+TCK-50809,2025-03-21 23:10,Chat,Medium,Billing,Tier 2,29.0,17.1,,No
+TCK-50653,2025-03-22 00:35,Email,Medium,Reporting,Tier 1,70.0,13.5,5.0,No
+TCK-50146,2025-03-22 06:20,Email,Low,Payments,Tier 1,51.0,32.7,,No
+TCK-50451,2025-03-23 00:57,Email,Medium,Payments,Tier 1,72.0,2.1,,No
+TCK-50292,2025-03-23 02:28,Email,Medium,Billing,Tier 2,45.0,8.2,5.0,No
+TCK-50135,2025-03-23 03:29,Chat,Urgent,Login & Access,Specialists,36.0,0.2,5.0,No
+TCK-50553,2025-03-23 04:03,Phone,Low,Mobile App,Tier 1,2.0,2.7,5.0,No
+TCK-50066,2025-03-23 06:10,Email,Medium,Mobile App,Tier 2,56.0,18.4,5.0,No
+TCK-50774,2025-03-23 21:36,Chat,Urgent,Integrations,Tier 2,6.0,10.4,,No
+TCK-50912,2025-03-24 00:59,Phone,Low,Reporting,Tier 1,7.0,6.7,,No
+TCK-50489,2025-03-24 03:38,Email,Medium,Payments,Tier 1,12.0,14.9,4.0,No
+TCK-50816,2025-03-24 03:40,Chat,Low,Mobile App,Tier 1,10.0,25.2,3.0,No
+TCK-51447,2025-03-24 04:42,Phone,Low,Login & Access,Tier 2,16.0,9.0,,No
+TCK-50622,2025-03-24 13:21,Email,Medium,Billing,Tier 1,11.0,9.1,5.0,No
+TCK-51160,2025-03-24 18:37,Chat,Low,Payments,Tier 1,24.0,7.5,,No
+TCK-50256,2025-03-25 07:30,Email,Urgent,Login & Access,Specialists,27.0,12.0,5.0,No
+TCK-51441,2025-03-25 12:12,Email,Low,Mobile App,Tier 2,33.0,18.8,4.0,No
+TCK-50656,2025-03-25 13:21,Chat,Low,Payments,Tier 2,16.0,12.8,4.0,No
+TCK-50104,2025-03-25 18:49,Email,Medium,Integrations,Tier 1,5.0,7.9,3.0,No
+TCK-50202,2025-03-25 20:20,Web form,Medium,Reporting,Tier 1,16.0,5.5,5.0,No
+TCK-50896,2025-03-25 21:07,Email,Medium,Mobile App,Tier 1,43.0,60.2,2.0,No
+TCK-50388,2025-03-25 23:19,Chat,Low,Reporting,Tier 1,50.0,4.8,,No
+TCK-50680,2025-03-26 05:44,Web form,Low,Integrations,Tier 1,66.0,35.3,,No
+TCK-50958,2025-03-26 14:11,Email,High,Billing,Specialists,82.0,5.6,5.0,No
+TCK-50327,2025-03-26 17:46,Phone,Medium,Payments,Tier 2,30.0,14.8,3.0,No
+TCK-50425,2025-03-26 19:29,Email,Low,Login & Access,Tier 1,42.0,13.2,,No
+TCK-50743,2025-03-26 22:06,Web form,Medium,Login & Access,Tier 2,61.0,5.4,5.0,No
+TCK-50359,2025-03-26 22:10,Email,Medium,Mobile App,Tier 1,68.0,13.7,4.0,No
+TCK-51165,2025-03-27 04:30,Web form,Low,Reporting,Tier 1,34.0,7.1,5.0,No
+TCK-50046,2025-03-27 06:27,Email,High,Mobile App,Specialists,36.0,8.7,5.0,No
+TCK-50390,2025-03-27 07:06,Chat,Medium,Mobile App,Tier 2,18.0,8.0,5.0,No
+TCK-51487,2025-03-27 15:25,Chat,Low,Payments,Tier 2,23.0,24.1,,No
+TCK-50657,2025-03-27 17:41,Phone,High,Billing,Specialists,10.0,25.6,3.0,No
+TCK-51255,2025-03-27 22:16,Email,Medium,Mobile App,Tier 1,39.0,22.9,4.0,No
+TCK-50874,2025-03-28 05:02,Email,Low,Payments,Tier 1,15.0,3.3,,No
+TCK-50018,2025-03-28 06:28,Web form,Medium,Reporting,Tier 1,108.0,8.1,,Yes
+TCK-51296,2025-03-28 20:18,Email,Low,Billing,Tier 2,3.0,0.8,,No
+TCK-50199,2025-03-29 03:24,Email,High,Payments,Tier 2,86.0,5.7,5.0,No
+TCK-50709,2025-03-29 04:44,Email,Medium,Payments,Tier 1,24.0,12.6,,No
+TCK-50651,2025-03-29 06:06,Chat,Urgent,Login & Access,Specialists,5.0,3.1,,No
+TCK-51345,2025-03-29 14:18,Chat,Low,Mobile App,Tier 2,19.0,8.2,5.0,No
+TCK-50703,2025-03-29 14:29,Phone,Medium,Billing,Tier 1,12.0,26.6,4.0,No
+TCK-50338,2025-03-29 15:18,Chat,Medium,Billing,Tier 1,65.0,18.7,4.0,No
+TCK-50581,2025-03-29 19:04,Email,Low,Login & Access,Tier 1,13.0,6.9,5.0,No
+TCK-50428,2025-03-29 21:47,Email,High,Mobile App,Tier 2,55.0,23.7,,Yes
+TCK-50642,2025-03-30 11:03,Email,Low,Payments,Tier 2,87.0,11.2,5.0,No
+TCK-50437,2025-03-30 13:44,Chat,Medium,Mobile App,Tier 1,38.0,8.5,5.0,No
+TCK-51251,2025-03-30 16:01,Web form,High,Mobile App,Tier 2,34.0,35.0,5.0,No
+TCK-50588,2025-03-30 16:40,Email,Medium,Mobile App,Tier 1,45.0,17.9,,No
+TCK-50844,2025-03-30 17:28,Chat,Medium,Integrations,Tier 1,50.0,16.5,5.0,No
+TCK-50990,2025-03-30 22:08,Email,Medium,Payments,Tier 2,12.0,5.8,,No
+TCK-50529,2025-03-30 22:14,Phone,Medium,Login & Access,Tier 1,4.0,5.3,4.0,No
+TCK-50525,2025-03-31 00:24,Web form,Medium,Mobile App,Tier 1,80.0,23.1,5.0,No
+TCK-50016,2025-03-31 02:23,Phone,Low,Login & Access,Tier 2,10.0,7.5,4.0,No
+TCK-50149,2025-03-31 03:21,Phone,High,Billing,Specialists,14.0,11.1,,No
+TCK-51209,2025-03-31 06:41,Email,Medium,Mobile App,Tier 1,35.0,12.4,5.0,No
+TCK-51124,2025-03-31 08:07,Email,Medium,Reporting,Tier 1,42.0,4.2,,No
+TCK-50527,2025-03-31 12:06,Email,Low,Login & Access,Tier 1,39.0,14.7,4.0,No
+TCK-50493,2025-03-31 14:55,Email,Medium,Billing,Tier 1,47.0,8.6,4.0,No
+TCK-50308,2025-03-31 20:53,Web form,Urgent,Mobile App,Specialists,12.0,26.3,5.0,No
+TCK-51423,2025-03-31 22:26,Chat,Medium,Mobile App,Tier 1,70.0,8.7,,No
+TCK-51105,2025-04-01 01:53,Email,High,Payments,Specialists,32.0,31.9,,No
+TCK-50741,2025-04-01 05:09,Chat,Medium,Mobile App,Tier 1,59.0,15.2,4.0,No
+TCK-50235,2025-04-01 07:39,Email,Medium,Mobile App,Tier 1,34.0,16.1,4.0,No
+TCK-51073,2025-04-01 08:34,Chat,Low,Reporting,Tier 2,63.0,13.8,4.0,No
+TCK-50266,2025-04-01 12:04,Email,Medium,Payments,Tier 1,10.0,27.2,5.0,No
+TCK-50637,2025-04-01 13:26,Email,Medium,Billing,Tier 1,61.0,8.8,5.0,No
+TCK-51107,2025-04-01 14:39,Chat,Medium,Billing,Tier 1,21.0,8.0,5.0,No
+TCK-50468,2025-04-01 15:39,Web form,Medium,Login & Access,Tier 1,130.0,5.4,5.0,No
+TCK-51479,2025-04-02 07:41,Email,High,Mobile App,Specialists,36.0,8.1,5.0,No
+TCK-50050,2025-04-02 10:00,Phone,Urgent,Integrations,Tier 2,12.0,5.5,5.0,No
+TCK-51099,2025-04-02 10:54,Phone,Medium,Integrations,Tier 1,22.0,66.8,,No
+TCK-51235,2025-04-02 15:04,Phone,Low,Billing,Tier 2,24.0,5.2,5.0,No
+TCK-51034,2025-04-02 20:49,Chat,Low,Integrations,Tier 1,9.0,37.1,3.0,Yes
+TCK-51164,2025-04-02 23:29,Email,Low,Integrations,Tier 1,7.0,19.0,5.0,No
+TCK-51294,2025-04-03 00:56,Phone,High,Login & Access,Tier 2,16.0,8.9,4.0,No
+TCK-50159,2025-04-03 07:26,Web form,High,Billing,Specialists,8.0,10.9,,No
+TCK-50674,2025-04-03 12:36,Email,Medium,Payments,Tier 1,20.0,1.1,,No
+TCK-51440,2025-04-03 14:37,Chat,High,Mobile App,Specialists,35.0,4.7,4.0,No
+TCK-50612,2025-04-03 16:29,Email,Low,Payments,Tier 1,33.0,19.1,4.0,No
+TCK-51136,2025-04-03 16:42,Email,Urgent,Login & Access,Specialists,13.0,1.5,5.0,No
+TCK-50643,2025-04-03 21:20,Email,Medium,Payments,Tier 1,22.0,17.0,,No
+TCK-50111,2025-04-04 09:29,Chat,Low,Payments,Tier 1,75.0,7.6,,No
+TCK-50127,2025-04-04 12:43,Phone,Low,Billing,Tier 2,8.0,8.3,5.0,No
+TCK-50225,2025-04-04 14:14,Chat,Low,Reporting,Tier 2,21.0,2.3,5.0,No
+TCK-51262,2025-04-04 14:16,Chat,Low,Payments,Tier 2,18.0,12.3,5.0,No
+TCK-50424,2025-04-05 02:09,Email,Medium,Reporting,Tier 1,36.0,14.2,4.0,No
+TCK-51387,2025-04-05 02:56,Chat,High,Billing,Specialists,39.0,16.8,3.0,No
+TCK-50678,2025-04-05 04:07,Chat,Medium,Billing,Tier 1,37.0,3.8,,Yes
+TCK-50900,2025-04-05 06:22,Email,Medium,Payments,Tier 1,55.0,24.7,5.0,No
+TCK-50079,2025-04-05 08:55,Email,Medium,Login & Access,Tier 1,30.0,0.7,5.0,No
+TCK-50805,2025-04-05 12:35,Chat,Low,Login & Access,Tier 1,3.0,6.1,,No
+TCK-51470,2025-04-05 22:09,Email,Low,Reporting,Tier 1,27.0,8.8,4.0,No
+TCK-50928,2025-04-06 02:08,Web form,Low,Billing,Tier 1,78.0,5.8,5.0,No
+TCK-50274,2025-04-06 04:43,Chat,Urgent,Integrations,Tier 2,30.0,0.1,,No
+TCK-51006,2025-04-06 10:55,Email,Medium,Mobile App,Tier 1,20.0,20.7,5.0,No
+TCK-51072,2025-04-06 13:50,Phone,Low,Payments,Tier 1,22.0,18.8,5.0,No
+TCK-50043,2025-04-06 16:31,Chat,Urgent,Payments,Specialists,42.0,16.5,4.0,No
+TCK-51143,2025-04-06 20:23,Chat,Medium,Integrations,Tier 1,17.0,17.8,5.0,No
+TCK-50469,2025-04-06 23:40,Email,High,Billing,Specialists,29.0,19.0,,No
+TCK-50482,2025-04-07 00:42,Email,Medium,Billing,Tier 1,109.0,29.6,3.0,No
+TCK-51499,2025-04-07 04:03,Web form,Medium,Payments,Tier 1,71.0,3.4,,No
+TCK-51126,2025-04-07 06:05,Email,Medium,Login & Access,Tier 1,21.0,6.7,5.0,No
+TCK-50296,2025-04-07 06:23,Phone,High,Billing,Tier 2,1.0,15.6,,No
+TCK-51127,2025-04-07 07:25,Email,High,Mobile App,Tier 2,17.0,4.6,5.0,No
+TCK-50476,2025-04-07 14:39,Chat,High,Integrations,Specialists,25.0,2.8,5.0,No
+TCK-51052,2025-04-07 15:37,Web form,Low,Payments,Tier 1,86.0,17.6,4.0,No
+TCK-50520,2025-04-07 15:50,Email,Medium,Payments,Tier 1,11.0,5.7,5.0,No
+TCK-50718,2025-04-07 17:41,Phone,High,Payments,Tier 2,34.0,3.7,5.0,No
+TCK-51119,2025-04-07 19:06,Email,Medium,Billing,Tier 1,73.0,19.3,,No
+TCK-50795,2025-04-07 23:26,Web form,Low,Login & Access,Tier 1,49.0,1.1,5.0,No
+TCK-51417,2025-04-07 23:58,Web form,Low,Reporting,Tier 2,33.0,3.7,5.0,No
+TCK-50389,2025-04-08 00:23,Web form,Urgent,Mobile App,Tier 2,36.0,13.0,,No
+TCK-50916,2025-04-08 07:41,Chat,High,Login & Access,Specialists,22.0,6.4,5.0,No
+TCK-50791,2025-04-08 09:21,Phone,High,Billing,Tier 2,13.0,22.0,5.0,No
+TCK-51292,2025-04-08 10:42,Chat,Low,Integrations,Tier 1,18.0,15.8,,No
+TCK-50710,2025-04-08 11:01,Email,Low,Billing,Tier 1,36.0,3.7,5.0,No
+TCK-50318,2025-04-08 16:42,Email,Medium,Payments,Tier 1,16.0,17.8,4.0,No
+TCK-50372,2025-04-08 23:27,Email,Low,Reporting,Tier 2,61.0,10.0,5.0,Yes
+TCK-50810,2025-04-09 00:46,Web form,Low,Integrations,Tier 1,25.0,11.0,5.0,No
+TCK-51288,2025-04-09 01:44,Email,Low,Mobile App,Tier 1,67.0,22.9,4.0,No
+TCK-51469,2025-04-09 05:21,Email,Low,Integrations,Tier 1,22.0,10.2,4.0,Yes
+TCK-51325,2025-04-09 14:38,Phone,Urgent,Billing,Specialists,8.0,16.4,3.0,No
+TCK-50332,2025-04-09 15:38,Email,High,Integrations,Tier 2,57.0,47.1,,Yes
+TCK-51451,2025-04-09 18:33,Chat,Low,Login & Access,Tier 2,39.0,2.3,,No
+TCK-51109,2025-04-09 18:46,Phone,Medium,Integrations,Tier 1,18.0,9.9,3.0,No
+TCK-51438,2025-04-09 23:25,Web form,Medium,Payments,Tier 1,56.0,10.1,5.0,No
+TCK-50711,2025-04-10 08:58,Email,Medium,Mobile App,Tier 2,17.0,27.9,4.0,No
+TCK-50659,2025-04-10 11:44,Email,Medium,Payments,Tier 1,40.0,5.5,5.0,No
+TCK-51388,2025-04-10 17:06,Phone,Urgent,Payments,Specialists,3.0,34.2,3.0,No
+TCK-50658,2025-04-10 21:20,Chat,Medium,Reporting,Tier 1,14.0,10.0,5.0,No
+TCK-50739,2025-04-11 01:49,Web form,Low,Payments,Tier 1,34.0,15.0,4.0,No
+TCK-50257,2025-04-11 02:00,Email,Low,Billing,Tier 1,96.0,14.3,,No
+TCK-51026,2025-04-11 07:52,Chat,Low,Integrations,Tier 1,44.0,3.2,,No
+TCK-50167,2025-04-11 08:18,Chat,Low,Integrations,Tier 1,25.0,10.7,5.0,Yes
+TCK-50546,2025-04-11 12:36,Email,Medium,Payments,Tier 2,27.0,9.3,5.0,No
+TCK-51416,2025-04-11 13:28,Web form,Medium,Mobile App,Tier 1,22.0,9.2,5.0,Yes
+TCK-50736,2025-04-11 18:20,Chat,Low,Integrations,Tier 1,45.0,25.7,4.0,Yes
+TCK-51454,2025-04-11 23:04,Email,Medium,Login & Access,Tier 2,41.0,18.2,5.0,No
+TCK-50959,2025-04-12 00:25,Web form,High,Payments,Specialists,43.0,27.1,,No
+TCK-50717,2025-04-12 01:38,Chat,Medium,Billing,Tier 2,5.0,4.9,5.0,Yes
+TCK-51117,2025-04-12 01:49,Chat,Medium,Reporting,Tier 1,9.0,3.7,4.0,No
+TCK-50347,2025-04-12 02:39,Email,Low,Login & Access,Tier 1,89.0,5.6,,No
+TCK-51133,2025-04-12 03:38,Email,Medium,Reporting,Tier 2,43.0,12.3,,No
+TCK-50583,2025-04-12 04:44,Phone,Urgent,Mobile App,Tier 2,11.0,10.2,,No
+TCK-51211,2025-04-12 04:45,Email,Low,Mobile App,Tier 1,24.0,3.7,3.0,No
+TCK-50603,2025-04-12 05:42,Chat,Low,Payments,Tier 1,115.0,11.5,3.0,No
+TCK-51324,2025-04-12 09:12,Chat,Medium,Billing,Tier 2,38.0,2.9,5.0,Yes
+TCK-51226,2025-04-12 14:29,Web form,Low,Reporting,Tier 2,37.0,16.6,5.0,No
+TCK-50084,2025-04-12 15:31,Chat,High,Billing,Specialists,23.0,4.7,,No
+TCK-50543,2025-04-12 20:32,Email,High,Integrations,Tier 2,67.0,65.9,2.0,No
+TCK-50381,2025-04-12 22:31,Phone,High,Login & Access,Specialists,17.0,13.9,5.0,No
+TCK-51048,2025-04-13 14:45,Phone,Medium,Reporting,Tier 1,16.0,18.5,3.0,No
+TCK-50667,2025-04-13 15:18,Email,High,Login & Access,Specialists,25.0,16.8,,No
+TCK-50571,2025-04-13 16:50,Email,High,Login & Access,Specialists,31.0,7.1,5.0,Yes
+TCK-50407,2025-04-13 19:07,Chat,Medium,Integrations,Tier 1,69.0,8.4,4.0,No
+TCK-50494,2025-04-13 23:10,Email,Low,Mobile App,Tier 2,9.0,10.7,,No
+TCK-50067,2025-04-14 01:26,Email,Medium,Mobile App,Tier 1,46.0,5.9,,No
+TCK-50161,2025-04-14 01:46,Email,Low,Reporting,Tier 1,43.0,3.1,3.0,Yes
+TCK-51461,2025-04-14 01:57,Chat,Low,Integrations,Tier 1,37.0,11.2,4.0,Yes
+TCK-50252,2025-04-14 04:12,Phone,Medium,Payments,Tier 2,11.0,3.8,4.0,No
+TCK-51266,2025-04-14 16:49,Chat,High,Mobile App,Specialists,38.0,10.9,5.0,No
+TCK-50885,2025-04-14 18:44,Email,Medium,Billing,Tier 1,6.0,5.4,4.0,No
+TCK-51071,2025-04-14 18:51,Web form,Medium,Billing,Tier 1,89.0,18.5,,No
+TCK-50443,2025-04-15 04:15,Phone,Low,Mobile App,Tier 1,21.0,3.1,4.0,No
+TCK-50602,2025-04-15 06:55,Email,High,Billing,Specialists,40.0,3.0,5.0,No
+TCK-50889,2025-04-15 07:20,Chat,Medium,Billing,Tier 1,39.0,6.7,5.0,No
+TCK-50999,2025-04-15 08:19,Email,Low,Mobile App,Tier 1,6.0,1.5,5.0,No
+TCK-51411,2025-04-15 08:59,Chat,Low,Billing,Tier 1,32.0,4.2,5.0,Yes
+TCK-50253,2025-04-15 11:04,Chat,Low,Mobile App,Tier 2,84.0,15.8,5.0,No
+TCK-51184,2025-04-15 14:17,Chat,Medium,Payments,Tier 1,47.0,27.7,,No
+TCK-50522,2025-04-15 16:36,Email,Medium,Payments,Tier 1,43.0,34.6,4.0,No
+TCK-50071,2025-04-15 22:32,Chat,Medium,Billing,Tier 1,19.0,4.2,5.0,No
+TCK-51286,2025-04-16 01:56,Chat,Low,Login & Access,Tier 1,63.0,8.6,5.0,No
+TCK-51017,2025-04-16 02:34,Phone,Medium,Login & Access,Tier 1,42.0,9.9,4.0,No
+TCK-50272,2025-04-16 07:17,Chat,High,Mobile App,Tier 2,43.0,19.4,4.0,No
+TCK-50317,2025-04-16 11:12,Chat,Medium,Billing,Tier 2,49.0,14.0,,No
+TCK-51053,2025-04-16 12:36,Chat,Medium,Login & Access,Tier 1,16.0,12.0,5.0,No
+TCK-51303,2025-04-16 21:14,Chat,Low,Billing,Tier 1,52.0,7.0,5.0,No
+TCK-50610,2025-04-17 02:38,Email,Low,Login & Access,Tier 1,17.0,6.5,,No
+TCK-50753,2025-04-17 14:09,Phone,High,Billing,Tier 2,1.0,3.2,5.0,No
+TCK-50508,2025-04-17 20:05,Email,High,Payments,Specialists,29.0,15.5,5.0,No
+TCK-50839,2025-04-17 20:52,Email,High,Login & Access,Specialists,44.0,1.5,4.0,No
+TCK-50576,2025-04-18 08:22,Chat,Medium,Integrations,Tier 1,10.0,33.5,4.0,No
+TCK-51146,2025-04-18 12:36,Chat,Low,Payments,Tier 1,33.0,5.3,,No
+TCK-51241,2025-04-18 15:26,Email,Low,Login & Access,Tier 1,38.0,5.4,,No
+TCK-50321,2025-04-18 18:08,Web form,High,Reporting,Specialists,23.0,12.5,5.0,No
+TCK-50178,2025-04-18 20:21,Email,Low,Reporting,Tier 1,20.0,12.8,4.0,No
+TCK-51159,2025-04-18 23:13,Email,Urgent,Payments,Tier 2,89.0,19.3,,No
+TCK-51331,2025-04-19 02:19,Email,Low,Mobile App,Tier 1,52.0,20.2,4.0,No
+TCK-50475,2025-04-19 03:51,Chat,Medium,Mobile App,Tier 1,72.0,19.7,3.0,No
+TCK-50139,2025-04-19 05:39,Email,Urgent,Billing,Specialists,75.0,17.0,5.0,No
+TCK-50505,2025-04-19 05:57,Phone,Low,Billing,Tier 1,23.0,11.3,,No
+TCK-50041,2025-04-19 07:20,Email,Medium,Billing,Tier 2,35.0,12.8,4.0,No
+TCK-50404,2025-04-19 13:20,Email,Medium,Login & Access,Tier 1,24.0,11.8,,No
+TCK-50671,2025-04-19 17:42,Phone,High,Mobile App,Specialists,3.0,22.1,3.0,No
+TCK-51092,2025-04-19 20:01,Email,Low,Login & Access,Tier 1,42.0,8.7,5.0,No
+TCK-50826,2025-04-20 00:02,Chat,Low,Mobile App,Tier 2,82.0,8.5,,No
+TCK-50270,2025-04-20 03:31,Email,Low,Payments,Tier 1,13.0,27.4,4.0,No
+TCK-51114,2025-04-20 04:02,Chat,Medium,Reporting,Tier 1,14.0,5.7,5.0,No
+TCK-51321,2025-04-20 06:24,Chat,Medium,Billing,Tier 1,41.0,3.7,3.0,No
+TCK-50883,2025-04-20 21:11,Web form,Low,Payments,Tier 1,16.0,20.8,3.0,No
+TCK-50992,2025-04-21 04:26,Email,Low,Login & Access,Tier 1,64.0,3.3,,Yes
+TCK-50007,2025-04-21 13:44,Web form,Medium,Login & Access,Tier 1,9.0,18.0,,No
+TCK-50110,2025-04-21 16:10,Email,High,Mobile App,Specialists,41.0,29.4,3.0,No
+TCK-50828,2025-04-21 18:23,Chat,High,Integrations,Tier 2,10.0,17.2,4.0,No
+TCK-50251,2025-04-21 20:25,Email,Medium,Reporting,Tier 1,29.0,22.5,4.0,No
+TCK-50994,2025-04-21 23:41,Web form,Low,Mobile App,Tier 1,34.0,18.9,,No
+TCK-50701,2025-04-22 00:34,Chat,Low,Billing,Tier 1,70.0,10.3,3.0,No
+TCK-51302,2025-04-22 10:14,Chat,Medium,Billing,Tier 1,53.0,3.0,,No
+TCK-51242,2025-04-22 10:38,Email,Urgent,Mobile App,Specialists,26.0,10.0,3.0,Yes
+TCK-50250,2025-04-22 19:41,Chat,Medium,Reporting,Tier 1,29.0,1.6,3.0,No
+TCK-50749,2025-04-22 19:44,Web form,Urgent,Payments,Specialists,67.0,2.7,,No
+TCK-50566,2025-04-22 21:37,Email,Medium,Mobile App,Tier 1,52.0,15.5,,No
+TCK-51102,2025-04-23 02:57,Chat,Low,Payments,Tier 1,29.0,6.6,5.0,No
+TCK-51060,2025-04-23 06:38,Phone,High,Login & Access,Specialists,10.0,18.8,3.0,No
+TCK-51364,2025-04-23 13:05,Chat,Medium,Reporting,Tier 1,45.0,3.7,5.0,No
+TCK-51392,2025-04-23 13:24,Chat,High,Payments,Tier 2,34.0,13.2,5.0,No
+TCK-50342,2025-04-23 16:21,Chat,Low,Reporting,Tier 1,6.0,3.8,5.0,Yes
+TCK-50832,2025-04-23 22:58,Chat,High,Payments,Tier 2,20.0,18.0,5.0,Yes
+TCK-50769,2025-04-24 04:04,Web form,Medium,Billing,Tier 2,45.0,9.5,4.0,No
+TCK-50412,2025-04-24 05:57,Chat,Low,Integrations,Tier 1,46.0,20.7,3.0,No
+TCK-50406,2025-04-24 06:28,Email,Low,Payments,Tier 2,57.0,19.4,,No
+TCK-50179,2025-04-24 20:13,Phone,Medium,Integrations,Tier 1,14.0,44.3,3.0,No
+TCK-50131,2025-04-24 20:38,Phone,Medium,Payments,Tier 1,11.0,18.6,,No
+TCK-50748,2025-04-25 19:24,Email,Medium,Mobile App,Tier 1,57.0,31.2,,No
+TCK-50384,2025-04-25 20:56,Phone,Medium,Integrations,Tier 1,11.0,83.7,1.0,Yes
+TCK-50094,2025-04-25 23:41,Email,Medium,Login & Access,Tier 1,27.0,10.9,5.0,No
+TCK-51032,2025-04-26 01:29,Email,High,Mobile App,Specialists,21.0,17.6,4.0,Yes
+TCK-50164,2025-04-26 04:58,Email,High,Billing,Specialists,130.0,15.0,4.0,No
+TCK-51233,2025-04-26 05:08,Chat,Medium,Login & Access,Tier 1,49.0,1.4,,No
+TCK-51037,2025-04-26 08:54,Email,Low,Billing,Tier 1,74.0,10.6,5.0,No
+TCK-50974,2025-04-26 10:55,Chat,Medium,Login & Access,Tier 1,49.0,2.1,,No
+TCK-50697,2025-04-26 11:10,Web form,Medium,Integrations,Tier 2,64.0,7.8,5.0,Yes
+TCK-50507,2025-04-26 15:45,Web form,Low,Mobile App,Tier 2,2.0,8.0,4.0,No
+TCK-50063,2025-04-26 16:20,Chat,Low,Mobile App,Tier 1,65.0,4.2,3.0,No
+TCK-50964,2025-04-26 17:47,Phone,Medium,Mobile App,Tier 2,4.0,75.0,,No
+TCK-50686,2025-04-26 17:50,Chat,Low,Mobile App,Tier 1,101.0,6.9,4.0,No
+TCK-50294,2025-04-26 19:41,Web form,Low,Payments,Tier 1,12.0,17.3,4.0,No
+TCK-50379,2025-04-26 22:08,Chat,Low,Billing,Tier 2,15.0,10.9,5.0,No
+TCK-51449,2025-04-27 03:21,Web form,Low,Billing,Tier 1,14.0,23.9,4.0,No
+TCK-50954,2025-04-27 07:04,Email,Low,Login & Access,Tier 1,28.0,8.8,,No
+TCK-51494,2025-04-27 07:23,Chat,Medium,Payments,Tier 1,3.0,7.2,5.0,No
+TCK-50301,2025-04-27 11:29,Email,Medium,Mobile App,Tier 1,44.0,5.5,5.0,No
+TCK-50632,2025-04-27 18:58,Chat,Low,Login & Access,Tier 2,39.0,1.1,5.0,No
+TCK-50377,2025-04-27 21:12,Email,Low,Billing,Tier 1,82.0,47.2,3.0,No
+TCK-50483,2025-04-27 21:14,Chat,Urgent,Integrations,Tier 2,22.0,11.5,4.0,No
+TCK-50694,2025-04-27 21:22,Web form,Medium,Login & Access,Tier 2,30.0,12.0,5.0,No
+TCK-50740,2025-04-27 21:57,Email,Medium,Login & Access,Tier 1,50.0,7.4,4.0,No
+TCK-50025,2025-04-28 08:45,Chat,Medium,Billing,Tier 2,61.0,1.8,,No
+TCK-51061,2025-04-28 16:41,Chat,Low,Payments,Tier 1,45.0,8.8,3.0,No
+TCK-50650,2025-04-28 17:13,Email,Medium,Mobile App,Tier 2,7.0,17.0,4.0,No
+TCK-51093,2025-04-28 20:31,Chat,Medium,Mobile App,Tier 2,3.0,11.4,,No
+TCK-51045,2025-04-29 02:42,Chat,Medium,Reporting,Tier 1,85.0,6.1,5.0,No
+TCK-50676,2025-04-29 06:20,Email,Medium,Login & Access,Tier 1,19.0,4.6,,No
+TCK-50376,2025-04-29 07:13,Chat,High,Reporting,Tier 2,13.0,5.3,5.0,No
+TCK-51196,2025-04-29 16:30,Web form,Low,Billing,Tier 1,60.0,7.9,4.0,No
+TCK-50722,2025-04-29 17:23,Web form,Low,Login & Access,Tier 1,43.0,9.3,5.0,No
+TCK-51490,2025-04-29 20:37,Web form,Medium,Payments,Tier 1,10.0,19.0,5.0,No
+TCK-50448,2025-04-30 06:19,Chat,Medium,Billing,Tier 2,27.0,4.0,5.0,No
+TCK-51192,2025-04-30 11:35,Email,High,Integrations,Tier 2,67.0,6.2,5.0,No
+TCK-51371,2025-04-30 16:02,Phone,Medium,Mobile App,Tier 2,22.0,8.6,,No
+TCK-50721,2025-04-30 21:11,Email,High,Payments,Specialists,75.0,2.0,5.0,No
+TCK-50573,2025-04-30 23:14,Phone,Medium,Mobile App,Tier 2,3.0,8.8,,No
+TCK-50060,2025-04-30 23:25,Phone,Low,Integrations,Tier 2,16.0,14.3,,No
+TCK-50983,2025-05-01 02:53,Web form,Low,Mobile App,Tier 1,11.0,8.6,5.0,No
+TCK-51243,2025-05-01 06:37,Chat,Low,Payments,Tier 1,100.0,4.8,,No
+TCK-50081,2025-05-01 06:43,Email,Urgent,Login & Access,Specialists,27.0,9.8,3.0,No
+TCK-51247,2025-05-01 11:53,Email,Low,Reporting,Tier 1,19.0,19.5,4.0,No
+TCK-50535,2025-05-01 15:46,Email,Medium,Reporting,Tier 2,27.0,5.0,5.0,No
+TCK-51129,2025-05-01 17:56,Email,High,Billing,Specialists,57.0,25.5,,No
+TCK-51431,2025-05-01 20:10,Phone,Low,Integrations,Tier 1,10.0,17.9,,No
+TCK-51042,2025-05-01 21:13,Chat,Medium,Integrations,Tier 1,31.0,2.0,,No
+TCK-51212,2025-05-02 01:43,Chat,Medium,Billing,Tier 1,46.0,14.0,5.0,No
+TCK-51323,2025-05-02 01:59,Email,Urgent,Mobile App,Tier 2,43.0,26.9,,No
+TCK-50267,2025-05-02 04:17,Email,Medium,Mobile App,Tier 1,92.0,1.1,,No
+TCK-51337,2025-05-02 12:19,Web form,Medium,Login & Access,Tier 1,44.0,1.8,5.0,No
+TCK-51267,2025-05-02 19:18,Chat,Low,Integrations,Tier 1,41.0,23.3,4.0,No
+TCK-51166,2025-05-03 08:04,Email,High,Payments,Specialists,32.0,1.8,5.0,No
+TCK-51002,2025-05-03 15:25,Web form,High,Integrations,Tier 2,118.0,34.9,,No
+TCK-51219,2025-05-03 18:11,Email,Medium,Payments,Tier 2,32.0,13.3,5.0,No
+TCK-50023,2025-05-03 18:13,Email,Medium,Payments,Tier 1,27.0,13.9,4.0,No
+TCK-51307,2025-05-03 19:38,Email,Medium,Reporting,Tier 1,165.0,3.8,4.0,No
+TCK-50808,2025-05-03 23:09,Phone,Urgent,Login & Access,Tier 2,1.0,11.4,4.0,No
+TCK-50214,2025-05-04 00:39,Chat,Low,Billing,Tier 1,27.0,12.6,4.0,No
+TCK-50572,2025-05-04 04:42,Email,Medium,Billing,Tier 1,52.0,5.2,,No
+TCK-50158,2025-05-04 07:34,Phone,High,Billing,Specialists,15.0,5.4,,No
+TCK-50978,2025-05-04 09:03,Email,Medium,Login & Access,Tier 1,120.0,5.0,5.0,No
+TCK-51082,2025-05-04 11:11,Email,Low,Mobile App,Tier 1,15.0,24.7,4.0,No
+TCK-50817,2025-05-04 13:26,Email,Medium,Reporting,Tier 2,55.0,10.6,5.0,No
+TCK-50725,2025-05-04 19:06,Phone,Medium,Mobile App,Tier 1,3.0,10.3,4.0,No
+TCK-51111,2025-05-04 21:11,Email,High,Integrations,Specialists,23.0,28.3,4.0,Yes
+TCK-50886,2025-05-05 03:29,Chat,Medium,Payments,Tier 1,97.0,3.7,4.0,Yes
+TCK-50010,2025-05-05 06:43,Email,High,Login & Access,Tier 2,57.0,1.1,5.0,No
+TCK-50946,2025-05-05 12:59,Chat,Low,Mobile App,Tier 2,12.0,2.1,,No
+TCK-51315,2025-05-05 22:53,Web form,Low,Mobile App,Tier 1,27.0,3.1,5.0,No
+TCK-51372,2025-05-06 04:40,Email,Low,Payments,Tier 1,32.0,11.3,4.0,Yes
+TCK-51057,2025-05-06 05:06,Chat,Medium,Billing,Tier 1,32.0,2.5,5.0,No
+TCK-50692,2025-05-06 10:44,Email,Low,Integrations,Tier 1,47.0,5.4,5.0,No
+TCK-50914,2025-05-06 14:55,Chat,Low,Billing,Tier 1,55.0,5.2,,No
+TCK-51046,2025-05-06 16:40,Web form,Low,Billing,Tier 1,9.0,14.7,5.0,No
+TCK-50961,2025-05-07 00:21,Chat,Medium,Mobile App,Tier 1,21.0,15.1,3.0,Yes
+TCK-50963,2025-05-07 01:54,Chat,Low,Mobile App,Tier 2,21.0,14.9,5.0,No
+TCK-51281,2025-05-07 01:59,Phone,Medium,Billing,Tier 1,9.0,13.3,5.0,No
+TCK-50806,2025-05-07 07:41,Chat,Low,Reporting,Tier 1,42.0,5.6,5.0,No
+TCK-50782,2025-05-07 15:34,Phone,Low,Payments,Tier 1,5.0,12.0,,No
+TCK-50504,2025-05-07 18:44,Phone,Low,Integrations,Tier 1,12.0,20.0,5.0,Yes
+TCK-50370,2025-05-08 01:10,Email,Urgent,Reporting,Specialists,21.0,4.2,5.0,No
+TCK-50312,2025-05-08 06:53,Phone,High,Integrations,Specialists,22.0,5.1,3.0,No
+TCK-50322,2025-05-08 14:17,Chat,High,Mobile App,Specialists,45.0,13.0,,No
+TCK-50519,2025-05-08 15:07,Phone,High,Mobile App,Specialists,12.0,32.6,4.0,No
+TCK-50009,2025-05-08 17:42,Web form,Low,Mobile App,Tier 1,108.0,13.0,5.0,Yes
+TCK-50143,2025-05-08 19:06,Chat,Medium,Login & Access,Tier 1,47.0,4.4,5.0,Yes
+TCK-50426,2025-05-09 00:10,Email,High,Billing,Specialists,22.0,6.7,4.0,No
+TCK-51016,2025-05-09 01:25,Web form,High,Payments,Tier 2,26.0,13.1,4.0,No
+TCK-50789,2025-05-09 01:50,Email,Low,Billing,Tier 1,33.0,8.4,,No
+TCK-50430,2025-05-09 07:11,Chat,Low,Mobile App,Tier 2,35.0,7.6,3.0,No
+TCK-50021,2025-05-09 09:27,Chat,Low,Integrations,Tier 1,15.0,9.4,5.0,No
+TCK-51213,2025-05-09 14:20,Chat,High,Mobile App,Tier 2,43.0,4.3,,No
+TCK-50436,2025-05-09 20:12,Email,Low,Billing,Tier 1,13.0,19.4,,No
+TCK-51317,2025-05-09 22:58,Chat,Low,Payments,Tier 1,87.0,2.3,,No
+TCK-50386,2025-05-10 00:59,Chat,Low,Billing,Tier 1,6.0,4.9,5.0,No
+TCK-50500,2025-05-10 01:38,Web form,Urgent,Integrations,Tier 2,72.0,26.5,4.0,No
+TCK-51059,2025-05-10 01:53,Web form,Medium,Integrations,Tier 2,17.0,23.8,4.0,No
+TCK-50537,2025-05-10 04:01,Email,High,Payments,Tier 2,21.0,18.1,4.0,No
+TCK-50337,2025-05-10 05:24,Email,High,Mobile App,Tier 2,25.0,6.3,5.0,No
+TCK-50228,2025-05-10 10:51,Email,High,Login & Access,Specialists,23.0,6.0,3.0,No
+TCK-50550,2025-05-10 17:08,Phone,High,Login & Access,Tier 2,12.0,8.1,5.0,No
+TCK-50306,2025-05-10 23:48,Chat,Medium,Mobile App,Tier 1,51.0,10.3,4.0,No
+TCK-50260,2025-05-11 00:33,Chat,High,Integrations,Specialists,99.0,15.3,4.0,No
+TCK-50395,2025-05-11 02:53,Email,Medium,Mobile App,Tier 1,31.0,14.8,5.0,No
+TCK-50986,2025-05-11 04:08,Email,Urgent,Login & Access,Specialists,66.0,5.8,5.0,No
+TCK-51491,2025-05-11 04:51,Web form,High,Login & Access,Tier 2,8.0,0.7,5.0,No
+TCK-50683,2025-05-11 12:01,Chat,Medium,Reporting,Tier 1,77.0,13.3,4.0,No
+TCK-50600,2025-05-11 12:31,Email,Low,Integrations,Tier 1,73.0,26.4,,No
+TCK-51273,2025-05-11 15:07,Phone,Low,Billing,Tier 1,2.0,23.0,5.0,Yes
+TCK-50995,2025-05-11 16:03,Email,Low,Payments,Tier 1,15.0,8.3,5.0,No
+TCK-50431,2025-05-11 20:12,Email,Medium,Login & Access,Tier 1,37.0,11.2,5.0,No
+TCK-50681,2025-05-11 20:42,Chat,Medium,Billing,Tier 2,21.0,7.1,,No
+TCK-50464,2025-05-11 23:57,Phone,Medium,Integrations,Tier 2,7.0,25.4,1.0,Yes
+TCK-51252,2025-05-12 00:53,Chat,Urgent,Integrations,Specialists,61.0,7.7,,No
+TCK-51167,2025-05-12 04:20,Email,Low,Integrations,Tier 2,60.0,6.6,5.0,No
+TCK-50763,2025-05-12 05:10,Email,Medium,Payments,Tier 1,75.0,9.5,,No
+TCK-51428,2025-05-12 11:33,Chat,Medium,Reporting,Tier 1,20.0,6.0,5.0,No
+TCK-51019,2025-05-12 11:49,Web form,Medium,Reporting,Tier 1,34.0,7.7,,No
+TCK-50984,2025-05-12 15:54,Email,Low,Mobile App,Tier 2,26.0,18.4,3.0,No
+TCK-50423,2025-05-12 19:44,Chat,Urgent,Integrations,Tier 2,79.0,16.0,4.0,No
+TCK-51381,2025-05-13 06:07,Email,High,Billing,Specialists,12.0,16.9,4.0,No
+TCK-51075,2025-05-13 14:34,Chat,Low,Integrations,Tier 1,27.0,11.1,5.0,No
+TCK-50970,2025-05-13 16:12,Web form,High,Login & Access,Specialists,68.0,10.9,4.0,No
+TCK-50189,2025-05-13 18:36,Email,High,Mobile App,Specialists,14.0,33.5,,No
+TCK-50608,2025-05-13 20:11,Chat,Low,Mobile App,Tier 1,44.0,9.1,4.0,Yes
+TCK-50109,2025-05-13 23:24,Chat,Low,Billing,Tier 1,18.0,7.9,5.0,No
+TCK-51399,2025-05-14 02:39,Chat,High,Integrations,Tier 2,78.0,9.9,5.0,No
+TCK-50882,2025-05-14 05:36,Chat,Medium,Payments,Tier 1,47.0,5.9,,No
+TCK-51298,2025-05-14 14:28,Phone,Low,Reporting,Tier 1,11.0,10.2,4.0,Yes
+TCK-50461,2025-05-14 22:06,Chat,Medium,Billing,Tier 1,16.0,17.5,,Yes
+TCK-50790,2025-05-15 02:06,Web form,Medium,Login & Access,Tier 1,30.0,21.1,,No
+TCK-50801,2025-05-15 10:34,Chat,Medium,Mobile App,Tier 1,116.0,30.2,2.0,No
+TCK-50509,2025-05-15 12:52,Email,Medium,Integrations,Tier 1,22.0,15.0,4.0,No
+TCK-51168,2025-05-15 17:33,Chat,Low,Billing,Tier 1,76.0,19.1,4.0,No
+TCK-51150,2025-05-15 20:06,Chat,High,Login & Access,Tier 2,27.0,8.9,4.0,No
+TCK-51459,2025-05-16 02:58,Chat,Low,Billing,Tier 1,113.0,8.0,,No
+TCK-50313,2025-05-16 04:25,Email,Low,Payments,Tier 1,26.0,13.5,4.0,No
+TCK-50562,2025-05-16 08:32,Chat,Low,Billing,Tier 1,25.0,5.2,5.0,No
+TCK-50835,2025-05-16 17:34,Chat,Urgent,Billing,Specialists,73.0,13.1,4.0,No
+TCK-50982,2025-05-16 17:59,Email,Medium,Reporting,Tier 1,21.0,9.8,,No
+TCK-51189,2025-05-16 21:09,Chat,High,Payments,Tier 2,17.0,5.6,4.0,No
+TCK-51205,2025-05-17 02:25,Chat,High,Login & Access,Specialists,33.0,5.3,,No
+TCK-50764,2025-05-17 08:20,Phone,Low,Login & Access,Tier 2,4.0,8.1,,No
+TCK-50927,2025-05-17 09:49,Phone,Low,Login & Access,Tier 1,22.0,8.3,4.0,No
+TCK-50421,2025-05-17 13:16,Chat,Low,Reporting,Tier 1,0.0,6.2,5.0,Yes
+TCK-50644,2025-05-17 13:23,Chat,Medium,Mobile App,Tier 1,19.0,12.1,5.0,No
+TCK-50788,2025-05-17 14:49,Email,High,Mobile App,Specialists,50.0,17.9,3.0,No
+TCK-50742,2025-05-17 17:38,Email,Medium,Mobile App,Tier 1,79.0,9.2,,No
+TCK-50265,2025-05-17 21:00,Chat,Low,Billing,Tier 1,63.0,0.6,5.0,No
+TCK-50614,2025-05-17 22:25,Web form,High,Login & Access,Specialists,44.0,34.7,2.0,No
+TCK-50038,2025-05-18 02:16,Chat,Medium,Billing,Tier 1,73.0,10.5,4.0,No
+TCK-50022,2025-05-18 05:27,Phone,Medium,Login & Access,Tier 1,9.0,5.3,4.0,No
+TCK-50618,2025-05-18 09:08,Chat,Medium,Mobile App,Tier 1,36.0,9.0,5.0,Yes
+TCK-50960,2025-05-18 15:29,Email,High,Mobile App,Tier 2,87.0,8.8,,No
+TCK-51091,2025-05-18 17:44,Web form,Low,Payments,Tier 1,84.0,15.1,4.0,No
+TCK-50211,2025-05-18 19:46,Web form,Low,Payments,Tier 1,5.0,15.5,4.0,No
+TCK-50514,2025-05-18 21:22,Chat,Low,Integrations,Tier 1,96.0,24.1,,No
+TCK-50259,2025-05-19 05:57,Phone,Urgent,Reporting,Specialists,11.0,7.0,,No
+TCK-51056,2025-05-19 06:05,Email,Low,Login & Access,Tier 1,54.0,9.7,5.0,No
+TCK-50470,2025-05-19 10:45,Web form,Medium,Payments,Tier 1,10.0,10.2,5.0,No
+TCK-51352,2025-05-19 18:19,Email,High,Billing,Tier 2,48.0,6.5,5.0,No
+TCK-51258,2025-05-19 22:03,Chat,Urgent,Login & Access,Tier 2,27.0,7.8,5.0,No
+TCK-50969,2025-05-20 17:37,Email,High,Login & Access,Tier 2,26.0,5.9,5.0,No
+TCK-51481,2025-05-20 23:27,Email,Low,Login & Access,Tier 2,25.0,21.2,4.0,Yes
+TCK-50217,2025-05-21 09:21,Email,Low,Mobile App,Tier 1,23.0,46.1,1.0,No
+TCK-51228,2025-05-21 15:32,Email,Medium,Mobile App,Tier 2,52.0,1.2,4.0,Yes
+TCK-51332,2025-05-21 18:25,Chat,Urgent,Payments,Tier 2,42.0,12.5,5.0,No
+TCK-51156,2025-05-21 22:49,Web form,Low,Mobile App,Tier 2,30.0,25.5,3.0,No
+TCK-50130,2025-05-21 23:32,Email,Medium,Integrations,Tier 1,28.0,12.5,,No
+TCK-51108,2025-05-22 07:24,Chat,Low,Integrations,Tier 1,48.0,5.8,5.0,No
+TCK-50101,2025-05-22 17:30,Email,High,Login & Access,Tier 2,85.0,4.5,5.0,No
+TCK-50460,2025-05-22 19:48,Phone,Low,Reporting,Tier 1,6.0,20.8,,No
+TCK-51038,2025-05-23 02:13,Email,Medium,Login & Access,Tier 1,42.0,2.2,5.0,No
+TCK-50255,2025-05-23 03:44,Web form,High,Mobile App,Tier 2,55.0,2.4,4.0,No
+TCK-50634,2025-05-23 05:03,Chat,High,Integrations,Tier 2,27.0,8.6,,No
+TCK-50906,2025-05-24 00:00,Chat,Medium,Mobile App,Tier 1,36.0,4.5,,Yes
+TCK-51276,2025-05-24 04:24,Phone,Low,Billing,Tier 1,5.0,9.7,5.0,No
+TCK-51365,2025-05-24 12:03,Phone,Medium,Mobile App,Tier 1,9.0,13.5,2.0,No
+TCK-50073,2025-05-24 14:58,Chat,Low,Mobile App,Tier 1,59.0,9.1,2.0,No
+TCK-50563,2025-05-24 21:32,Phone,Low,Payments,Tier 1,5.0,12.9,5.0,No
+TCK-50973,2025-05-25 02:27,Email,Medium,Billing,Tier 1,80.0,29.5,3.0,No
+TCK-50501,2025-05-25 02:59,Phone,Low,Billing,Tier 1,20.0,19.8,5.0,No
+TCK-50195,2025-05-25 05:31,Chat,Low,Billing,Tier 1,36.0,6.4,5.0,Yes
+TCK-51433,2025-05-25 06:03,Email,Low,Integrations,Tier 1,12.0,12.5,4.0,No
+TCK-51013,2025-05-25 11:57,Email,High,Mobile App,Tier 2,51.0,28.3,4.0,No
+TCK-50288,2025-05-25 17:41,Email,Medium,Integrations,Tier 1,7.0,13.4,5.0,No
+TCK-50648,2025-05-25 18:09,Email,Low,Billing,Tier 1,38.0,2.8,5.0,No
+TCK-50549,2025-05-25 23:03,Email,High,Reporting,Tier 2,105.0,4.5,5.0,No
+TCK-51176,2025-05-25 23:55,Email,High,Login & Access,Tier 2,13.0,4.2,5.0,No
+TCK-50336,2025-05-26 00:55,Email,High,Billing,Specialists,15.0,6.6,,No
+TCK-50175,2025-05-26 04:04,Email,Low,Billing,Tier 1,41.0,11.5,4.0,No
+TCK-50932,2025-05-26 04:48,Phone,Low,Payments,Tier 1,5.0,18.9,5.0,No
+TCK-51041,2025-05-26 05:55,Chat,High,Mobile App,Tier 2,32.0,1.2,4.0,No
+TCK-50410,2025-05-26 06:45,Email,Low,Reporting,Tier 1,10.0,25.8,5.0,No
+TCK-50499,2025-05-26 07:11,Email,Low,Login & Access,Tier 1,24.0,5.6,4.0,No
+TCK-50981,2025-05-26 08:45,Email,Low,Integrations,Tier 2,12.0,9.1,,No
+TCK-50168,2025-05-26 08:55,Email,High,Login & Access,Specialists,49.0,1.6,5.0,No
+TCK-51078,2025-05-26 13:13,Email,Medium,Login & Access,Tier 1,39.0,6.3,3.0,No
+TCK-50613,2025-05-26 14:28,Email,Medium,Integrations,Tier 2,49.0,7.5,4.0,No
+TCK-51289,2025-05-26 14:55,Web form,Medium,Reporting,Tier 1,80.0,1.6,,No
+TCK-51224,2025-05-26 15:18,Email,Low,Integrations,Tier 1,20.0,20.4,,No
+TCK-50956,2025-05-26 19:57,Phone,High,Reporting,Specialists,4.0,17.7,4.0,No
+TCK-50481,2025-05-26 20:44,Web form,High,Login & Access,Specialists,100.0,3.6,5.0,No
+TCK-50062,2025-05-26 21:03,Chat,Low,Integrations,Tier 1,28.0,8.2,5.0,No
+TCK-50115,2025-05-26 21:26,Email,Medium,Billing,Tier 2,69.0,20.8,,No
+TCK-50919,2025-05-27 02:50,Email,High,Login & Access,Tier 2,69.0,12.5,,No
+TCK-50491,2025-05-27 03:41,Email,Low,Billing,Tier 1,47.0,11.2,,No
+TCK-50931,2025-05-27 05:46,Email,Medium,Reporting,Tier 1,56.0,9.9,5.0,No
+TCK-50629,2025-05-27 08:30,Email,High,Payments,Tier 2,32.0,12.7,5.0,No
+TCK-51190,2025-05-27 09:06,Chat,Medium,Mobile App,Tier 1,33.0,27.1,3.0,No
+TCK-50112,2025-05-27 09:10,Email,Low,Payments,Tier 1,39.0,5.9,5.0,No
+TCK-51314,2025-05-27 10:54,Chat,High,Reporting,Tier 2,63.0,5.4,5.0,No
+TCK-50812,2025-05-27 12:41,Email,Medium,Payments,Tier 1,27.0,3.3,5.0,No
+TCK-51040,2025-05-27 13:38,Chat,Low,Login & Access,Tier 2,11.0,10.0,5.0,No
+TCK-50738,2025-05-27 17:10,Chat,Medium,Reporting,Tier 1,26.0,13.7,4.0,No
+TCK-51370,2025-05-27 17:16,Chat,Urgent,Mobile App,Specialists,40.0,11.0,5.0,No
+TCK-51100,2025-05-27 19:40,Chat,High,Mobile App,Specialists,117.0,30.8,2.0,No
+TCK-51448,2025-05-27 22:36,Email,Low,Billing,Tier 1,17.0,16.4,5.0,No
+TCK-51068,2025-05-28 00:15,Chat,Medium,Integrations,Tier 1,88.0,2.7,,No
+TCK-50446,2025-05-28 09:41,Chat,Low,Login & Access,Tier 2,101.0,5.8,5.0,No
+TCK-51182,2025-05-28 15:41,Web form,Medium,Login & Access,Tier 1,40.0,8.5,,No
+TCK-50635,2025-05-28 17:19,Chat,Low,Login & Access,Tier 2,53.0,10.2,5.0,Yes
+TCK-51295,2025-05-28 17:38,Web form,Low,Login & Access,Tier 1,35.0,16.7,4.0,No
+TCK-50623,2025-05-28 17:48,Phone,Low,Login & Access,Tier 1,3.0,6.7,,No
+TCK-50107,2025-05-28 18:25,Chat,High,Integrations,Specialists,21.0,22.4,4.0,No
+TCK-50682,2025-05-29 06:14,Email,High,Reporting,Specialists,27.0,6.8,4.0,No
+TCK-50943,2025-05-29 06:19,Email,Medium,Integrations,Tier 1,28.0,46.2,2.0,Yes
+TCK-51385,2025-05-29 19:32,Chat,Low,Payments,Tier 1,53.0,31.0,4.0,No
+TCK-50118,2025-05-29 19:46,Phone,Urgent,Billing,Tier 2,7.0,8.5,,No
+TCK-51344,2025-05-30 02:23,Chat,Low,Billing,Tier 1,9.0,7.5,5.0,No
+TCK-50796,2025-05-30 05:58,Email,Medium,Login & Access,Tier 1,3.0,12.6,5.0,No
+TCK-50699,2025-05-30 06:01,Chat,Urgent,Payments,Tier 2,35.0,9.5,3.0,No
+TCK-50258,2025-05-30 09:46,Chat,Low,Billing,Tier 1,17.0,9.3,5.0,No
+TCK-50599,2025-05-30 11:01,Phone,High,Payments,Tier 2,35.0,11.7,5.0,No
+TCK-51194,2025-05-30 13:46,Email,Medium,Integrations,Tier 1,28.0,11.5,4.0,No
+TCK-51088,2025-05-30 13:54,Email,Low,Login & Access,Tier 1,36.0,14.4,,No
+TCK-50733,2025-05-30 14:14,Chat,High,Billing,Tier 2,27.0,8.1,4.0,No
+TCK-50915,2025-05-30 16:52,Chat,Low,Mobile App,Tier 2,12.0,6.2,4.0,No
+TCK-51062,2025-05-30 18:16,Chat,Medium,Mobile App,Tier 1,87.0,12.4,3.0,No
+TCK-50315,2025-05-31 04:55,Chat,Low,Mobile App,Tier 1,109.0,12.2,4.0,No
+TCK-51118,2025-05-31 17:21,Email,High,Mobile App,Specialists,32.0,14.8,4.0,No
+TCK-50114,2025-05-31 19:53,Email,High,Login & Access,Specialists,28.0,8.0,5.0,No
+TCK-50866,2025-06-01 02:58,Email,High,Reporting,Tier 2,87.0,16.0,4.0,Yes
+TCK-50133,2025-06-01 04:07,Chat,Medium,Login & Access,Tier 1,72.0,5.1,4.0,No
+TCK-51429,2025-06-01 06:59,Phone,High,Integrations,Tier 2,12.0,38.4,,No
+TCK-51227,2025-06-01 08:16,Web form,Low,Login & Access,Tier 2,43.0,9.8,4.0,No
+TCK-51382,2025-06-01 10:30,Email,High,Mobile App,Tier 2,46.0,10.1,4.0,No
+TCK-50590,2025-06-01 19:35,Chat,High,Login & Access,Tier 2,14.0,2.9,5.0,No
+TCK-50136,2025-06-01 23:57,Chat,Medium,Billing,Tier 1,128.0,13.8,5.0,No
+TCK-50911,2025-06-02 00:05,Chat,Low,Login & Access,Tier 1,16.0,1.4,5.0,No
+TCK-51137,2025-06-02 01:05,Email,Medium,Login & Access,Tier 1,21.0,13.4,,No
+TCK-51436,2025-06-02 14:04,Email,Medium,Reporting,Tier 1,46.0,15.6,4.0,No
+TCK-50855,2025-06-02 16:15,Chat,Medium,Login & Access,Tier 1,33.0,4.9,5.0,No
+TCK-50177,2025-06-03 02:36,Phone,Low,Mobile App,Tier 1,9.0,33.0,2.0,No
+TCK-50351,2025-06-03 05:41,Chat,Low,Payments,Tier 1,74.0,27.9,3.0,Yes
+TCK-50289,2025-06-03 06:24,Chat,Low,Billing,Tier 1,47.0,7.7,,No
+TCK-50344,2025-06-03 09:10,Phone,Medium,Login & Access,Tier 1,12.0,6.8,,No
+TCK-51430,2025-06-03 09:12,Email,Medium,Login & Access,Tier 1,8.0,8.0,5.0,No
+TCK-50226,2025-06-03 11:38,Web form,Medium,Login & Access,Tier 1,62.0,5.2,,No
+TCK-50829,2025-06-04 01:19,Phone,Low,Integrations,Tier 1,12.0,6.7,4.0,Yes
+TCK-50200,2025-06-04 05:15,Email,Low,Mobile App,Tier 1,35.0,43.1,4.0,Yes
+TCK-50838,2025-06-04 11:33,Chat,Low,Billing,Tier 1,23.0,1.2,5.0,No
+TCK-50910,2025-06-04 12:33,Email,High,Login & Access,Tier 2,14.0,7.6,4.0,No
+TCK-51139,2025-06-04 15:06,Web form,Low,Mobile App,Tier 1,68.0,19.8,4.0,No
+TCK-51312,2025-06-04 15:24,Phone,Low,Billing,Tier 1,10.0,9.9,4.0,No
+TCK-51208,2025-06-04 18:32,Phone,Medium,Reporting,Tier 2,21.0,4.5,3.0,No
+TCK-50237,2025-06-04 22:17,Email,Medium,Login & Access,Tier 1,19.0,13.3,5.0,No
+TCK-50615,2025-06-05 03:03,Web form,Medium,Reporting,Tier 1,56.0,15.6,4.0,No
+TCK-51001,2025-06-05 05:39,Web form,Medium,Integrations,Tier 1,16.0,89.0,1.0,No
+TCK-50957,2025-06-05 07:46,Chat,High,Login & Access,Specialists,11.0,3.2,,No
+TCK-51199,2025-06-05 10:05,Email,Low,Payments,Tier 1,45.0,22.3,,No
+TCK-51065,2025-06-05 20:23,Email,Medium,Integrations,Tier 1,19.0,5.1,5.0,No
+TCK-51250,2025-06-05 21:29,Phone,Medium,Login & Access,Tier 2,35.0,9.7,2.0,No
+TCK-50920,2025-06-06 01:07,Phone,High,Mobile App,Specialists,18.0,15.6,,No
+TCK-51220,2025-06-06 05:34,Chat,Medium,Payments,Tier 1,122.0,21.6,5.0,No
+TCK-50898,2025-06-06 06:22,Email,Medium,Login & Access,Tier 2,25.0,2.4,,No
+TCK-50704,2025-06-06 07:15,Phone,Medium,Login & Access,Tier 2,4.0,11.0,5.0,No
+TCK-50285,2025-06-06 16:51,Email,High,Integrations,Tier 2,34.0,11.6,5.0,No
+TCK-50205,2025-06-07 01:29,Email,Medium,Billing,Tier 2,21.0,5.5,5.0,No
+TCK-51374,2025-06-07 05:55,Email,High,Billing,Specialists,35.0,6.5,5.0,No
+TCK-50295,2025-06-07 11:15,Chat,Low,Login & Access,Tier 1,45.0,12.1,4.0,No
+TCK-50965,2025-06-07 15:22,Phone,Low,Mobile App,Tier 1,4.0,25.1,4.0,No
+TCK-50620,2025-06-08 05:14,Email,Low,Reporting,Tier 1,22.0,0.9,4.0,No
+TCK-50208,2025-06-08 05:41,Web form,High,Mobile App,Specialists,69.0,6.9,3.0,No
+TCK-50827,2025-06-08 06:28,Phone,Low,Mobile App,Tier 2,13.0,15.6,,No
+TCK-50374,2025-06-08 12:13,Phone,Medium,Integrations,Tier 1,7.0,33.9,3.0,No
+TCK-50652,2025-06-08 13:27,Email,Medium,Reporting,Tier 1,83.0,6.5,4.0,No
+TCK-50545,2025-06-08 13:44,Chat,Low,Integrations,Tier 1,17.0,2.1,5.0,No
+TCK-50434,2025-06-08 17:53,Email,Urgent,Integrations,Tier 2,114.0,8.3,5.0,Yes
+TCK-50402,2025-06-09 03:53,Web form,Low,Payments,Tier 2,19.0,74.4,1.0,No
+TCK-51095,2025-06-09 05:10,Web form,Medium,Login & Access,Tier 1,37.0,7.7,5.0,No
+TCK-51477,2025-06-09 05:31,Chat,Urgent,Mobile App,Tier 2,34.0,5.2,4.0,No
+TCK-50814,2025-06-09 11:44,Phone,Medium,Reporting,Tier 1,8.0,7.7,5.0,No
+TCK-50120,2025-06-09 15:25,Chat,Low,Login & Access,Tier 1,30.0,4.2,5.0,No
+TCK-51410,2025-06-09 17:26,Email,Medium,Payments,Tier 1,49.0,3.1,,No
+TCK-50129,2025-06-09 19:57,Chat,High,Integrations,Specialists,53.0,36.5,4.0,Yes
+TCK-51488,2025-06-09 20:51,Email,Medium,Reporting,Tier 1,48.0,20.1,5.0,Yes
+TCK-51101,2025-06-10 01:33,Chat,Urgent,Payments,Specialists,87.0,12.1,,No
+TCK-50058,2025-06-10 01:55,Email,Low,Mobile App,Tier 2,93.0,18.5,4.0,No
+TCK-50756,2025-06-10 07:03,Phone,High,Reporting,Tier 2,5.0,4.0,5.0,No
+TCK-50271,2025-06-10 18:51,Email,Medium,Login & Access,Tier 1,17.0,4.1,5.0,No
+TCK-50048,2025-06-10 20:23,Phone,Urgent,Payments,Tier 2,7.0,19.5,4.0,No
+TCK-50611,2025-06-10 20:36,Email,High,Login & Access,Tier 2,29.0,8.0,5.0,No
+TCK-50027,2025-06-10 22:08,Web form,Low,Payments,Tier 1,21.0,15.2,4.0,No
+TCK-51031,2025-06-10 22:47,Web form,Medium,Login & Access,Tier 1,16.0,8.9,5.0,Yes
+TCK-50122,2025-06-11 01:36,Phone,Medium,Billing,Tier 2,16.0,3.3,,No
+TCK-50663,2025-06-11 04:42,Email,Medium,Login & Access,Tier 2,26.0,9.0,4.0,No
+TCK-50190,2025-06-11 07:15,Email,High,Mobile App,Specialists,31.0,7.7,5.0,No
+TCK-50684,2025-06-11 09:58,Web form,Low,Mobile App,Tier 2,36.0,12.8,3.0,Yes
+TCK-50937,2025-06-11 10:17,Email,Urgent,Mobile App,Specialists,36.0,23.9,3.0,No
+TCK-50971,2025-06-11 10:47,Email,Low,Login & Access,Tier 2,65.0,10.9,5.0,No
+TCK-51215,2025-06-11 11:32,Phone,Low,Billing,Tier 1,9.0,16.2,4.0,No
+TCK-51313,2025-06-11 14:36,Phone,Low,Billing,Tier 1,10.0,9.2,5.0,No
+TCK-51356,2025-06-11 17:20,Chat,Low,Mobile App,Tier 2,31.0,17.8,5.0,No
+TCK-51134,2025-06-12 00:20,Chat,Medium,Mobile App,Tier 1,62.0,34.2,3.0,No
+TCK-50586,2025-06-12 04:51,Chat,Low,Payments,Tier 2,168.0,9.7,5.0,No
+TCK-50873,2025-06-12 16:41,Chat,Medium,Payments,Tier 2,46.0,11.0,4.0,No
+TCK-51377,2025-06-12 18:30,Email,Medium,Reporting,Tier 2,129.0,6.9,,No
+TCK-50552,2025-06-12 19:27,Email,High,Login & Access,Specialists,86.0,3.4,5.0,No
+TCK-50452,2025-06-12 21:20,Phone,Medium,Login & Access,Tier 1,13.0,8.4,5.0,No
+TCK-50836,2025-06-12 22:32,Email,Medium,Reporting,Tier 2,34.0,6.0,5.0,No
+TCK-51330,2025-06-12 23:46,Chat,Low,Login & Access,Tier 1,11.0,2.9,,No
+TCK-50891,2025-06-13 00:46,Email,Low,Mobile App,Tier 1,11.0,12.6,5.0,Yes
+TCK-50668,2025-06-13 01:03,Web form,Low,Billing,Tier 1,54.0,7.4,5.0,No
+TCK-51277,2025-06-13 03:05,Web form,Medium,Billing,Tier 1,41.0,10.9,,No
+TCK-50687,2025-06-13 04:46,Phone,Urgent,Login & Access,Tier 2,12.0,7.5,5.0,No
+TCK-50394,2025-06-13 08:47,Email,Low,Billing,Tier 1,7.0,3.3,3.0,No
+TCK-50334,2025-06-13 10:47,Email,Medium,Billing,Tier 1,18.0,1.0,5.0,No
+TCK-50485,2025-06-13 12:58,Chat,Medium,Billing,Tier 1,27.0,7.6,4.0,No
+TCK-50511,2025-06-13 18:00,Email,Low,Login & Access,Tier 2,106.0,5.5,5.0,No
+TCK-51011,2025-06-13 21:32,Chat,Medium,Login & Access,Tier 2,10.0,19.9,,No
+TCK-51125,2025-06-13 22:07,Email,High,Reporting,Specialists,22.0,5.6,5.0,No
+TCK-51412,2025-06-14 02:47,Email,Urgent,Integrations,Specialists,38.0,33.8,4.0,No
+TCK-50820,2025-06-14 16:35,Chat,Low,Mobile App,Tier 1,39.0,5.5,5.0,No
+TCK-50771,2025-06-15 11:59,Email,Low,Billing,Tier 1,36.0,7.2,5.0,No
+TCK-51329,2025-06-15 15:58,Phone,Low,Mobile App,Tier 2,10.0,26.1,4.0,No
+TCK-51004,2025-06-15 16:06,Chat,Low,Login & Access,Tier 1,51.0,6.6,4.0,No
+TCK-50901,2025-06-15 16:07,Email,Medium,Payments,Tier 2,51.0,28.3,,No
+TCK-50341,2025-06-15 16:15,Chat,Low,Payments,Tier 1,33.0,10.7,,No
+TCK-50466,2025-06-15 16:54,Phone,High,Reporting,Tier 2,8.0,4.8,5.0,No
+TCK-50053,2025-06-15 18:16,Phone,Low,Mobile App,Tier 2,10.0,21.0,,Yes
+TCK-50040,2025-06-15 18:24,Email,High,Integrations,Tier 2,60.0,16.8,5.0,No
+TCK-50921,2025-06-15 20:32,Chat,Low,Login & Access,Tier 1,85.0,0.8,5.0,No
+TCK-50185,2025-06-16 02:38,Web form,Low,Billing,Tier 2,12.0,14.8,,Yes
+TCK-50019,2025-06-16 03:46,Email,Medium,Mobile App,Tier 2,49.0,6.4,,No
+TCK-50414,2025-06-16 04:59,Email,Low,Billing,Tier 1,12.0,8.3,5.0,No
+TCK-50853,2025-06-16 07:48,Chat,High,Login & Access,Specialists,53.0,1.8,,No
+TCK-51309,2025-06-16 11:11,Email,Low,Mobile App,Tier 2,47.0,24.9,4.0,No
+TCK-50320,2025-06-16 12:13,Web form,Low,Mobile App,Tier 2,26.0,13.4,5.0,Yes
+TCK-51463,2025-06-16 12:33,Chat,Medium,Reporting,Tier 2,28.0,3.6,,Yes
+TCK-51375,2025-06-16 12:40,Email,High,Billing,Tier 2,24.0,15.1,,No
+TCK-51140,2025-06-16 18:23,Phone,Medium,Payments,Tier 1,37.0,6.2,4.0,No
+TCK-50677,2025-06-17 09:49,Email,Medium,Mobile App,Tier 1,23.0,11.1,,No
+TCK-50092,2025-06-17 10:25,Chat,Medium,Mobile App,Tier 1,72.0,2.6,,No
+TCK-51007,2025-06-17 11:18,Email,Medium,Billing,Tier 1,18.0,3.2,5.0,Yes
+TCK-51349,2025-06-17 13:56,Chat,High,Billing,Tier 2,22.0,10.2,,No
+TCK-51121,2025-06-17 15:01,Chat,Medium,Payments,Tier 1,19.0,2.4,,No
+TCK-50854,2025-06-17 19:54,Email,Medium,Login & Access,Tier 2,23.0,12.7,,No
+TCK-50616,2025-06-18 02:37,Chat,Low,Billing,Tier 2,33.0,13.4,,No
+TCK-51047,2025-06-18 03:02,Email,High,Integrations,Specialists,58.0,59.1,1.0,No
+TCK-50188,2025-06-18 06:36,Chat,Medium,Billing,Tier 1,6.0,4.8,4.0,Yes
+TCK-51476,2025-06-18 07:57,Email,Low,Login & Access,Tier 2,39.0,6.4,5.0,No
+TCK-50028,2025-06-18 11:54,Chat,High,Integrations,Specialists,35.0,11.4,5.0,Yes
+TCK-50331,2025-06-18 17:39,Chat,Medium,Billing,Tier 1,11.0,4.1,5.0,No
+TCK-50730,2025-06-19 01:59,Email,Medium,Billing,Tier 2,27.0,6.9,5.0,No
+TCK-50152,2025-06-19 12:54,Chat,Medium,Integrations,Tier 2,67.0,6.0,4.0,No
+TCK-51496,2025-06-19 13:40,Email,Medium,Integrations,Tier 2,22.0,12.0,4.0,No
+TCK-50715,2025-06-19 21:23,Email,Low,Login & Access,Tier 1,68.0,23.8,4.0,No
+TCK-50244,2025-06-20 03:26,Chat,Medium,Integrations,Tier 1,46.0,40.5,3.0,No
+TCK-50540,2025-06-20 03:32,Chat,Low,Mobile App,Tier 1,36.0,2.0,5.0,No
+TCK-51471,2025-06-20 12:42,Web form,Medium,Mobile App,Tier 1,37.0,12.1,4.0,No
+TCK-51079,2025-06-20 18:28,Email,Low,Mobile App,Tier 1,7.0,5.0,,No
+TCK-51306,2025-06-20 22:18,Email,Medium,Login & Access,Tier 2,27.0,16.6,,No
+TCK-51362,2025-06-20 22:27,Email,Urgent,Reporting,Tier 2,67.0,5.3,,No
+TCK-50074,2025-06-20 23:37,Phone,High,Payments,Tier 2,11.0,5.2,5.0,No
+TCK-51290,2025-06-21 00:14,Chat,Medium,Billing,Tier 1,29.0,6.9,5.0,No
+TCK-51097,2025-06-21 00:54,Web form,High,Reporting,Tier 2,43.0,11.3,4.0,No
+TCK-51030,2025-06-21 08:48,Chat,Medium,Payments,Tier 1,19.0,9.3,4.0,No
+TCK-51415,2025-06-21 10:11,Email,Medium,Login & Access,Tier 2,87.0,13.8,4.0,No
+TCK-50472,2025-06-21 15:09,Email,Medium,Mobile App,Tier 1,84.0,27.5,4.0,No
+TCK-51462,2025-06-21 16:16,Chat,Medium,Integrations,Tier 1,58.0,40.0,,No
+TCK-50948,2025-06-22 01:13,Web form,High,Billing,Specialists,36.0,26.6,3.0,No
+TCK-50987,2025-06-22 02:06,Email,Medium,Integrations,Tier 2,33.0,31.4,4.0,No
+TCK-50997,2025-06-22 05:55,Email,Medium,Integrations,Tier 2,55.0,6.3,5.0,Yes
+TCK-50061,2025-06-22 18:48,Email,Medium,Login & Access,Tier 2,82.0,3.0,4.0,No
+TCK-51104,2025-06-22 18:49,Email,Low,Mobile App,Tier 2,52.0,6.8,,Yes
+TCK-50144,2025-06-22 19:50,Email,Medium,Billing,Tier 1,97.0,1.8,4.0,No
+TCK-50757,2025-06-22 21:37,Email,Medium,Integrations,Tier 1,16.0,21.0,4.0,No
+TCK-50442,2025-06-23 02:02,Phone,Low,Integrations,Tier 2,23.0,19.3,4.0,No
+TCK-51464,2025-06-23 02:46,Email,Low,Billing,Tier 1,23.0,3.0,,No
+TCK-50014,2025-06-23 10:49,Phone,High,Login & Access,Tier 2,21.0,4.0,,No
+TCK-50526,2025-06-23 22:05,Email,Low,Mobile App,Tier 1,76.0,3.6,4.0,No
+TCK-50707,2025-06-24 06:20,Chat,Low,Mobile App,Tier 2,106.0,11.7,4.0,No
+TCK-50925,2025-06-24 08:05,Email,Low,Billing,Tier 1,54.0,22.2,4.0,No
+TCK-51264,2025-06-24 10:11,Email,Urgent,Billing,Tier 2,50.0,5.5,5.0,No
+TCK-50029,2025-06-24 12:59,Email,Medium,Billing,Tier 1,20.0,9.3,5.0,No
+TCK-50755,2025-06-24 23:35,Chat,Low,Login & Access,Tier 1,155.0,4.6,5.0,No
+TCK-51341,2025-06-25 00:57,Email,Medium,Login & Access,Tier 2,30.0,2.9,4.0,Yes
+TCK-50097,2025-06-25 06:42,Email,Medium,Billing,Tier 1,2.0,2.0,,No
+TCK-51132,2025-06-25 13:01,Chat,Urgent,Billing,Tier 2,34.0,8.7,4.0,No
+TCK-51318,2025-06-25 14:11,Email,Medium,Payments,Tier 1,48.0,17.2,,Yes
+TCK-50032,2025-06-25 15:55,Email,Medium,Billing,Tier 1,6.0,0.5,,No
+TCK-50085,2025-06-25 17:48,Chat,Medium,Billing,Tier 2,158.0,18.8,4.0,No
+TCK-50968,2025-06-25 19:59,Email,Low,Billing,Tier 1,30.0,12.5,5.0,No
+TCK-51024,2025-06-25 20:23,Chat,High,Login & Access,Tier 2,19.0,12.1,5.0,No
+TCK-51191,2025-06-26 10:46,Web form,Low,Reporting,Tier 1,25.0,7.2,5.0,No
+TCK-50247,2025-06-26 11:28,Email,Low,Billing,Tier 1,23.0,14.3,,No
+TCK-50888,2025-06-26 15:05,Chat,Low,Billing,Tier 1,22.0,10.1,,No
+TCK-50768,2025-06-26 15:54,Email,Medium,Login & Access,Tier 1,10.0,2.2,,No
+TCK-50059,2025-06-26 17:35,Email,Medium,Integrations,Tier 2,25.0,10.8,4.0,No
+TCK-50807,2025-06-26 19:30,Email,Medium,Reporting,Tier 1,4.0,10.3,5.0,No
+TCK-50702,2025-06-26 21:04,Email,Medium,Billing,Tier 1,105.0,5.2,5.0,No
+TCK-50051,2025-06-26 21:49,Chat,Low,Billing,Tier 2,29.0,4.8,,No
+TCK-50275,2025-06-27 01:18,Chat,Medium,Login & Access,Tier 2,72.0,5.9,5.0,No
+TCK-51257,2025-06-27 04:09,Email,Low,Payments,Tier 1,11.0,5.8,5.0,No
+TCK-51254,2025-06-27 04:13,Chat,Medium,Mobile App,Tier 1,109.0,7.4,4.0,No
+TCK-50727,2025-06-27 04:49,Email,High,Payments,Specialists,28.0,58.2,2.0,No
+TCK-51020,2025-06-27 09:17,Chat,Medium,Login & Access,Tier 1,39.0,10.8,5.0,No
+TCK-50567,2025-06-27 19:11,Phone,Medium,Login & Access,Tier 1,14.0,4.8,5.0,No
+TCK-50219,2025-06-27 20:57,Web form,Medium,Payments,Tier 1,24.0,20.2,5.0,No
+TCK-50297,2025-06-27 23:15,Chat,Low,Reporting,Tier 1,32.0,14.9,5.0,No
+TCK-50277,2025-06-28 08:19,Chat,Low,Login & Access,Tier 1,14.0,14.1,5.0,No
+TCK-51363,2025-06-28 11:22,Email,Low,Payments,Tier 1,28.0,5.0,4.0,No
+TCK-50859,2025-06-28 20:03,Chat,Medium,Login & Access,Tier 1,58.0,8.9,3.0,No
+TCK-50367,2025-06-28 20:04,Email,Medium,Payments,Tier 2,91.0,6.8,,No
+TCK-50207,2025-06-28 22:28,Chat,High,Integrations,Specialists,49.0,19.5,4.0,No
+TCK-51396,2025-06-28 23:38,Chat,Urgent,Reporting,Specialists,2.0,8.7,5.0,No
+TCK-51473,2025-06-29 00:05,Chat,Low,Integrations,Tier 2,43.0,5.4,,No
+TCK-50498,2025-06-29 03:29,Web form,Low,Billing,Tier 1,14.0,13.6,4.0,Yes
+TCK-51049,2025-06-29 03:36,Email,Low,Billing,Tier 1,70.0,20.8,4.0,No
+TCK-51342,2025-06-29 10:24,Email,High,Payments,Specialists,20.0,11.4,,Yes
+TCK-50723,2025-06-29 16:02,Email,Medium,Reporting,Tier 1,14.0,8.3,,No
+TCK-51206,2025-06-29 22:41,Web form,High,Reporting,Specialists,46.0,10.4,4.0,No
+TCK-50220,2025-06-30 13:27,Chat,Low,Billing,Tier 1,28.0,6.5,5.0,No
+TCK-51018,2025-06-30 18:40,Chat,High,Reporting,Tier 2,26.0,2.3,4.0,Yes
+TCK-50842,2025-06-30 21:28,Chat,Medium,Billing,Tier 1,34.0,3.0,5.0,No
+TCK-50148,2025-07-01 01:33,Phone,Medium,Payments,Tier 1,2.0,9.8,5.0,No
+TCK-51458,2025-07-01 04:26,Email,Urgent,Payments,Specialists,19.0,2.3,5.0,No
+TCK-50080,2025-07-01 05:46,Chat,Low,Reporting,Tier 1,15.0,8.4,3.0,Yes
+TCK-50558,2025-07-01 05:56,Email,Medium,Reporting,Tier 1,17.0,14.6,,No
+TCK-51418,2025-07-01 08:18,Web form,Medium,Billing,Tier 1,121.0,21.6,3.0,No
+TCK-50660,2025-07-01 11:45,Email,Medium,Payments,Tier 2,28.0,10.8,5.0,No
+TCK-50575,2025-07-01 18:30,Phone,Medium,Integrations,Tier 1,11.0,17.8,4.0,No
+TCK-50731,2025-07-01 18:59,Phone,Low,Mobile App,Tier 1,4.0,27.7,,Yes
+TCK-50858,2025-07-02 05:30,Chat,Medium,Mobile App,Tier 1,3.0,4.0,,No
+TCK-50399,2025-07-02 07:01,Phone,Low,Mobile App,Tier 1,8.0,12.2,5.0,Yes
+TCK-50503,2025-07-02 13:12,Web form,Low,Billing,Tier 1,18.0,30.5,3.0,No
+TCK-50996,2025-07-02 16:13,Chat,Medium,Billing,Tier 1,42.0,2.8,5.0,No
+TCK-50095,2025-07-02 22:07,Chat,High,Payments,Specialists,39.0,12.1,,No
+TCK-50298,2025-07-02 22:57,Chat,Low,Reporting,Tier 1,83.0,11.3,,No
+TCK-51435,2025-07-03 01:10,Phone,Medium,Billing,Tier 1,5.0,32.0,5.0,No
+TCK-50621,2025-07-03 04:51,Email,Medium,Payments,Tier 2,9.0,2.1,,No
+TCK-50744,2025-07-03 14:06,Email,Low,Mobile App,Tier 2,36.0,28.9,,No
+TCK-51425,2025-07-03 19:01,Email,Medium,Billing,Tier 1,8.0,15.3,4.0,No
+TCK-50758,2025-07-03 21:55,Email,Medium,Payments,Tier 1,13.0,24.7,3.0,No
+TCK-51015,2025-07-04 00:12,Phone,Urgent,Integrations,Tier 2,11.0,1.9,5.0,Yes
+TCK-51498,2025-07-04 05:11,Web form,Medium,Mobile App,Tier 1,22.0,33.2,3.0,No
+TCK-50124,2025-07-04 07:08,Chat,Low,Mobile App,Tier 2,92.0,6.8,5.0,No
+TCK-50187,2025-07-04 09:48,Chat,Medium,Mobile App,Tier 1,50.0,7.7,5.0,Yes
+TCK-50625,2025-07-04 11:57,Email,Medium,Integrations,Tier 1,6.0,12.9,,No
+TCK-51261,2025-07-04 23:13,Chat,Low,Reporting,Tier 1,35.0,3.0,5.0,No
+TCK-51409,2025-07-05 01:23,Chat,High,Mobile App,Specialists,51.0,13.4,5.0,No
+TCK-50877,2025-07-05 02:54,Chat,Medium,Login & Access,Tier 1,33.0,5.0,5.0,No
+TCK-50841,2025-07-05 08:08,Phone,High,Payments,Specialists,12.0,10.3,4.0,No
+TCK-51340,2025-07-05 10:27,Email,Low,Payments,Tier 2,17.0,51.6,,No
+TCK-50165,2025-07-05 11:35,Email,Medium,Billing,Tier 1,57.0,30.2,4.0,No
+TCK-50897,2025-07-05 17:48,Email,High,Payments,Specialists,59.0,16.1,5.0,No
+TCK-50031,2025-07-05 18:01,Chat,Low,Mobile App,Tier 1,27.0,13.7,,No
+TCK-51210,2025-07-05 20:49,Email,Low,Login & Access,Tier 1,83.0,3.3,5.0,No
+TCK-51216,2025-07-06 06:50,Email,Low,Mobile App,Tier 2,50.0,14.8,5.0,Yes
+TCK-50949,2025-07-06 17:48,Email,Medium,Reporting,Tier 1,19.0,2.9,,Yes
+TCK-50867,2025-07-06 19:21,Chat,Medium,Mobile App,Tier 1,71.0,23.3,3.0,No
+TCK-50913,2025-07-06 20:32,Chat,High,Mobile App,Specialists,58.0,9.4,5.0,No
+TCK-50580,2025-07-06 22:26,Email,Low,Payments,Tier 1,51.0,3.4,,No
+TCK-51439,2025-07-07 01:13,Chat,Urgent,Reporting,Tier 2,8.0,0.8,5.0,No
+TCK-51300,2025-07-07 11:41,Chat,Low,Reporting,Tier 2,51.0,2.5,5.0,No
+TCK-50128,2025-07-07 14:44,Email,High,Login & Access,Tier 2,29.0,10.2,4.0,No
+TCK-50865,2025-07-07 21:06,Chat,Low,Billing,Tier 1,7.0,4.7,,No
+TCK-50160,2025-07-07 21:24,Email,Medium,Payments,Tier 1,24.0,9.4,5.0,No
+TCK-50477,2025-07-08 02:08,Web form,Low,Login & Access,Tier 1,27.0,9.9,,No
+TCK-51366,2025-07-08 14:10,Email,High,Mobile App,Tier 2,23.0,4.6,,No
+TCK-50383,2025-07-08 20:32,Phone,Medium,Payments,Tier 1,10.0,17.4,4.0,No
+TCK-50184,2025-07-08 23:09,Chat,Medium,Billing,Tier 1,17.0,2.6,5.0,No
+TCK-51391,2025-07-09 00:57,Chat,Medium,Login & Access,Tier 1,50.0,1.8,5.0,No
+TCK-50966,2025-07-09 03:12,Phone,Urgent,Mobile App,Specialists,12.0,8.0,5.0,No
+TCK-50712,2025-07-09 06:16,Email,Medium,Billing,Tier 1,37.0,5.3,4.0,No
+TCK-50173,2025-07-09 11:02,Email,Medium,Billing,Tier 1,23.0,16.7,,No
+TCK-50157,2025-07-09 11:10,Chat,Urgent,Integrations,Specialists,34.0,21.2,4.0,No
+TCK-50396,2025-07-09 13:06,Chat,Medium,Integrations,Tier 1,3.0,10.3,5.0,No
+TCK-51183,2025-07-09 13:32,Chat,Medium,Mobile App,Tier 1,53.0,3.0,4.0,No
+TCK-51401,2025-07-09 18:53,Phone,Medium,Payments,Tier 2,10.0,9.3,,No
+TCK-51394,2025-07-09 22:16,Chat,Medium,Mobile App,Tier 2,30.0,1.8,5.0,No
+TCK-51260,2025-07-09 22:48,Chat,Medium,Login & Access,Tier 1,168.0,0.9,5.0,No
+TCK-51339,2025-07-10 01:04,Chat,Low,Reporting,Tier 1,32.0,7.0,5.0,No
+TCK-50263,2025-07-10 07:02,Chat,Medium,Login & Access,Tier 1,38.0,1.5,5.0,No
+TCK-50445,2025-07-10 08:43,Email,Medium,Mobile App,Tier 2,29.0,13.2,5.0,No
+TCK-50409,2025-07-10 12:52,Email,High,Mobile App,Specialists,56.0,3.7,5.0,No
+TCK-50661,2025-07-10 15:56,Email,Medium,Payments,Tier 1,23.0,11.9,4.0,No
+TCK-50813,2025-07-10 18:16,Chat,Low,Reporting,Tier 2,7.0,11.7,4.0,No
+TCK-50116,2025-07-10 18:19,Email,Low,Billing,Tier 2,19.0,8.8,5.0,No
+TCK-50230,2025-07-10 22:06,Chat,Medium,Login & Access,Tier 1,40.0,8.4,5.0,No
+TCK-50282,2025-07-11 01:04,Email,High,Payments,Specialists,38.0,23.3,,No
+TCK-50004,2025-07-11 10:17,Chat,Low,Billing,Tier 1,77.0,3.0,5.0,No
+TCK-50420,2025-07-11 12:22,Web form,Medium,Billing,Tier 1,62.0,11.0,5.0,No
+TCK-50517,2025-07-11 14:29,Email,High,Billing,Specialists,56.0,5.1,4.0,Yes
+TCK-51422,2025-07-11 15:10,Email,Medium,Reporting,Tier 1,66.0,13.9,,No
+TCK-51395,2025-07-11 16:25,Phone,Low,Login & Access,Tier 1,10.0,1.2,5.0,No
+TCK-50947,2025-07-11 17:08,Email,High,Payments,Specialists,4.0,10.1,4.0,No
+TCK-51036,2025-07-11 17:16,Email,Medium,Billing,Tier 2,52.0,7.9,5.0,Yes
+TCK-50283,2025-07-11 23:16,Email,Low,Billing,Tier 1,16.0,14.3,4.0,No
+TCK-50975,2025-07-12 03:31,Web form,High,Mobile App,Specialists,35.0,8.8,,Yes
+TCK-50030,2025-07-12 09:39,Web form,Low,Payments,Tier 1,4.0,4.8,5.0,No
+TCK-51413,2025-07-12 10:39,Email,Low,Reporting,Tier 1,47.0,12.4,,No
+TCK-51274,2025-07-12 11:54,Web form,Urgent,Payments,Specialists,6.0,16.6,4.0,No
+TCK-50172,2025-07-12 14:39,Chat,Medium,Mobile App,Tier 1,77.0,7.0,5.0,No
+TCK-50955,2025-07-12 15:27,Phone,Low,Payments,Tier 2,13.0,18.6,4.0,No
+TCK-50818,2025-07-12 20:23,Chat,Medium,Mobile App,Tier 1,29.0,12.0,5.0,No
+TCK-50444,2025-07-12 23:17,Email,Low,Login & Access,Tier 1,57.0,9.6,4.0,No
+TCK-51474,2025-07-13 05:18,Email,Medium,Integrations,Tier 1,16.0,17.7,5.0,No
+TCK-51148,2025-07-13 07:12,Chat,Medium,Integrations,Tier 1,6.0,27.8,,No
+TCK-51482,2025-07-13 18:47,Email,Low,Login & Access,Tier 2,26.0,9.0,4.0,No
+TCK-51405,2025-07-13 22:42,Chat,Low,Integrations,Tier 1,116.0,3.6,5.0,No
+TCK-50119,2025-07-14 02:35,Phone,High,Login & Access,Tier 2,8.0,8.5,3.0,No
+TCK-50213,2025-07-14 04:14,Web form,High,Login & Access,Specialists,50.0,12.4,4.0,No
+TCK-50387,2025-07-14 04:46,Web form,Urgent,Login & Access,Specialists,62.0,3.2,5.0,No
+TCK-50490,2025-07-14 06:37,Phone,Low,Billing,Tier 1,5.0,12.6,,No
+TCK-50606,2025-07-14 08:03,Web form,Low,Billing,Tier 1,92.0,27.8,1.0,No
+TCK-50804,2025-07-14 17:05,Email,Medium,Mobile App,Tier 1,66.0,34.7,3.0,No
+TCK-50881,2025-07-14 20:22,Chat,High,Billing,Specialists,52.0,3.4,4.0,No
+TCK-50326,2025-07-14 20:32,Phone,Low,Login & Access,Tier 1,5.0,6.1,5.0,No
+TCK-51084,2025-07-14 23:19,Email,Urgent,Reporting,Tier 2,14.0,11.1,,No
+TCK-50512,2025-07-15 04:20,Chat,Medium,Billing,Tier 1,41.0,8.2,4.0,No
+TCK-50333,2025-07-15 04:23,Web form,High,Payments,Specialists,59.0,13.2,5.0,No
+TCK-51355,2025-07-15 05:05,Email,Low,Login & Access,Tier 1,169.0,3.1,5.0,No
+TCK-50488,2025-07-15 06:45,Chat,High,Payments,Tier 2,40.0,29.5,,No
+TCK-51028,2025-07-15 07:14,Web form,Low,Billing,Tier 2,38.0,14.4,5.0,No
+TCK-50799,2025-07-15 15:08,Chat,Medium,Billing,Tier 1,34.0,7.5,5.0,No
+TCK-50103,2025-07-15 23:37,Web form,Low,Login & Access,Tier 2,10.0,4.9,,No
+TCK-50108,2025-07-16 00:25,Email,Low,Integrations,Tier 2,43.0,8.9,5.0,Yes
+TCK-51198,2025-07-16 04:02,Phone,Urgent,Login & Access,Tier 2,17.0,13.3,4.0,No
+TCK-50765,2025-07-16 09:27,Email,Medium,Login & Access,Tier 1,32.0,2.8,5.0,No
+TCK-51155,2025-07-16 11:30,Chat,Medium,Billing,Tier 2,13.0,12.5,5.0,Yes
+TCK-51316,2025-07-16 14:24,Chat,Low,Payments,Tier 1,23.0,20.1,3.0,No
+TCK-50598,2025-07-17 03:21,Email,Urgent,Billing,Specialists,5.0,11.5,3.0,No
+TCK-51452,2025-07-17 06:07,Web form,Medium,Login & Access,Tier 1,65.0,6.3,,No
+TCK-50329,2025-07-17 06:22,Phone,Medium,Integrations,Tier 1,4.0,9.3,5.0,No
+TCK-50121,2025-07-17 13:23,Phone,Medium,Billing,Tier 1,2.0,6.9,5.0,Yes
+TCK-51322,2025-07-17 13:50,Chat,Medium,Login & Access,Tier 1,57.0,2.3,5.0,No
+TCK-51446,2025-07-17 21:22,Email,Urgent,Reporting,Tier 2,74.0,20.1,4.0,No
+TCK-50154,2025-07-17 23:19,Email,Medium,Payments,Tier 1,30.0,7.5,,No
+TCK-50714,2025-07-18 01:20,Email,Medium,Integrations,Tier 1,42.0,16.6,5.0,No
+TCK-51187,2025-07-18 04:48,Email,Medium,Login & Access,Tier 1,52.0,5.9,,No
+TCK-51271,2025-07-18 06:06,Chat,Low,Payments,Tier 1,18.0,7.1,4.0,No
+TCK-50449,2025-07-18 12:54,Phone,Medium,Login & Access,Tier 1,9.0,9.1,,No
+TCK-51144,2025-07-18 15:03,Chat,Medium,Login & Access,Tier 2,42.0,1.5,5.0,No
+TCK-50405,2025-07-18 20:41,Chat,Medium,Mobile App,Tier 2,55.0,12.3,5.0,No
+TCK-51177,2025-07-19 03:08,Phone,Urgent,Mobile App,Specialists,5.0,24.5,,No
+TCK-50045,2025-07-19 06:31,Email,Low,Mobile App,Tier 2,13.0,23.5,,No
+TCK-50098,2025-07-19 08:45,Phone,High,Payments,Tier 2,6.0,6.4,,No
+TCK-51400,2025-07-19 12:27,Email,Low,Payments,Tier 1,32.0,25.9,3.0,No
+TCK-51135,2025-07-20 07:44,Phone,Medium,Mobile App,Tier 1,11.0,5.6,5.0,No
+TCK-50076,2025-07-20 10:00,Email,Medium,Login & Access,Tier 1,30.0,7.2,5.0,No
+TCK-50314,2025-07-20 17:59,Phone,Medium,Mobile App,Tier 2,16.0,14.3,4.0,No
+TCK-51419,2025-07-20 18:56,Email,Medium,Integrations,Tier 1,34.0,45.3,,No
+TCK-50541,2025-07-20 23:05,Email,Low,Mobile App,Tier 1,50.0,3.7,5.0,No
+TCK-50903,2025-07-21 01:38,Email,Low,Integrations,Tier 1,7.0,14.3,4.0,No
+TCK-51085,2025-07-21 04:30,Email,Medium,Billing,Tier 1,16.0,8.2,3.0,No
+TCK-51336,2025-07-21 06:07,Chat,Low,Integrations,Tier 1,13.0,7.1,,No
+TCK-50037,2025-07-21 11:29,Web form,Low,Billing,Tier 1,18.0,4.8,5.0,No
+TCK-50001,2025-07-22 03:31,Email,Urgent,Payments,Tier 2,134.0,4.9,,No
+TCK-50427,2025-07-22 11:51,Email,Urgent,Integrations,Specialists,39.0,10.9,5.0,No
+TCK-50343,2025-07-22 20:02,Email,Medium,Integrations,Tier 2,32.0,11.0,,No
+TCK-50243,2025-07-22 22:01,Chat,Medium,Integrations,Tier 1,32.0,3.2,,No
+TCK-50729,2025-07-22 22:25,Chat,Medium,Reporting,Tier 2,29.0,5.6,,No
+TCK-51275,2025-07-23 00:27,Chat,High,Login & Access,Specialists,4.0,2.5,,No
+TCK-50057,2025-07-23 02:13,Email,Low,Login & Access,Tier 2,42.0,1.9,5.0,No
+TCK-50309,2025-07-23 04:24,Email,Low,Reporting,Tier 2,73.0,6.0,,No
+TCK-50870,2025-07-23 05:38,Chat,Medium,Reporting,Tier 1,81.0,5.7,5.0,No
+TCK-51051,2025-07-23 12:02,Email,Medium,Mobile App,Tier 1,34.0,7.2,4.0,No
+TCK-50875,2025-07-23 12:22,Email,Urgent,Billing,Tier 2,43.0,8.5,4.0,No
+TCK-50455,2025-07-23 17:13,Email,Low,Integrations,Tier 2,20.0,39.8,3.0,No
+TCK-50478,2025-07-23 23:10,Phone,Medium,Integrations,Tier 1,2.0,14.1,,No
+TCK-50345,2025-07-24 11:12,Email,Medium,Mobile App,Tier 1,20.0,9.4,5.0,No
+TCK-51285,2025-07-24 13:39,Chat,Urgent,Mobile App,Specialists,17.0,10.3,,No
+TCK-50592,2025-07-24 15:15,Chat,Medium,Mobile App,Tier 1,28.0,6.9,5.0,Yes
+TCK-50962,2025-07-24 17:48,Email,High,Reporting,Specialists,18.0,5.3,5.0,No
+TCK-51043,2025-07-24 21:51,Email,Medium,Billing,Tier 1,13.0,20.9,5.0,No
+TCK-50123,2025-07-25 02:25,Chat,Medium,Integrations,Tier 2,87.0,6.3,5.0,No
+TCK-50578,2025-07-25 03:43,Chat,Low,Reporting,Tier 1,67.0,4.8,5.0,No
+TCK-50447,2025-07-25 06:34,Email,Low,Integrations,Tier 1,23.0,45.9,3.0,No
+TCK-50089,2025-07-25 11:53,Chat,Medium,Payments,Tier 2,23.0,12.9,4.0,No
+TCK-51103,2025-07-25 12:28,Chat,Medium,Login & Access,Tier 1,49.0,7.9,4.0,No
+TCK-50530,2025-07-25 16:29,Email,High,Login & Access,Tier 2,23.0,1.2,,No
+TCK-51064,2025-07-25 19:01,Web form,High,Login & Access,Specialists,28.0,3.5,5.0,No
+TCK-50601,2025-07-25 20:11,Email,Medium,Login & Access,Tier 1,23.0,2.2,4.0,No
+TCK-50171,2025-07-25 22:04,Email,High,Login & Access,Specialists,26.0,5.8,5.0,No
+TCK-50909,2025-07-25 23:29,Email,Medium,Login & Access,Tier 1,1.0,7.0,,No
+TCK-50400,2025-07-26 05:14,Phone,Low,Mobile App,Tier 1,9.0,19.2,,No
+TCK-50102,2025-07-26 07:16,Phone,Low,Login & Access,Tier 1,21.0,10.1,,No
+TCK-51039,2025-07-26 07:53,Phone,Medium,Integrations,Tier 1,10.0,21.0,3.0,No
+TCK-50823,2025-07-26 09:40,Web form,Low,Reporting,Tier 1,20.0,27.0,4.0,Yes
+TCK-50234,2025-07-26 10:34,Email,Urgent,Reporting,Specialists,37.0,1.2,,No
+TCK-50587,2025-07-26 14:17,Web form,Medium,Payments,Tier 1,159.0,11.5,5.0,Yes
+TCK-51397,2025-07-27 04:32,Chat,Medium,Login & Access,Tier 1,21.0,4.1,5.0,No
+TCK-50473,2025-07-28 00:50,Email,High,Integrations,Tier 2,26.0,62.2,2.0,No
+TCK-50908,2025-07-28 14:27,Phone,Low,Mobile App,Tier 2,1.0,19.7,4.0,No
+TCK-50850,2025-07-29 02:13,Email,Low,Reporting,Tier 1,30.0,10.0,4.0,No
+TCK-51083,2025-07-29 07:29,Web form,High,Payments,Specialists,36.0,11.0,3.0,No
+TCK-50487,2025-07-29 12:12,Web form,Medium,Payments,Tier 2,24.0,7.2,3.0,No
+TCK-50203,2025-07-29 15:03,Email,Medium,Billing,Tier 1,56.0,3.5,5.0,No
+TCK-50403,2025-07-29 16:30,Email,Medium,Integrations,Tier 2,11.0,14.7,5.0,No
+TCK-50335,2025-07-29 23:22,Email,High,Mobile App,Specialists,62.0,33.8,3.0,No
+TCK-51014,2025-07-30 03:07,Email,Low,Billing,Tier 1,35.0,1.3,,No
+TCK-50696,2025-07-30 04:08,Email,Medium,Billing,Tier 1,73.0,0.5,4.0,No
+TCK-50106,2025-07-30 04:13,Email,Low,Payments,Tier 1,40.0,6.0,,No
+TCK-50453,2025-07-30 09:54,Phone,Medium,Integrations,Tier 1,7.0,33.1,4.0,No
+TCK-50474,2025-07-30 12:22,Email,Medium,Mobile App,Tier 1,34.0,2.5,5.0,No
+TCK-50147,2025-07-30 15:31,Chat,High,Mobile App,Specialists,20.0,8.3,5.0,No
+TCK-50495,2025-07-30 16:48,Phone,High,Payments,Specialists,12.0,10.0,4.0,No
+TCK-50554,2025-07-30 17:21,Phone,Low,Payments,Tier 2,14.0,22.7,,No
+TCK-50432,2025-07-30 18:27,Email,Medium,Mobile App,Tier 1,22.0,35.1,4.0,Yes
+TCK-50502,2025-07-30 19:17,Email,Medium,Mobile App,Tier 1,15.0,21.8,3.0,Yes
+TCK-51153,2025-07-30 21:32,Email,Low,Payments,Tier 1,68.0,7.5,5.0,No
+TCK-50078,2025-07-30 23:38,Phone,High,Login & Access,Specialists,7.0,2.0,,No
+TCK-50951,2025-07-31 05:24,Email,Medium,Payments,Tier 1,132.0,9.1,,No
+TCK-51179,2025-07-31 12:15,Phone,Medium,Login & Access,Tier 1,6.0,6.6,4.0,No
+TCK-51149,2025-08-01 01:05,Email,Medium,Mobile App,Tier 2,83.0,10.5,,No
+TCK-50837,2025-08-01 08:26,Email,Medium,Login & Access,Tier 1,64.0,7.2,,Yes
+TCK-50719,2025-08-01 09:34,Chat,Low,Mobile App,Tier 2,67.0,3.5,5.0,No
+TCK-51142,2025-08-01 17:30,Email,High,Mobile App,Specialists,16.0,12.3,4.0,No
+TCK-50141,2025-08-01 20:01,Email,Medium,Integrations,Tier 2,31.0,6.6,5.0,No
+TCK-50561,2025-08-02 09:24,Chat,Low,Payments,Tier 1,45.0,4.7,5.0,No
+TCK-51444,2025-08-02 11:32,Phone,Low,Integrations,Tier 1,14.0,25.1,5.0,No
+TCK-50125,2025-08-02 21:46,Chat,Low,Login & Access,Tier 1,102.0,5.5,,No
+TCK-50305,2025-08-02 21:53,Email,High,Mobile App,Specialists,18.0,3.8,4.0,No
+TCK-51010,2025-08-02 23:59,Chat,Low,Login & Access,Tier 1,62.0,1.5,4.0,No
+TCK-50350,2025-08-03 04:07,Email,Medium,Reporting,Tier 2,6.0,12.6,4.0,No
+TCK-50953,2025-08-03 04:28,Chat,Low,Integrations,Tier 1,19.0,8.3,5.0,No
+TCK-50391,2025-08-03 05:35,Email,Low,Reporting,Tier 1,37.0,6.1,5.0,No
+TCK-50907,2025-08-03 06:47,Chat,Medium,Mobile App,Tier 1,7.0,8.9,5.0,No
+TCK-50750,2025-08-03 07:03,Chat,Low,Payments,Tier 1,21.0,12.1,4.0,No
+TCK-51181,2025-08-03 08:31,Web form,High,Login & Access,Tier 2,117.0,9.2,5.0,No
+TCK-50654,2025-08-03 09:51,Chat,Medium,Integrations,Tier 2,63.0,10.6,4.0,No
+TCK-50304,2025-08-03 16:22,Email,Urgent,Reporting,Tier 2,51.0,18.3,,No
+TCK-51172,2025-08-03 18:31,Phone,Medium,Login & Access,Tier 1,3.0,9.7,4.0,No
+TCK-50496,2025-08-03 19:15,Email,Urgent,Payments,Specialists,69.0,15.8,4.0,No
+TCK-51223,2025-08-03 19:49,Web form,Medium,Payments,Tier 1,56.0,4.0,4.0,No
+TCK-50785,2025-08-04 01:23,Chat,Low,Integrations,Tier 1,47.0,10.5,4.0,Yes
+TCK-50210,2025-08-04 05:48,Chat,Medium,Mobile App,Tier 2,12.0,5.9,,No
+TCK-51035,2025-08-04 09:17,Chat,Low,Login & Access,Tier 1,70.0,5.3,5.0,No
+TCK-50215,2025-08-04 13:31,Chat,Medium,Mobile App,Tier 1,28.0,4.2,4.0,No
+TCK-50002,2025-08-04 16:15,Email,Medium,Mobile App,Tier 1,21.0,2.7,,No
+TCK-50458,2025-08-04 23:13,Chat,Low,Mobile App,Tier 1,48.0,5.5,,No
+TCK-50989,2025-08-04 23:44,Email,High,Login & Access,Specialists,18.0,4.6,5.0,No
+TCK-51402,2025-08-05 00:48,Chat,Low,Login & Access,Tier 2,51.0,4.3,4.0,No
+TCK-50100,2025-08-05 02:22,Email,High,Integrations,Specialists,45.0,30.5,,No
+TCK-51239,2025-08-05 04:03,Chat,Medium,Integrations,Tier 1,28.0,18.2,5.0,Yes
+TCK-51437,2025-08-05 05:53,Email,High,Payments,Tier 2,12.0,13.2,,No
+TCK-50069,2025-08-06 11:24,Email,Low,Mobile App,Tier 1,11.0,9.8,5.0,Yes
+TCK-50831,2025-08-06 11:53,Chat,Medium,Payments,Tier 1,29.0,19.7,3.0,No
+TCK-51197,2025-08-06 21:47,Chat,High,Reporting,Specialists,22.0,7.1,5.0,No
+TCK-50362,2025-08-06 22:42,Phone,Urgent,Login & Access,Specialists,4.0,5.5,4.0,No
+TCK-51478,2025-08-07 11:45,Chat,Medium,Payments,Tier 1,26.0,4.5,,No
+TCK-51434,2025-08-07 14:51,Email,High,Integrations,Specialists,8.0,47.5,,Yes
+TCK-51293,2025-08-07 22:32,Email,Low,Mobile App,Tier 1,10.0,7.8,5.0,Yes
+TCK-51460,2025-08-08 02:45,Chat,Urgent,Login & Access,Specialists,35.0,3.3,4.0,No
+TCK-50354,2025-08-08 06:04,Phone,Medium,Login & Access,Tier 1,4.0,16.6,4.0,Yes
+TCK-50036,2025-08-08 08:42,Chat,High,Integrations,Tier 2,33.0,9.9,5.0,No
+TCK-50784,2025-08-08 09:18,Email,Medium,Billing,Tier 1,17.0,3.6,3.0,No
+TCK-51249,2025-08-08 20:25,Phone,Low,Billing,Tier 2,17.0,15.3,,No
+TCK-50821,2025-08-08 22:49,Web form,High,Login & Access,Specialists,99.0,6.3,4.0,No
+TCK-51456,2025-08-09 04:40,Web form,Low,Billing,Tier 1,2.0,4.0,5.0,No
+TCK-50728,2025-08-09 10:59,Chat,Low,Integrations,Tier 2,82.0,10.5,5.0,No
+TCK-50942,2025-08-09 13:22,Chat,High,Login & Access,Specialists,69.0,4.9,4.0,No
+TCK-51278,2025-08-09 13:53,Chat,Low,Mobile App,Tier 1,76.0,4.1,4.0,No
+TCK-51326,2025-08-09 18:39,Phone,Medium,Payments,Tier 1,16.0,8.5,5.0,No
+TCK-51021,2025-08-09 19:04,Chat,High,Reporting,Tier 2,25.0,14.9,5.0,No
+TCK-50378,2025-08-09 20:07,Phone,Low,Payments,Tier 1,22.0,24.5,4.0,No
+TCK-50895,2025-08-09 23:24,Email,High,Payments,Specialists,87.0,15.6,4.0,No
+TCK-50781,2025-08-10 01:38,Phone,Medium,Payments,Tier 1,16.0,19.6,4.0,No
+TCK-50088,2025-08-10 02:44,Chat,Low,Login & Access,Tier 1,20.0,3.6,,No
+TCK-51069,2025-08-10 11:46,Chat,Low,Login & Access,Tier 2,106.0,1.4,5.0,No
+TCK-50506,2025-08-10 18:15,Email,Medium,Mobile App,Tier 1,84.0,9.5,4.0,No
+TCK-50551,2025-08-10 19:00,Email,Urgent,Payments,Specialists,4.0,9.7,5.0,No
+TCK-50645,2025-08-11 04:51,Chat,High,Billing,Tier 2,11.0,5.0,,No
+TCK-50939,2025-08-11 06:02,Chat,Low,Reporting,Tier 1,38.0,2.6,,No
+TCK-50180,2025-08-11 08:40,Email,Low,Login & Access,Tier 2,24.0,3.5,5.0,No
+TCK-51301,2025-08-11 09:56,Email,Low,Payments,Tier 1,57.0,29.6,3.0,No
+TCK-50290,2025-08-11 14:16,Chat,Medium,Billing,Tier 1,38.0,5.9,4.0,No
+TCK-51248,2025-08-12 02:02,Email,High,Billing,Specialists,30.0,7.5,,No
+TCK-50307,2025-08-12 05:06,Phone,Low,Billing,Tier 2,26.0,16.7,,No
+TCK-51282,2025-08-12 07:47,Phone,Medium,Billing,Tier 2,14.0,11.5,,No
+TCK-50834,2025-08-12 15:33,Chat,Medium,Login & Access,Tier 1,49.0,2.1,5.0,No
+TCK-50024,2025-08-12 18:12,Phone,Medium,Login & Access,Tier 1,5.0,7.7,4.0,No
+TCK-50685,2025-08-12 19:44,Email,High,Reporting,Specialists,28.0,10.5,5.0,No
+TCK-50194,2025-08-12 23:18,Chat,Medium,Billing,Tier 1,61.0,7.8,4.0,No
+TCK-50857,2025-08-12 23:33,Email,Medium,Mobile App,Tier 1,106.0,75.8,1.0,No
+TCK-50589,2025-08-13 02:27,Email,Medium,Payments,Tier 2,39.0,4.6,5.0,No
+TCK-50072,2025-08-13 02:29,Phone,Low,Reporting,Tier 1,21.0,14.9,,No
+TCK-50609,2025-08-13 04:14,Email,Medium,Billing,Tier 2,29.0,2.0,5.0,No
+TCK-51450,2025-08-13 05:19,Phone,Low,Mobile App,Tier 1,22.0,23.0,,Yes
+TCK-50627,2025-08-13 06:08,Email,Low,Reporting,Tier 1,8.0,14.4,4.0,No
+TCK-50463,2025-08-13 08:22,Email,Medium,Integrations,Tier 1,31.0,46.9,2.0,Yes
+TCK-51222,2025-08-13 11:16,Email,Medium,Integrations,Tier 2,26.0,10.1,5.0,No
+TCK-51195,2025-08-13 19:47,Phone,Low,Billing,Tier 1,11.0,21.4,4.0,No
+TCK-50564,2025-08-13 19:59,Email,Low,Mobile App,Tier 1,14.0,1.9,,No
+TCK-51291,2025-08-14 00:09,Email,Medium,Reporting,Tier 2,16.0,15.4,3.0,Yes
+TCK-51200,2025-08-14 03:39,Chat,Medium,Mobile App,Tier 2,62.0,19.2,,No
+TCK-50249,2025-08-14 05:16,Email,High,Login & Access,Specialists,23.0,11.1,4.0,No
+TCK-50096,2025-08-14 10:25,Email,High,Payments,Specialists,25.0,8.4,5.0,No
+TCK-50555,2025-08-14 13:22,Chat,Medium,Login & Access,Tier 2,42.0,5.9,,No
+TCK-50847,2025-08-14 16:13,Email,Low,Mobile App,Tier 1,36.0,23.7,3.0,No
+TCK-50204,2025-08-14 16:27,Phone,High,Payments,Tier 2,9.0,11.3,,No
+TCK-50688,2025-08-14 21:39,Email,Medium,Mobile App,Tier 1,77.0,19.5,4.0,No
+TCK-50357,2025-08-15 04:01,Email,Urgent,Billing,Tier 2,51.0,0.7,5.0,No
+TCK-51305,2025-08-15 08:30,Chat,Medium,Payments,Tier 1,59.0,15.5,4.0,No
+TCK-50861,2025-08-15 08:44,Email,Low,Login & Access,Tier 1,39.0,1.9,,No
+TCK-50316,2025-08-15 10:10,Email,High,Reporting,Tier 2,47.0,22.5,5.0,No
+TCK-50534,2025-08-15 13:04,Chat,High,Reporting,Tier 2,40.0,16.4,,No
+TCK-51027,2025-08-15 19:36,Email,Medium,Login & Access,Tier 1,25.0,3.4,5.0,No
+TCK-51427,2025-08-16 00:20,Email,Medium,Payments,Tier 2,45.0,14.6,,No
+TCK-50348,2025-08-16 07:30,Email,Low,Integrations,Tier 1,42.0,58.7,,No
+TCK-50787,2025-08-16 11:18,Email,Medium,Payments,Tier 1,150.0,5.0,5.0,No
+TCK-50846,2025-08-16 14:21,Chat,Low,Payments,Tier 1,22.0,4.6,,No
+TCK-50754,2025-08-16 15:11,Web form,High,Login & Access,Tier 2,49.0,2.9,5.0,No
+TCK-50532,2025-08-17 01:04,Web form,Medium,Mobile App,Tier 1,58.0,0.8,5.0,No
+TCK-51333,2025-08-17 04:16,Email,Urgent,Integrations,Tier 2,4.0,31.0,3.0,Yes
+TCK-51287,2025-08-17 13:23,Email,Low,Login & Access,Tier 1,4.0,4.9,4.0,No
+TCK-50364,2025-08-17 18:08,Email,Low,Payments,Tier 1,19.0,18.5,4.0,No
+TCK-50091,2025-08-17 20:46,Chat,Low,Mobile App,Tier 1,76.0,4.5,4.0,No
+TCK-50281,2025-08-18 02:14,Chat,Medium,Reporting,Tier 1,42.0,13.2,,No
+TCK-50890,2025-08-18 03:45,Email,Low,Login & Access,Tier 1,52.0,4.1,3.0,No
+TCK-50232,2025-08-18 04:07,Email,Low,Integrations,Tier 1,13.0,9.0,3.0,No
+TCK-50917,2025-08-18 10:37,Email,Low,Billing,Tier 1,31.0,8.0,5.0,No
+TCK-50700,2025-08-18 11:31,Email,Medium,Mobile App,Tier 1,39.0,7.2,,No
+TCK-51475,2025-08-18 17:16,Web form,Medium,Mobile App,Tier 1,41.0,24.7,,No
+TCK-50300,2025-08-18 18:46,Email,Medium,Billing,Tier 1,12.0,21.0,4.0,No
+TCK-50328,2025-08-18 23:49,Chat,Low,Mobile App,Tier 1,16.0,4.6,,No
+TCK-51384,2025-08-19 08:12,Email,Medium,Mobile App,Tier 2,19.0,24.3,2.0,No
+TCK-50577,2025-08-19 08:49,Phone,Medium,Billing,Tier 1,18.0,6.2,,No
+TCK-50574,2025-08-19 15:27,Chat,High,Payments,Tier 2,12.0,9.4,,No
+TCK-51268,2025-08-19 17:05,Phone,Low,Payments,Tier 1,9.0,5.4,4.0,Yes
+TCK-50162,2025-08-19 19:12,Chat,High,Reporting,Tier 2,51.0,10.0,5.0,No
+TCK-51089,2025-08-19 19:25,Chat,Medium,Reporting,Tier 2,47.0,2.9,4.0,No
+TCK-50893,2025-08-19 19:34,Chat,Medium,Mobile App,Tier 2,42.0,19.0,3.0,No
+TCK-50665,2025-08-19 20:09,Phone,Low,Mobile App,Tier 1,5.0,14.5,,No
+TCK-50440,2025-08-19 21:55,Chat,Low,Billing,Tier 1,73.0,13.3,,No
+TCK-51485,2025-08-19 21:58,Web form,High,Integrations,Specialists,67.0,40.5,2.0,Yes
+TCK-50191,2025-08-20 01:16,Web form,Low,Mobile App,Tier 1,104.0,20.7,3.0,No
+TCK-50670,2025-08-20 01:46,Email,Urgent,Login & Access,Specialists,41.0,0.6,5.0,No
+TCK-51378,2025-08-20 02:59,Email,Medium,Payments,Tier 1,29.0,15.8,5.0,No
+TCK-51403,2025-08-20 06:20,Chat,Low,Reporting,Tier 1,9.0,13.2,4.0,No
+TCK-50515,2025-08-20 09:00,Web form,Low,Billing,Tier 1,69.0,21.2,5.0,No
+TCK-50231,2025-08-20 10:21,Web form,Low,Payments,Tier 1,39.0,16.6,5.0,Yes
+TCK-50538,2025-08-20 14:41,Web form,Medium,Integrations,Tier 2,20.0,9.3,,No
+TCK-50938,2025-08-20 17:43,Web form,Medium,Mobile App,Tier 1,24.0,9.0,3.0,No
+TCK-50340,2025-08-20 21:37,Email,Medium,Login & Access,Tier 2,36.0,20.8,4.0,No
+TCK-51246,2025-08-20 23:24,Web form,Medium,Login & Access,Tier 1,16.0,2.9,5.0,No
+TCK-50923,2025-08-20 23:59,Email,High,Integrations,Tier 2,30.0,61.8,,No
+TCK-51203,2025-08-21 00:22,Email,Medium,Payments,Tier 1,16.0,15.1,,No
+TCK-50952,2025-08-21 05:02,Web form,Medium,Billing,Tier 2,37.0,9.0,,No
+TCK-50793,2025-08-21 05:51,Web form,High,Login & Access,Tier 2,19.0,4.9,,No
+TCK-51368,2025-08-21 08:23,Phone,Medium,Payments,Tier 1,11.0,3.3,5.0,No
+TCK-50569,2025-08-21 10:59,Email,Urgent,Mobile App,Specialists,23.0,16.0,,No
+TCK-50607,2025-08-21 12:16,Web form,Medium,Login & Access,Tier 1,52.0,5.1,5.0,No
+TCK-51283,2025-08-21 12:29,Chat,Low,Integrations,Tier 2,71.0,14.6,5.0,No
+TCK-51244,2025-08-21 20:28,Phone,Low,Reporting,Tier 1,12.0,3.1,4.0,No
+TCK-50605,2025-08-21 22:10,Web form,Low,Integrations,Tier 1,47.0,1.7,5.0,No
+TCK-51367,2025-08-22 01:11,Chat,High,Mobile App,Specialists,23.0,18.1,4.0,No
+TCK-50639,2025-08-22 03:00,Email,High,Mobile App,Tier 2,17.0,10.1,,No
+TCK-50775,2025-08-22 06:14,Email,Medium,Billing,Tier 1,60.0,5.9,5.0,No
+TCK-50779,2025-08-22 06:50,Web form,Medium,Billing,Tier 2,61.0,4.0,5.0,No
+TCK-50878,2025-08-22 07:39,Phone,High,Login & Access,Tier 2,15.0,1.5,4.0,No
+TCK-50408,2025-08-22 08:49,Phone,Medium,Payments,Tier 2,19.0,0.8,4.0,No
+TCK-50186,2025-08-22 08:51,Email,Medium,Integrations,Tier 1,55.0,33.0,4.0,No
+TCK-51484,2025-08-22 14:22,Phone,Medium,Login & Access,Tier 1,10.0,1.8,5.0,Yes
+TCK-50762,2025-08-22 15:25,Web form,Low,Integrations,Tier 1,29.0,29.4,4.0,No
+TCK-51178,2025-08-22 18:11,Chat,High,Reporting,Specialists,58.0,2.6,4.0,No
+TCK-50523,2025-08-22 18:26,Chat,Medium,Mobile App,Tier 1,20.0,8.0,5.0,No
+TCK-51130,2025-08-22 19:18,Email,High,Login & Access,Specialists,32.0,1.3,,No
+TCK-50852,2025-08-22 20:43,Web form,Low,Billing,Tier 2,9.0,8.7,5.0,No
+TCK-50353,2025-08-22 23:06,Phone,Urgent,Reporting,Specialists,7.0,26.1,5.0,No
+TCK-51404,2025-08-22 23:13,Email,Low,Mobile App,Tier 2,59.0,19.8,5.0,No
+TCK-51269,2025-08-23 02:45,Email,Low,Mobile App,Tier 2,76.0,5.5,,No
+TCK-50221,2025-08-23 05:47,Email,Low,Integrations,Tier 1,11.0,23.9,4.0,No
+TCK-50439,2025-08-23 14:39,Phone,Medium,Integrations,Tier 1,16.0,66.9,1.0,No
+TCK-51080,2025-08-23 16:46,Email,Medium,Login & Access,Tier 1,25.0,8.1,,No
+TCK-51188,2025-08-23 17:15,Chat,Medium,Payments,Tier 2,32.0,7.7,5.0,No
+TCK-51087,2025-08-23 19:13,Phone,Low,Login & Access,Tier 1,10.0,14.2,,No
+TCK-51009,2025-08-23 20:26,Chat,Low,Billing,Tier 1,6.0,3.0,5.0,Yes
+TCK-50280,2025-08-23 20:39,Chat,Urgent,Mobile App,Tier 2,6.0,15.2,4.0,No
+TCK-51077,2025-08-23 22:19,Chat,Low,Integrations,Tier 2,18.0,13.6,,No
+TCK-50673,2025-08-24 03:02,Email,Medium,Payments,Tier 2,9.0,23.1,4.0,No
+TCK-50843,2025-08-24 03:22,Email,Low,Login & Access,Tier 2,14.0,1.1,5.0,No
+TCK-51432,2025-08-24 05:34,Email,Urgent,Login & Access,Specialists,22.0,0.6,5.0,No
+TCK-50628,2025-08-24 07:01,Web form,Low,Integrations,Tier 2,14.0,13.8,3.0,No
+TCK-51023,2025-08-24 10:44,Email,Low,Payments,Tier 2,17.0,39.4,3.0,No
+TCK-51067,2025-08-24 18:00,Web form,Low,Mobile App,Tier 1,87.0,1.3,5.0,No
+TCK-51157,2025-08-24 20:02,Email,Urgent,Payments,Tier 2,52.0,29.3,3.0,No
+TCK-50516,2025-08-24 23:33,Phone,Medium,Reporting,Tier 1,13.0,5.5,5.0,No
+TCK-50976,2025-08-25 03:00,Phone,Medium,Login & Access,Tier 1,15.0,0.5,5.0,No
+TCK-51414,2025-08-25 11:52,Email,Low,Billing,Tier 1,24.0,9.9,5.0,No
+TCK-50005,2025-08-25 15:10,Phone,Urgent,Login & Access,Tier 2,6.0,6.2,,No
+TCK-50557,2025-08-25 19:29,Chat,Low,Reporting,Tier 2,25.0,1.9,5.0,No
+TCK-50597,2025-08-25 23:01,Chat,Urgent,Mobile App,Tier 2,67.0,7.3,4.0,No
+TCK-50724,2025-08-26 04:52,Email,Low,Mobile App,Tier 1,23.0,9.0,5.0,Yes
+TCK-51493,2025-08-26 22:33,Chat,High,Payments,Specialists,15.0,8.1,5.0,No
+TCK-51398,2025-08-27 02:47,Email,Low,Mobile App,Tier 1,26.0,13.9,5.0,No
+TCK-50794,2025-08-27 10:00,Phone,Medium,Mobile App,Tier 2,12.0,3.6,4.0,No
+TCK-50935,2025-08-27 19:40,Chat,Low,Mobile App,Tier 1,89.0,3.6,4.0,Yes
+TCK-50302,2025-08-28 02:31,Email,High,Payments,Tier 2,41.0,14.5,4.0,No
+TCK-51468,2025-08-28 03:17,Chat,Low,Mobile App,Tier 2,57.0,6.8,3.0,No
+TCK-51231,2025-08-28 05:10,Phone,Low,Mobile App,Tier 1,30.0,24.6,4.0,No
+TCK-50222,2025-08-28 17:03,Phone,High,Integrations,Specialists,15.0,87.7,,No
+TCK-50776,2025-08-29 00:03,Email,Medium,Login & Access,Tier 1,37.0,4.9,5.0,No
+TCK-50735,2025-08-29 02:18,Email,Low,Login & Access,Tier 1,84.0,5.5,5.0,No
+TCK-50880,2025-08-29 03:12,Chat,Low,Mobile App,Tier 1,70.0,14.7,5.0,No
+TCK-51180,2025-08-29 04:37,Chat,Low,Reporting,Tier 2,67.0,8.2,5.0,No
+TCK-50760,2025-08-29 10:06,Email,Medium,Login & Access,Tier 1,7.0,0.9,5.0,No
+TCK-51131,2025-08-29 11:15,Email,Urgent,Login & Access,Specialists,13.0,13.4,3.0,No
+TCK-50035,2025-08-29 12:28,Chat,Low,Billing,Tier 2,49.0,3.7,,No
+TCK-50594,2025-08-29 13:22,Chat,Medium,Billing,Tier 1,10.0,13.9,,No
+TCK-50245,2025-08-29 14:27,Email,Low,Integrations,Tier 1,79.0,50.1,3.0,No
+TCK-50636,2025-08-29 16:45,Email,High,Mobile App,Tier 2,33.0,6.7,5.0,No
+TCK-51240,2025-08-29 17:32,Email,Low,Billing,Tier 2,11.0,21.2,5.0,No
+TCK-50450,2025-08-29 18:45,Chat,Medium,Billing,Tier 1,39.0,0.8,5.0,No
+TCK-51076,2025-08-29 18:52,Phone,High,Payments,Specialists,1.0,7.7,4.0,No
+TCK-51328,2025-08-30 09:35,Web form,Medium,Login & Access,Tier 2,29.0,12.5,5.0,No
+TCK-50017,2025-08-30 12:41,Chat,High,Mobile App,Specialists,81.0,8.2,,No
+TCK-50435,2025-08-30 13:00,Chat,High,Reporting,Specialists,34.0,0.3,,No
+TCK-50429,2025-08-30 14:49,Email,Low,Billing,Tier 1,16.0,11.1,5.0,No
+TCK-50848,2025-08-30 21:34,Phone,Low,Login & Access,Tier 1,17.0,5.9,4.0,No
+TCK-51237,2025-08-31 02:00,Chat,Medium,Billing,Tier 1,35.0,8.8,5.0,No
+TCK-50585,2025-08-31 02:15,Email,Low,Payments,Tier 2,65.0,10.9,3.0,Yes
+TCK-50930,2025-08-31 05:33,Chat,Medium,Reporting,Tier 1,19.0,2.3,5.0,No
+TCK-50822,2025-08-31 09:10,Chat,High,Reporting,Tier 2,18.0,5.3,,No
+TCK-50413,2025-08-31 13:56,Email,High,Login & Access,Tier 2,23.0,4.1,5.0,No
+TCK-50819,2025-08-31 14:40,Phone,Urgent,Login & Access,Tier 2,25.0,3.3,5.0,No
+TCK-51350,2025-08-31 15:24,Chat,Medium,Payments,Tier 2,16.0,8.6,,No
+TCK-50363,2025-08-31 15:59,Phone,Low,Mobile App,Tier 1,10.0,12.0,5.0,No
+TCK-51022,2025-08-31 16:53,Chat,High,Integrations,Tier 2,82.0,6.1,5.0,No
+TCK-51086,2025-08-31 19:25,Chat,Medium,Integrations,Tier 1,52.0,2.0,,No
+TCK-51407,2025-08-31 20:04,Email,Low,Payments,Tier 1,34.0,5.8,5.0,No
+TCK-50459,2025-09-01 00:06,Email,Medium,Integrations,Tier 1,27.0,9.0,5.0,No
+TCK-50815,2025-09-01 00:57,Web form,Low,Reporting,Tier 1,16.0,25.4,,No
+TCK-50196,2025-09-01 01:18,Web form,Medium,Mobile App,Tier 2,26.0,7.9,5.0,No
+TCK-51351,2025-09-01 06:08,Chat,Low,Payments,Tier 1,31.0,17.5,5.0,No
+TCK-50303,2025-09-01 13:59,Chat,High,Mobile App,Specialists,21.0,12.1,,No
+TCK-51070,2025-09-01 17:22,Chat,Medium,Reporting,Tier 1,59.0,11.4,3.0,No
+TCK-50899,2025-09-01 19:31,Email,Medium,Payments,Tier 2,29.0,7.5,4.0,No
+TCK-50034,2025-09-01 22:55,Email,Medium,Payments,Tier 1,54.0,18.5,5.0,No
+TCK-51489,2025-09-02 01:55,Email,Low,Mobile App,Tier 1,17.0,11.2,,No
+TCK-50054,2025-09-02 03:13,Email,Medium,Reporting,Tier 1,8.0,10.7,,No
+TCK-51008,2025-09-02 12:35,Chat,Medium,Integrations,Tier 1,58.0,7.1,4.0,No
+TCK-50233,2025-09-02 14:39,Email,High,Billing,Tier 2,10.0,14.5,5.0,No
+TCK-50401,2025-09-02 20:29,Email,Urgent,Payments,Tier 2,50.0,4.1,4.0,No
+TCK-51373,2025-09-03 02:17,Email,Low,Login & Access,Tier 1,20.0,1.0,5.0,No
+TCK-50324,2025-09-03 11:19,Email,Urgent,Login & Access,Tier 2,52.0,7.2,4.0,No
+TCK-51253,2025-09-03 15:26,Email,High,Payments,Tier 2,7.0,14.7,4.0,No
+TCK-50355,2025-09-03 16:27,Email,High,Integrations,Specialists,37.0,17.1,,No
+TCK-50239,2025-09-03 16:38,Phone,Medium,Login & Access,Tier 1,7.0,1.1,,No
+TCK-51486,2025-09-03 18:06,Chat,Medium,Billing,Tier 1,43.0,8.3,4.0,No
+TCK-50570,2025-09-03 18:17,Web form,Low,Payments,Tier 1,20.0,17.1,4.0,No
+TCK-50113,2025-09-03 22:35,Email,Urgent,Login & Access,Specialists,35.0,11.1,5.0,No
+TCK-50368,2025-09-03 22:48,Email,Urgent,Integrations,Specialists,4.0,19.1,,No
+TCK-50020,2025-09-03 23:17,Email,Urgent,Integrations,Specialists,80.0,10.3,,No
+TCK-51141,2025-09-04 01:22,Email,High,Mobile App,Tier 2,54.0,4.7,5.0,No
+TCK-51421,2025-09-04 02:00,Email,Low,Integrations,Tier 1,88.0,25.2,4.0,Yes
+TCK-51029,2025-09-04 04:35,Email,Medium,Reporting,Tier 1,60.0,8.9,,Yes
+TCK-51443,2025-09-04 07:06,Chat,High,Reporting,Tier 2,12.0,9.5,4.0,No
+TCK-50905,2025-09-04 12:45,Phone,Low,Login & Access,Tier 1,17.0,2.5,5.0,No
+TCK-50824,2025-09-04 15:26,Phone,Medium,Billing,Tier 2,6.0,5.9,,No
+TCK-50015,2025-09-05 01:28,Chat,Low,Reporting,Tier 1,36.0,6.4,,No
+TCK-51270,2025-09-05 02:21,Web form,Urgent,Reporting,Tier 2,27.0,19.0,3.0,No
+TCK-51106,2025-09-05 06:22,Chat,Low,Mobile App,Tier 1,63.0,8.3,5.0,No
+TCK-51138,2025-09-05 11:10,Email,Low,Reporting,Tier 1,149.0,20.5,4.0,No
+TCK-50056,2025-09-05 13:45,Email,Low,Integrations,Tier 2,7.0,7.1,4.0,No
+TCK-51348,2025-09-05 14:33,Web form,Medium,Reporting,Tier 2,25.0,5.4,5.0,No
+TCK-50457,2025-09-05 16:04,Phone,Medium,Billing,Tier 1,12.0,21.6,4.0,No
+TCK-51012,2025-09-05 16:26,Phone,Low,Billing,Tier 1,21.0,4.9,,No
+TCK-50726,2025-09-05 16:51,Email,Low,Mobile App,Tier 1,56.0,9.5,5.0,No
+TCK-50647,2025-09-05 23:58,Phone,Medium,Payments,Tier 1,8.0,27.0,4.0,Yes
+TCK-50902,2025-09-06 01:40,Email,Low,Billing,Tier 1,66.0,12.0,5.0,No
+TCK-50559,2025-09-06 02:24,Phone,Medium,Payments,Tier 1,7.0,20.2,2.0,No
+TCK-51424,2025-09-06 02:27,Email,Low,Login & Access,Tier 1,1.0,0.6,,No
+TCK-50752,2025-09-06 03:53,Chat,Medium,Billing,Tier 1,5.0,2.9,,No
+TCK-50134,2025-09-06 04:34,Email,High,Billing,Specialists,13.0,10.2,5.0,No
+TCK-50929,2025-09-06 08:11,Email,Medium,Payments,Tier 2,15.0,24.8,4.0,No
+TCK-51005,2025-09-06 12:22,Email,Low,Billing,Tier 2,18.0,11.7,3.0,No
+TCK-51003,2025-09-06 14:57,Email,Medium,Reporting,Tier 1,86.0,27.3,,No
+TCK-50438,2025-09-06 17:31,Email,Low,Mobile App,Tier 1,45.0,13.8,,No
+TCK-50777,2025-09-06 20:04,Chat,Medium,Reporting,Tier 2,35.0,15.2,,No
+TCK-51442,2025-09-06 23:51,Chat,Medium,Login & Access,Tier 1,9.0,3.1,4.0,No
+TCK-50077,2025-09-07 01:56,Phone,Low,Login & Access,Tier 1,8.0,4.6,4.0,No
+TCK-50497,2025-09-07 04:43,Phone,Low,Payments,Tier 1,8.0,24.8,4.0,No
+TCK-50631,2025-09-07 05:12,Email,Low,Login & Access,Tier 1,51.0,7.2,5.0,No
+TCK-51171,2025-09-07 06:53,Email,Medium,Reporting,Tier 1,68.0,12.3,4.0,No
+TCK-50284,2025-09-07 09:08,Email,High,Billing,Specialists,37.0,6.3,5.0,No
+TCK-50950,2025-09-07 12:31,Email,High,Billing,Tier 2,25.0,18.1,5.0,No
+TCK-50539,2025-09-07 17:02,Email,Low,Login & Access,Tier 1,13.0,2.7,,No
+TCK-51320,2025-09-07 20:44,Email,High,Payments,Tier 2,24.0,27.7,4.0,No
+TCK-50780,2025-09-07 21:14,Email,Medium,Mobile App,Tier 1,4.0,8.8,,No
+TCK-50006,2025-09-07 21:44,Chat,Low,Billing,Tier 2,30.0,7.3,5.0,No
+TCK-50833,2025-09-08 05:27,Web form,Medium,Login & Access,Tier 1,95.0,5.4,5.0,No
+TCK-50892,2025-09-08 06:09,Chat,Medium,Billing,Tier 2,9.0,3.1,4.0,No
+TCK-50798,2025-09-08 17:11,Email,Medium,Billing,Tier 2,25.0,12.0,,No
+TCK-50325,2025-09-09 09:34,Email,Medium,Integrations,Tier 2,16.0,59.7,,No
+TCK-50358,2025-09-09 14:29,Web form,Low,Reporting,Tier 2,51.0,9.7,5.0,No
+TCK-50536,2025-09-09 18:59,Phone,Low,Login & Access,Tier 2,12.0,12.8,,No
+TCK-50422,2025-09-09 19:11,Email,Low,Billing,Tier 1,48.0,6.2,,No
+TCK-50708,2025-09-09 19:56,Web form,Urgent,Integrations,Tier 2,11.0,6.1,5.0,No
+TCK-50595,2025-09-10 01:15,Email,Medium,Mobile App,Tier 1,26.0,2.4,5.0,No
+TCK-51426,2025-09-10 01:43,Web form,Medium,Billing,Tier 1,47.0,7.5,5.0,No
+TCK-51354,2025-09-10 03:15,Email,High,Payments,Specialists,64.0,8.1,5.0,No
+TCK-50492,2025-09-10 04:56,Phone,Low,Mobile App,Tier 2,14.0,17.3,3.0,No
+TCK-50802,2025-09-10 06:54,Phone,Medium,Mobile App,Tier 2,14.0,25.2,,No
+TCK-50619,2025-09-10 08:23,Chat,Low,Login & Access,Tier 2,22.0,5.1,5.0,Yes
+TCK-50528,2025-09-10 10:21,Email,High,Mobile App,Specialists,54.0,12.4,,No
+TCK-50933,2025-09-10 10:37,Email,Low,Billing,Tier 1,54.0,12.8,,No
+TCK-50151,2025-09-10 12:31,Chat,Low,Payments,Tier 2,29.0,3.4,,No
+TCK-50042,2025-09-10 12:36,Email,Low,Integrations,Tier 2,48.0,47.6,2.0,Yes
+TCK-50150,2025-09-10 15:29,Chat,Low,Login & Access,Tier 1,15.0,14.3,,No
+TCK-50672,2025-09-10 16:29,Email,High,Reporting,Tier 2,27.0,17.6,,No
+TCK-51263,2025-09-10 21:01,Chat,Low,Reporting,Tier 1,48.0,7.5,5.0,No
+TCK-50236,2025-09-10 23:49,Email,High,Login & Access,Specialists,75.0,4.8,4.0,No
+TCK-50087,2025-09-10 23:56,Email,Medium,Reporting,Tier 1,37.0,17.9,3.0,No
+TCK-50238,2025-09-11 01:20,Email,Medium,Billing,Tier 1,25.0,9.0,5.0,No
+TCK-51122,2025-09-11 04:33,Email,Medium,Integrations,Tier 1,52.0,14.9,4.0,Yes
+TCK-51453,2025-09-11 10:57,Chat,High,Billing,Tier 2,21.0,10.0,,No
+TCK-50783,2025-09-11 13:54,Chat,Low,Mobile App,Tier 1,9.0,15.8,,No
+TCK-50560,2025-09-11 15:49,Chat,Medium,Login & Access,Tier 2,64.0,4.8,4.0,No
+TCK-51201,2025-09-11 23:44,Web form,Low,Billing,Tier 1,10.0,16.6,,No
+TCK-51225,2025-09-12 10:47,Email,High,Mobile App,Tier 2,78.0,3.8,5.0,No
+TCK-50510,2025-09-12 11:27,Email,Low,Payments,Tier 2,38.0,20.6,,No
+TCK-50417,2025-09-12 13:38,Chat,High,Reporting,Tier 2,25.0,10.8,,No
+TCK-51170,2025-09-12 13:43,Chat,Medium,Mobile App,Tier 2,62.0,23.8,5.0,No
+TCK-50720,2025-09-12 15:10,Email,High,Billing,Tier 2,19.0,10.1,4.0,No
+TCK-50666,2025-09-12 18:16,Phone,Medium,Login & Access,Tier 1,9.0,1.9,,No
+TCK-50542,2025-09-12 19:29,Chat,Medium,Payments,Tier 2,9.0,13.2,,Yes
+TCK-50772,2025-09-12 19:46,Chat,High,Reporting,Tier 2,15.0,8.3,5.0,No
+TCK-51346,2025-09-12 20:08,Phone,Medium,Billing,Tier 2,21.0,23.2,4.0,No
+TCK-50980,2025-09-12 21:26,Email,Low,Payments,Tier 1,34.0,6.7,4.0,No
+TCK-50044,2025-09-13 08:32,Phone,Medium,Billing,Tier 1,4.0,9.6,,No
+TCK-50398,2025-09-13 09:08,Chat,Medium,Billing,Tier 1,11.0,24.6,3.0,No
+TCK-51058,2025-09-13 16:43,Phone,Urgent,Integrations,Tier 2,15.0,15.0,,No
+TCK-50944,2025-09-13 18:30,Phone,Medium,Login & Access,Tier 1,22.0,3.4,5.0,No
+TCK-51311,2025-09-13 21:56,Email,Urgent,Payments,Specialists,23.0,11.7,5.0,No
+TCK-50945,2025-09-14 00:23,Email,Medium,Billing,Tier 1,42.0,14.1,4.0,No
+TCK-50713,2025-09-14 01:10,Email,High,Billing,Tier 2,47.0,43.4,1.0,No
+TCK-51308,2025-09-14 09:55,Email,High,Login & Access,Tier 2,11.0,3.5,5.0,No
+TCK-51279,2025-09-14 11:30,Email,Medium,Login & Access,Tier 1,15.0,3.0,5.0,No
+TCK-50433,2025-09-14 13:59,Phone,High,Payments,Tier 2,5.0,20.3,5.0,No
+TCK-50216,2025-09-14 19:33,Email,Medium,Mobile App,Tier 1,38.0,25.6,3.0,No
+TCK-51357,2025-09-15 03:45,Email,Medium,Integrations,Tier 1,40.0,22.1,,No
+TCK-50242,2025-09-15 08:30,Email,Low,Payments,Tier 1,35.0,13.9,5.0,No
+TCK-50993,2025-09-15 10:36,Email,High,Integrations,Specialists,13.0,36.6,4.0,No
+TCK-50262,2025-09-15 10:39,Email,High,Billing,Specialists,10.0,5.0,5.0,No
+TCK-50548,2025-09-15 11:37,Chat,Medium,Payments,Tier 1,71.0,2.4,,No
+TCK-51359,2025-09-15 13:23,Phone,Medium,Mobile App,Tier 1,12.0,5.4,,No
+TCK-51112,2025-09-15 13:28,Web form,High,Mobile App,Tier 2,20.0,11.8,4.0,No
+TCK-50465,2025-09-15 14:32,Email,Low,Payments,Tier 1,30.0,5.3,5.0,No
+TCK-51497,2025-09-16 12:30,Chat,Low,Reporting,Tier 2,80.0,1.4,4.0,No
+TCK-50099,2025-09-16 12:52,Web form,Medium,Billing,Tier 1,6.0,19.3,4.0,No
+TCK-50209,2025-09-16 20:57,Email,Medium,Billing,Tier 1,48.0,14.7,5.0,Yes
+TCK-50737,2025-09-17 00:24,Email,Medium,Payments,Tier 1,38.0,5.7,,No
+TCK-50011,2025-09-17 01:02,Chat,Low,Payments,Tier 1,8.0,7.6,5.0,No
+TCK-50604,2025-09-17 03:52,Email,Medium,Billing,Tier 1,3.0,11.4,,Yes
+TCK-50145,2025-09-17 03:55,Email,Low,Reporting,Tier 2,25.0,22.1,4.0,No
+TCK-50183,2025-09-17 15:41,Email,Medium,Mobile App,Tier 2,8.0,3.0,5.0,No
+TCK-50518,2025-09-17 16:03,Phone,Medium,Mobile App,Tier 1,9.0,10.8,5.0,No
+TCK-50365,2025-09-17 23:47,Email,High,Reporting,Tier 2,20.0,8.4,5.0,No
+TCK-51492,2025-09-17 23:58,Phone,Low,Payments,Tier 1,10.0,10.8,5.0,No
+TCK-50287,2025-09-18 02:31,Chat,Medium,Login & Access,Tier 2,28.0,1.6,,No
+TCK-50887,2025-09-18 05:17,Chat,Low,Reporting,Tier 1,24.0,14.6,4.0,No
+TCK-51480,2025-09-18 12:39,Email,Low,Login & Access,Tier 1,41.0,4.1,5.0,No
+TCK-50083,2025-09-18 14:18,Email,High,Payments,Specialists,3.0,12.1,4.0,No
+TCK-50773,2025-09-18 17:11,Email,Low,Payments,Tier 1,34.0,27.5,3.0,No
+TCK-50924,2025-09-18 17:41,Phone,High,Integrations,Specialists,9.0,34.4,5.0,No
+TCK-50484,2025-09-18 21:01,Email,Medium,Billing,Tier 1,13.0,13.2,5.0,Yes
+TCK-50070,2025-09-18 22:36,Email,Low,Billing,Tier 1,21.0,11.5,4.0,No
+TCK-51420,2025-09-19 02:46,Chat,Medium,Login & Access,Tier 1,64.0,4.5,,No
+TCK-50441,2025-09-19 02:53,Email,Low,Mobile App,Tier 2,32.0,17.1,4.0,No
+TCK-50547,2025-09-19 10:02,Phone,Medium,Reporting,Tier 2,4.0,8.8,5.0,No
+TCK-50169,2025-09-19 10:46,Chat,High,Reporting,Specialists,62.0,6.7,,No
+TCK-50985,2025-09-19 12:39,Phone,Medium,Mobile App,Tier 1,9.0,18.1,5.0,No
+TCK-51347,2025-09-19 14:44,Chat,Medium,Reporting,Tier 1,51.0,3.1,5.0,No
+TCK-51050,2025-09-19 16:45,Web form,High,Payments,Specialists,32.0,20.9,4.0,No
+TCK-51163,2025-09-19 22:32,Email,High,Mobile App,Tier 2,100.0,9.4,,No
+TCK-50582,2025-09-20 11:31,Chat,Medium,Login & Access,Tier 1,11.0,1.9,5.0,Yes
+TCK-50693,2025-09-20 12:17,Phone,Low,Login & Access,Tier 2,7.0,5.3,5.0,No
+TCK-50979,2025-09-20 14:20,Email,Medium,Mobile App,Tier 1,31.0,19.8,,Yes
+TCK-50366,2025-09-20 15:57,Chat,Medium,Billing,Tier 1,27.0,5.2,5.0,No
+TCK-51044,2025-09-20 21:29,Email,Low,Login & Access,Tier 1,73.0,3.7,5.0,No
+TCK-51334,2025-09-20 22:44,Phone,Medium,Billing,Tier 1,24.0,6.5,5.0,No
+TCK-50467,2025-09-21 11:38,Email,Medium,Reporting,Tier 1,42.0,9.0,5.0,No
+TCK-51147,2025-09-21 14:37,Email,Low,Billing,Tier 1,54.0,8.2,5.0,No
+TCK-51186,2025-09-22 00:09,Email,Medium,Reporting,Tier 1,111.0,15.4,2.0,No
+TCK-50356,2025-09-22 01:30,Email,High,Billing,Specialists,28.0,7.5,4.0,No
+TCK-50480,2025-09-22 03:14,Chat,Low,Login & Access,Tier 1,66.0,4.7,,No
+TCK-50279,2025-09-22 07:23,Email,Medium,Mobile App,Tier 1,29.0,48.0,3.0,No
+TCK-50579,2025-09-22 07:38,Email,Medium,Login & Access,Tier 1,23.0,4.9,5.0,No
+TCK-50940,2025-09-22 07:40,Email,Medium,Billing,Tier 2,9.0,11.4,5.0,No
+TCK-50003,2025-09-22 11:05,Chat,High,Billing,Tier 2,77.0,10.3,5.0,No
+TCK-51221,2025-09-22 18:37,Web form,High,Integrations,Specialists,103.0,24.3,,No
+TCK-50278,2025-09-22 20:33,Web form,Low,Integrations,Tier 2,68.0,9.7,4.0,No
+TCK-50416,2025-09-23 05:27,Email,Medium,Login & Access,Tier 1,10.0,2.3,5.0,No
+TCK-51094,2025-09-23 12:42,Phone,Medium,Reporting,Tier 1,7.0,9.3,5.0,No
+TCK-50218,2025-09-23 20:57,Email,High,Login & Access,Specialists,22.0,2.8,5.0,No
+TCK-50155,2025-09-23 23:55,Phone,Low,Mobile App,Tier 1,8.0,24.4,5.0,No
+TCK-50524,2025-09-24 00:19,Email,Medium,Payments,Tier 1,86.0,13.2,,No
+TCK-51304,2025-09-24 09:37,Email,High,Payments,Tier 2,17.0,19.7,2.0,No
+TCK-50533,2025-09-24 13:31,Email,Low,Login & Access,Tier 2,23.0,14.1,5.0,No
+TCK-50198,2025-09-24 17:59,Email,High,Payments,Tier 2,61.0,14.3,,No
+TCK-50330,2025-09-25 02:35,Email,Medium,Integrations,Tier 1,99.0,6.5,4.0,No
+TCK-50223,2025-09-25 04:50,Email,Low,Mobile App,Tier 2,30.0,5.5,,No
+TCK-51272,2025-09-25 07:18,Web form,High,Payments,Specialists,20.0,4.8,5.0,No
+TCK-50254,2025-09-25 09:11,Email,Medium,Login & Access,Tier 1,98.0,11.1,5.0,No
+TCK-51455,2025-09-25 10:53,Email,Medium,Reporting,Tier 1,26.0,9.4,4.0,Yes
+TCK-50646,2025-09-25 21:23,Web form,High,Mobile App,Specialists,66.0,12.9,4.0,No
+TCK-50456,2025-09-25 23:45,Email,Low,Login & Access,Tier 1,24.0,6.3,,No
+TCK-50012,2025-09-25 23:46,Email,Medium,Login & Access,Tier 2,134.0,1.1,5.0,No
+TCK-50361,2025-09-26 03:47,Chat,Medium,Mobile App,Tier 1,86.0,29.3,4.0,No
+TCK-50872,2025-09-26 05:30,Email,Low,Reporting,Tier 1,29.0,6.7,5.0,No
+TCK-50770,2025-09-26 05:52,Email,Low,Billing,Tier 1,114.0,8.7,,No
+TCK-51256,2025-09-26 09:18,Chat,High,Payments,Specialists,8.0,19.5,4.0,No
+TCK-50669,2025-09-26 09:41,Web form,Medium,Mobile App,Tier 2,38.0,9.1,5.0,No
+TCK-50759,2025-09-26 12:35,Email,Urgent,Billing,Specialists,34.0,13.5,4.0,No
+TCK-51173,2025-09-26 13:21,Phone,High,Mobile App,Tier 2,8.0,23.2,3.0,No
+TCK-50323,2025-09-26 15:23,Web form,Medium,Mobile App,Tier 2,4.0,9.7,5.0,No
+TCK-50369,2025-09-26 16:19,Chat,Low,Mobile App,Tier 1,15.0,13.5,,No
+TCK-50695,2025-09-26 20:06,Email,Low,Integrations,Tier 1,32.0,14.3,3.0,No
+TCK-50055,2025-09-27 00:45,Email,Medium,Integrations,Tier 1,21.0,15.1,,No
+TCK-50360,2025-09-27 07:47,Email,Urgent,Billing,Specialists,29.0,13.5,3.0,No
+TCK-50797,2025-09-27 13:19,Email,High,Reporting,Tier 2,34.0,5.6,5.0,No
+TCK-50633,2025-09-27 13:22,Chat,Medium,Payments,Tier 1,20.0,6.4,5.0,No
+TCK-50649,2025-09-27 19:27,Chat,Medium,Billing,Tier 2,34.0,6.6,5.0,No
+TCK-50310,2025-09-27 22:14,Email,Medium,Payments,Tier 1,81.0,3.9,4.0,No
+TCK-51465,2025-09-28 01:03,Email,Low,Reporting,Tier 1,12.0,8.1,4.0,No
+TCK-51280,2025-09-28 02:14,Email,Low,Reporting,Tier 2,18.0,23.8,4.0,No
+TCK-51335,2025-09-28 06:12,Chat,Low,Integrations,Tier 1,9.0,39.5,3.0,Yes
+TCK-50291,2025-09-28 07:29,Phone,Medium,Login & Access,Tier 1,4.0,12.7,,No
+TCK-50918,2025-09-28 08:08,Email,Urgent,Integrations,Tier 2,31.0,8.7,,No
+TCK-51081,2025-09-28 09:49,Chat,High,Billing,Tier 2,21.0,11.4,5.0,No
+TCK-51145,2025-09-28 13:15,Chat,Medium,Mobile App,Tier 2,34.0,21.5,2.0,No
+TCK-51445,2025-09-28 13:31,Email,Medium,Billing,Tier 1,60.0,25.3,4.0,No
+TCK-50640,2025-09-29 00:07,Email,Low,Reporting,Tier 2,10.0,2.0,,No
+TCK-50972,2025-09-29 05:30,Email,Medium,Reporting,Tier 1,53.0,11.3,,No
+TCK-50664,2025-09-29 05:47,Email,Low,Payments,Tier 1,13.0,16.9,4.0,No
+TCK-50163,2025-09-29 11:46,Web form,High,Mobile App,Tier 2,42.0,32.7,4.0,No
+TCK-51217,2025-09-29 12:16,Chat,Urgent,Billing,Tier 2,38.0,20.3,,No
+TCK-50869,2025-09-30 10:53,Chat,Medium,Payments,Tier 1,59.0,9.3,5.0,No
+TCK-50860,2025-09-30 12:45,Web form,Medium,Mobile App,Tier 1,49.0,16.6,,No
+TCK-50894,2025-09-30 17:07,Email,Low,Login & Access,Tier 1,50.0,7.1,,No
+TCK-50227,2025-09-30 18:04,Chat,Medium,Reporting,Tier 1,7.0,12.1,4.0,No
+TCK-50988,2025-10-01 01:42,Chat,Medium,Billing,Tier 1,24.0,8.0,4.0,No
+TCK-50803,2025-10-01 11:47,Chat,High,Login & Access,Tier 2,79.0,3.7,,Yes
+TCK-51284,2025-10-01 15:29,Chat,Low,Login & Access,Tier 2,40.0,3.5,5.0,No
+TCK-51174,2025-10-01 17:49,Web form,Low,Reporting,Tier 2,55.0,6.6,5.0,No
+TCK-50397,2025-10-01 21:07,Chat,Medium,Payments,Tier 1,32.0,4.3,5.0,No
+TCK-50593,2025-10-02 01:43,Email,Medium,Mobile App,Tier 1,48.0,20.5,4.0,No
+TCK-51245,2025-10-02 01:57,Chat,Medium,Mobile App,Tier 1,28.0,32.8,,No
+TCK-50086,2025-10-02 04:52,Chat,Low,Payments,Tier 1,52.0,9.6,5.0,No
+TCK-50690,2025-10-02 05:18,Email,Medium,Login & Access,Tier 1,51.0,1.7,5.0,No
+TCK-50747,2025-10-02 14:59,Phone,Medium,Login & Access,Tier 1,8.0,16.1,5.0,No
+TCK-50716,2025-10-02 17:20,Email,Medium,Billing,Tier 1,109.0,2.4,5.0,No
+TCK-51466,2025-10-02 18:57,Chat,Medium,Mobile App,Tier 2,25.0,8.0,4.0,No
+TCK-50568,2025-10-02 21:31,Web form,Medium,Payments,Tier 1,39.0,13.7,4.0,No
+TCK-51110,2025-10-03 00:59,Web form,Medium,Billing,Tier 1,46.0,33.0,4.0,No
+TCK-51232,2025-10-03 04:29,Chat,Low,Reporting,Tier 1,1.0,2.7,3.0,No
+TCK-50479,2025-10-03 08:38,Email,Medium,Integrations,Tier 2,19.0,6.6,5.0,No
+TCK-50000,2025-10-03 09:11,Phone,Low,Mobile App,Tier 1,5.0,17.6,3.0,No
+TCK-50153,2025-10-03 09:26,Phone,Urgent,Reporting,Tier 2,4.0,11.8,5.0,No
+TCK-50734,2025-10-03 09:26,Email,Low,Billing,Tier 1,78.0,1.5,5.0,No
+TCK-51158,2025-10-03 12:12,Email,Urgent,Integrations,Tier 2,101.0,31.7,2.0,No
+TCK-50286,2025-10-03 13:53,Chat,Medium,Billing,Tier 1,31.0,4.0,,No
+TCK-50977,2025-10-04 01:39,Email,Low,Login & Access,Tier 1,66.0,7.2,5.0,No
+TCK-50261,2025-10-04 02:53,Email,Medium,Billing,Tier 1,41.0,19.3,,No
+TCK-50380,2025-10-04 12:15,Email,Medium,Login & Access,Tier 1,100.0,8.3,4.0,No
+TCK-50276,2025-10-04 16:12,Chat,High,Payments,Tier 2,29.0,3.4,5.0,No
+TCK-50825,2025-10-04 16:17,Email,Medium,Billing,Tier 2,33.0,15.8,5.0,No
+TCK-50662,2025-10-04 16:30,Phone,Low,Reporting,Tier 1,12.0,9.0,3.0,No
+TCK-51358,2025-10-04 17:57,Email,Urgent,Payments,Tier 2,14.0,14.4,4.0,No
+TCK-50299,2025-10-04 18:21,Chat,Low,Mobile App,Tier 2,13.0,10.4,,No
+TCK-50138,2025-10-04 21:15,Chat,Urgent,Payments,Tier 2,27.0,9.6,,No
+TCK-51202,2025-10-04 21:58,Chat,Medium,Reporting,Tier 1,50.0,6.9,5.0,No
+TCK-50864,2025-10-04 22:32,Email,Low,Mobile App,Tier 1,101.0,3.6,4.0,No
+TCK-50269,2025-10-05 00:24,Email,Medium,Login & Access,Tier 1,61.0,14.6,4.0,Yes
+TCK-50246,2025-10-05 01:21,Phone,Medium,Reporting,Tier 2,10.0,23.4,,No
+TCK-51185,2025-10-05 02:30,Email,Medium,Integrations,Tier 1,74.0,11.6,5.0,No
+TCK-51161,2025-10-05 07:38,Web form,Medium,Mobile App,Tier 1,36.0,14.5,5.0,No
+TCK-51393,2025-10-05 08:51,Email,Low,Login & Access,Tier 1,29.0,3.1,5.0,No
+TCK-50126,2025-10-06 02:22,Email,Low,Payments,Tier 1,3.0,16.4,5.0,No
+TCK-51120,2025-10-06 03:24,Phone,Medium,Reporting,Tier 2,5.0,13.2,4.0,No
+TCK-50851,2025-10-06 11:05,Phone,Low,Mobile App,Tier 1,20.0,16.0,,No
+TCK-50862,2025-10-06 15:12,Web form,Low,Login & Access,Tier 1,23.0,3.8,5.0,No
+TCK-50415,2025-10-06 20:32,Chat,Low,Reporting,Tier 1,32.0,5.0,,No
+TCK-50156,2025-10-06 23:22,Web form,Medium,Billing,Tier 1,11.0,36.7,,No
+TCK-50339,2025-10-07 03:35,Email,High,Login & Access,Specialists,62.0,6.8,5.0,No
+TCK-51113,2025-10-07 05:33,Email,Medium,Billing,Tier 1,102.0,21.6,4.0,No
+TCK-51055,2025-10-07 07:25,Chat,Urgent,Login & Access,Tier 2,12.0,0.5,,No
+TCK-50936,2025-10-07 09:16,Phone,Low,Payments,Tier 1,19.0,40.0,,No
+TCK-51299,2025-10-07 12:10,Web form,Medium,Billing,Tier 2,116.0,12.1,,No
+TCK-50746,2025-10-07 19:14,Email,Medium,Billing,Tier 2,19.0,21.8,,No
+TCK-50082,2025-10-07 23:03,Email,Urgent,Login & Access,Tier 2,74.0,8.3,5.0,No
+TCK-50811,2025-10-08 01:59,Email,Urgent,Login & Access,Tier 2,74.0,4.7,4.0,No
+TCK-50201,2025-10-08 11:26,Chat,High,Login & Access,Tier 2,44.0,6.1,5.0,No
+TCK-50137,2025-10-08 15:10,Email,High,Billing,Specialists,40.0,1.0,5.0,No
+TCK-51408,2025-10-08 18:22,Email,Medium,Reporting,Tier 1,12.0,3.1,5.0,No
+TCK-51379,2025-10-08 19:11,Chat,Urgent,Payments,Tier 2,32.0,6.2,,No
+TCK-50068,2025-10-08 21:43,Phone,High,Mobile App,Tier 2,2.0,2.0,5.0,No
+TCK-50182,2025-10-08 23:55,Email,Low,Integrations,Tier 2,27.0,10.8,5.0,No
+TCK-50170,2025-10-09 00:24,Chat,Medium,Mobile App,Tier 1,36.0,23.6,4.0,No
+TCK-50624,2025-10-09 02:01,Chat,Medium,Reporting,Tier 2,38.0,5.7,5.0,No
+TCK-50751,2025-10-09 02:36,Chat,High,Payments,Tier 2,25.0,2.0,5.0,No
+TCK-50052,2025-10-09 04:34,Chat,Medium,Reporting,Tier 1,66.0,8.5,5.0,No
+TCK-50240,2025-10-09 05:24,Web form,Medium,Payments,Tier 1,22.0,50.0,3.0,No
+TCK-51066,2025-10-09 06:13,Web form,Low,Login & Access,Tier 1,81.0,15.3,4.0,No
+TCK-50800,2025-10-09 10:03,Phone,Urgent,Reporting,Tier 2,27.0,15.0,,No
+TCK-50311,2025-10-09 11:41,Email,Low,Login & Access,Tier 2,25.0,8.4,4.0,No
+TCK-50382,2025-10-09 12:57,Phone,Medium,Payments,Tier 2,11.0,33.1,4.0,No
+TCK-50786,2025-10-09 20:24,Chat,Medium,Mobile App,Tier 2,71.0,3.9,,No
+TCK-51214,2025-10-09 20:51,Phone,High,Login & Access,Specialists,10.0,11.7,,No
+TCK-51472,2025-10-10 09:55,Email,Low,Billing,Tier 1,23.0,4.6,,No
+TCK-51380,2025-10-10 13:10,Email,Medium,Mobile App,Tier 1,26.0,9.9,4.0,No
+TCK-50117,2025-10-11 03:11,Email,Low,Mobile App,Tier 1,33.0,18.2,,No
+TCK-51376,2025-10-11 03:19,Email,Medium,Billing,Tier 1,40.0,11.6,,Yes
+TCK-50745,2025-10-11 07:51,Email,Low,Reporting,Tier 2,16.0,22.8,,No
+TCK-50273,2025-10-11 12:14,Email,Medium,Mobile App,Tier 1,19.0,26.3,4.0,No
+TCK-51483,2025-10-11 21:35,Chat,High,Billing,Specialists,62.0,5.4,4.0,No
+TCK-51154,2025-10-12 01:33,Email,Medium,Integrations,Tier 1,109.0,27.0,4.0,No
+TCK-50176,2025-10-12 04:21,Email,Low,Payments,Tier 1,49.0,11.0,4.0,No
+TCK-50766,2025-10-12 09:24,Chat,Medium,Payments,Tier 1,70.0,6.7,4.0,No
+TCK-50706,2025-10-12 21:22,Chat,Urgent,Integrations,Specialists,14.0,18.8,3.0,No
+TCK-50264,2025-10-12 21:25,Phone,High,Billing,Tier 2,12.0,20.9,4.0,No
+TCK-50778,2025-10-13 03:36,Chat,Medium,Payments,Tier 2,16.0,4.0,,No
+TCK-50655,2025-10-13 05:20,Chat,High,Reporting,Specialists,28.0,21.1,,No
+TCK-50039,2025-10-13 11:19,Web form,Low,Login & Access,Tier 1,30.0,2.2,5.0,No
+TCK-51175,2025-10-13 15:59,Chat,Urgent,Billing,Tier 2,57.0,3.8,,No
+TCK-50026,2025-10-13 19:34,Web form,Low,Mobile App,Tier 1,25.0,26.6,3.0,No
+TCK-50486,2025-10-14 08:46,Phone,High,Integrations,Specialists,6.0,33.5,3.0,No
+TCK-50641,2025-10-14 09:14,Chat,High,Login & Access,Tier 2,60.0,12.8,5.0,No
+TCK-50064,2025-10-14 10:54,Email,Urgent,Login & Access,Specialists,67.0,4.3,5.0,No
+TCK-51000,2025-10-14 16:53,Email,Urgent,Integrations,Tier 2,14.0,9.8,5.0,No
+TCK-50732,2025-10-14 19:49,Phone,Low,Login & Access,Tier 1,31.0,7.3,4.0,No
+TCK-50691,2025-10-14 22:30,Chat,High,Login & Access,Tier 2,80.0,3.6,,No
+TCK-50033,2025-10-14 23:16,Web form,Low,Integrations,Tier 1,83.0,1.2,4.0,Yes
+TCK-50591,2025-10-15 06:15,Chat,Medium,Payments,Tier 1,37.0,25.8,,Yes
+TCK-50967,2025-10-15 18:49,Chat,High,Mobile App,Tier 2,39.0,10.7,4.0,No
+TCK-50224,2025-10-15 19:29,Chat,Medium,Mobile App,Tier 1,36.0,10.5,5.0,No

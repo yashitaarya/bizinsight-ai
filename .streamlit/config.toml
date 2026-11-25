@@ -1,0 +1,19 @@
+[server]
+# Hard upload limit in MB (Streamlit rejects larger files before our code sees them)
+maxUploadSize = 25
+
+[browser]
+# Don't send usage statistics to Streamlit
+gatherUsageStats = false
+
+[client]
+# Hide developer-only menu items such as "Deploy"
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6FA"
+textColor = "#0F172A"
+font = "sans serif"

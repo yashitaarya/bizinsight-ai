@@ -1,0 +1,35 @@
+# ---- Secrets: never commit these --------------------------------------------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ---- Your own data: never commit real spreadsheets by accident ---------------
+# (only the synthetic files in sample_data/ are published)
+*.csv
+*.xlsx
+*.xls
+!sample_data/*.csv
+uploads/
+
+# ---- Python ------------------------------------------------------------------
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.log
+
+# ---- Local AI-assistant folders (tool settings and links into .venv; not part of the project) ----
+.claude/
+.agents/
+
+# ---- OS / editor ---------------------------------------------------------------
+.DS_Store
+.vscode/
+.idea/
+
+# ---- Local output of scripts/live_check.py (real AI responses; regenerate any time) ----
+live_check_responses.json

@@ -1,0 +1,8 @@
+# Runtime dependencies. Ranges cover the versions the app was developed and tested with
+# (Python 3.13, pandas 3.x, Streamlit 1.67, Plotly 7.2, OpenAI SDK 3.59).
+streamlit>=1.50,<2
+pandas>=3.0,<4
+openpyxl>=3.1,<4
+plotly>=7.0,<8
+openai>=3.0,<4
+python-dotenv>=1.0,<2

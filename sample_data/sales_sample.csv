@@ -1,0 +1,1201 @@
+Order Date,Order ID,Region,Customer Segment,Product,Category,Units,Unit Price,Discount,Revenue,Cost
+2025-01-01,ORD-10208,West,Consumer,Headphones,Electronics,14,$78.36,10%,987.34,716.29
+2025-01-01,ORD-10281,North,Consumer,Standing Desk,Furniture,10,$380.82,0%,3808.2,2647.99
+2025-01-01,ORD-10287,South,Enterprise,Bookshelf,Furniture,5,$127.95,0%,639.75,418.45
+2025-01-01,ORD-10748,North,Consumer,Headphones,Electronics,5,$81.76,0%,408.8,293.41
+2025-01-01,ORD-10795,East,Small Business,Headphones,Electronics,7,$87.60,0%,613.2,434.39
+2025-01-01,ORD-11058,North,Small Business,Desk Chair,Furniture,7,$176.22,10%,1110.19,764.49
+2025-01-01,ORD-11115,North,Enterprise,Standing Desk,Furniture,1,$400.50,15%,340.42,237.83
+2025-01-02,ORD-10036,North,Enterprise,Pen Set,Office Supplies,3,$8.19,0%,24.57,13.97
+2025-01-02,ORD-10093,South,Small Business,Desk Chair,Furniture,1,$196.72,15%,167.21,103.2
+2025-01-02,ORD-10349,North,Small Business,Monitor,Electronics,11,$234.85,5%,2454.18,1519.63
+2025-01-02,ORD-10421,East,Small Business,Notebook Pack,Office Supplies,17,$11.62,0%,197.54,136.35
+2025-01-02,ORD-10538,East,Small Business,Standing Desk,Furniture,8,$390.97,15%,2658.6,2013.51
+2025-01-02,ORD-10712,West,Consumer,Notebook Pack,Office Supplies,18,$13.18,15%,201.65,134.5
+2025-01-03,ORD-10078,West,Consumer,Bookshelf,Furniture,13,$132.83,5%,1640.45,1061.17
+2025-01-03,ORD-11001,West,Enterprise,Notebook Pack,Office Supplies,8,$11.66,15%,79.29,55.61
+2025-01-04,ORD-10331,North,Enterprise,Desk Chair,Furniture,8,$171.90,0%,1375.2,816.59
+2025-01-04,ORD-10562,North,Consumer,Standing Desk,Furniture,12,$453.98,15%,4630.6,2711.43
+2025-01-04,ORD-10606,North,Enterprise,Headphones,Electronics,14,$78.93,10%,994.52,635.16
+2025-01-05,ORD-10481,West,Consumer,Pen Set,Office Supplies,14,$8.33,0%,116.62,72.97
+2025-01-07,ORD-10165,East,Small Business,Pen Set,Office Supplies,3,$8.31,5%,23.68,13.08
+2025-01-07,ORD-10393,South,Consumer,Bookshelf,Furniture,2,$117.74,0%,235.48,169.25
+2025-01-07,ORD-10423,North,Small Business,Bookshelf,Furniture,16,$127.47,0%,2039.52,1174.22
+2025-01-07,ORD-10451,North,Consumer,Printer Paper,Office Supplies,9,$25.30,0%,227.7,128.77
+2025-01-08,ORD-10328,North,Consumer,Monitor,Electronics,13,$240.31,15%,2655.43,2069.04
+2025-01-08,ORD-10889,South,Small Business,Headphones,Electronics,4,$80.83,0%,323.32,249.93
+2025-01-08,ORD-10970,South,Small Business,Headphones,Electronics,7,$92.72,0%,649.04,486.99
+2025-01-09,ORD-10543,West,Small Business,Monitor,Electronics,9,$226.81,0%,2041.29,1419.94
+2025-01-09,ORD-10582,North,Small Business,Laptop,Electronics,8,$931.32,15%,6332.98,4723.47
+2025-01-09,ORD-10937,East,Small Business,Monitor,Electronics,18,$247.16,15%,3781.55,2711.4
+2025-01-09,ORD-11060,East,Consumer,Notebook Pack,Office Supplies,10,$13.12,0%,131.2,91.89
+2025-01-10,ORD-10198,East,Consumer,Desk Chair,Furniture,13,$167.55,0%,2178.15,1390.31
+2025-01-10,ORD-11022,South,Consumer,Pen Set,Office Supplies,17,$7.70,0%,130.9,95.59
+2025-01-10,ORD-11128,East,Enterprise,Bookshelf,Furniture,3,$137.76,0%,413.28,317.96
+2025-01-11,ORD-10099,South,Consumer,Monitor,Electronics,12,$224.16,10%,2420.93,1811.1
+2025-01-11,ORD-10292,East,Enterprise,Printer Paper,Office Supplies,1,$25.40,15%,21.59,13.73
+2025-01-11,ORD-10389,North,Consumer,Monitor,Electronics,6,$228.89,0%,1373.34,951.89
+2025-01-11,ORD-10743,North,Consumer,Headphones,Electronics,16,$85.18,15%,1158.45,810.88
+2025-01-12,ORD-10335,South,Consumer,Pen Set,Office Supplies,2,$7.76,5%,14.74,9.95
+2025-01-12,ORD-10668,East,Consumer,Printer Paper,Office Supplies,11,$24.40,5%,254.98,173.28
+2025-01-12,ORD-11062,South,Consumer,Monitor,Electronics,11,$223.75,0%,2461.25,1751.19
+2025-01-13,ORD-10482,East,Enterprise,Headphones,Electronics,16,$90.75,0%,1452.0,1156.58
+2025-01-13,ORD-11121,North,Consumer,Laptop,Electronics,16,"$1,006.66",5%,15301.23,8451.38
+2025-01-14,ORD-10065,West,Enterprise,Headphones,Electronics,12,$84.08,10%,908.06,525.6
+2025-01-14,ORD-10245,East,Consumer,Laptop,Electronics,7,$960.68,5%,6388.52,5109.05
+2025-01-14,ORD-10708,West,Small Business,Standing Desk,Furniture,11,$414.88,0%,4563.68,3406.75
+2025-01-15,ORD-10039,North,Consumer,Bookshelf,Furniture,18,$133.52,10%,2163.02,1274.02
+2025-01-15,ORD-10251,East,Consumer,Standing Desk,Furniture,3,$424.45,5%,1209.68,792.85
+2025-01-15,ORD-10837,North,Small Business,Monitor,Electronics,9,$217.92,0%,1961.28,1427.52
+2025-01-15,ORD-11002,West,Small Business,Bookshelf,Furniture,9,$139.15,15%,1064.5,787.8
+2025-01-16,ORD-10670,South,Consumer,Printer Paper,Office Supplies,12,$24.30,0%,291.6,206.49
+2025-01-16,ORD-11138,East,Small Business,Notebook Pack,Office Supplies,19,$12.50,5%,225.62,161.07
+2025-01-17,ORD-10605,East,Consumer,Standing Desk,Furniture,8,$378.34,5%,2875.38,2105.75
+2025-01-17,ORD-11170,South,Small Business,Bookshelf,Furniture,15,$142.01,15%,1810.63,1170.37
+2025-01-18,ORD-10069,South,Consumer,Standing Desk,Furniture,14,$415.67,0%,5819.38,4124.97
+2025-01-18,ORD-10085,West,Enterprise,Notebook Pack,Office Supplies,4,$11.56,0%,46.24,35.21
+2025-01-18,ORD-10262,North,Consumer,Headphones,Electronics,12,$77.72,5%,886.01,554.21
+2025-01-18,ORD-10317,West,Small Business,Notebook Pack,Office Supplies,9,$11.04,0%,99.36,73.69
+2025-01-18,ORD-10325,North,Consumer,Headphones,Electronics,15,$90.90,5%,1295.32,725.98
+2025-01-18,ORD-10580,North,Enterprise,Laptop,Electronics,4,"$1,000.49",15%,3401.67,2057.26
+2025-01-19,ORD-10252,West,Consumer,Monitor,Electronics,19,$229.00,0%,4351.0,3000.63
+2025-01-19,ORD-10263,South,Small Business,Printer Paper,Office Supplies,13,$24.89,15%,275.03,161.23
+2025-01-19,ORD-10441,North,Enterprise,Headphones,Electronics,17,$79.69,0%,1354.73,
+2025-01-19,ORD-10452,North,Consumer,Standing Desk,Furniture,14,$378.08,5%,5028.46,3090.14
+2025-01-19,ORD-10775,North,Consumer,Printer Paper,Office Supplies,11,$24.96,15%,233.38,135.84
+2025-01-19,ORD-11077,North,Enterprise,Monitor,Electronics,5,$243.55,0%,1217.75,723.47
+2025-01-20,ORD-10782,West,Small Business,Monitor,Electronics,14,$260.78,15%,3103.28,1958.43
+2025-01-20,ORD-11113,North,Small Business,Headphones,Electronics,3,$85.01,0%,255.03,157.64
+2025-01-21,ORD-10066,North,Consumer,Printer Paper,Office Supplies,9,$24.55,0%,220.95,137.73
+2025-01-21,ORD-10600,East,Consumer,Bookshelf,Furniture,17,$124.46,0%,2115.82,
+2025-01-21,ORD-10778,East,Consumer,Headphones,Electronics,9,$89.39,0%,804.51,613.58
+2025-01-22,ORD-10414,West,Small Business,Laptop,Electronics,16,$911.91,0%,14590.56,9501.17
+2025-01-23,ORD-10150,East,Enterprise,Pen Set,Office Supplies,7,$7.20,15%,42.84,26.0
+2025-01-23,ORD-10210,West,Consumer,Headphones,Electronics,17,$82.48,0%,1402.16,853.55
+2025-01-23,ORD-10269,North,Consumer,Bookshelf,Furniture,19,$120.64,15%,1948.34,1316.68
+2025-01-23,ORD-10688,West,Small Business,Standing Desk,Furniture,17,$429.67,0%,7304.39,4769.96
+2025-01-23,ORD-10801,South,Small Business,Headphones,Electronics,19,$80.01,5%,1444.18,818.6
+2025-01-23,ORD-11172,South,Small Business,Desk Chair,Furniture,10,$197.84,0%,1978.4,1352.95
+2025-01-24,ORD-10255,North,Enterprise,Monitor,Electronics,18,$254.59,10%,4124.36,2551.62
+2025-01-24,ORD-10928,North,Consumer,Desk Chair,Furniture,8,$167.00,0%,1336.0,1037.51
+2025-01-24,ORD-11130,East,Consumer,Desk Chair,Furniture,18,$188.32,10%,3050.78,2434.87
+2025-01-25,ORD-10161,South,Small Business,Bookshelf,Furniture,10,$142.07,0%,1420.7,837.88
+2025-01-25,ORD-10568,North,Small Business,Bookshelf,Furniture,13,$138.77,0%,1804.01,1365.74
+2025-01-25,ORD-11111,North,Small Business,Headphones,Electronics,7,$90.57,5%,602.29,347.04
+2025-01-26,ORD-11031,East,Consumer,Monitor,Electronics,3,$233.04,0%,699.12,436.67
+2025-01-27,ORD-10633,North,Small Business,Desk Chair,Furniture,10,$176.96,0%,1769.6,1162.15
+2025-01-27,ORD-10752,East,Small Business,Laptop,Electronics,13,$940.64,0%,12228.32,7796.26
+2025-01-27,ORD-10824,South,Small Business,Bookshelf,Furniture,4,$135.80,0%,543.2,300.17
+2025-01-28,ORD-10014,North,Consumer,Notebook Pack,Office Supplies,15,$11.47,10%,154.85,101.74
+2025-01-28,ORD-10052,North,Enterprise,Desk Chair,Furniture,3,$185.34,10%,500.42,376.01
+2025-01-28,ORD-10710,North,Consumer,Notebook Pack,Office Supplies,8,$12.88,0%,103.04,59.28
+2025-01-29,ORD-10370,South,Enterprise,Desk Chair,Furniture,12,$194.14,5%,2213.2,1613.66
+2025-01-29,ORD-10387,East,Consumer,Pen Set,Office Supplies,3,$8.71,5%,24.82,16.94
+2025-01-30,ORD-10650,North,Small Business,Standing Desk,Furniture,5,$402.98,0%,2014.9,1111.14
+2025-01-31,ORD-10055,West,Consumer,Laptop,Electronics,14,$949.15,0%,13288.1,10462.96
+2025-01-31,ORD-10127,East,Consumer,Notebook Pack,Office Supplies,12,$11.11,10%,119.99,80.54
+2025-01-31,ORD-10160,East,Small Business,Printer Paper,Office Supplies,8,$27.41,15%,186.39,109.91
+2025-02-01,ORD-11116,North,Consumer,Printer Paper,Office Supplies,7,$25.45,0%,178.15,133.52
+2025-02-01,ORD-11165,East,Consumer,Laptop,Electronics,2,$902.29,15%,1533.89,935.92
+2025-02-02,ORD-10330,South,Consumer,Standing Desk,Furniture,7,$457.31,5%,3041.11,1900.43
+2025-02-02,ORD-10342,South,Enterprise,Bookshelf,Furniture,13,$121.10,15%,1338.16,842.7
+2025-02-02,ORD-10520,North,Enterprise,Desk Chair,Furniture,6,$180.75,10%,976.05,557.93
+2025-02-02,ORD-10608,South,Consumer,Printer Paper,Office Supplies,11,$23.49,0%,258.39,156.75
+2025-02-02,ORD-10730,East,Enterprise,Notebook Pack,Office Supplies,12,$13.05,5%,148.77,94.59
+2025-02-03,ORD-10432,East,Consumer,Pen Set,Office Supplies,6,$8.78,15%,44.78,29.17
+2025-02-03,ORD-10832,South,Consumer,Standing Desk,Furniture,10,$412.75,5%,3921.12,2569.05
+2025-02-03,ORD-10881,North,Small Business,Pen Set,Office Supplies,15,$8.66,0%,129.9,83.56
+2025-02-03,ORD-11139,North,Consumer,Standing Desk,Furniture,4,$444.84,10%,1601.42,1215.49
+2025-02-04,ORD-10489,South,Enterprise,Bookshelf,Furniture,6,$129.96,0%,779.76,547.48
+2025-02-04,ORD-11065,North,Enterprise,Desk Chair,Furniture,11,$190.41,0%,2094.51,1325.89
+2025-02-05,ORD-10641,East,Enterprise,Printer Paper,Office Supplies,10,$22.65,0%,226.5,170.55
+2025-02-05,ORD-11105,South,Consumer,Monitor,Electronics,3,$220.58,0%,661.74,509.77
+2025-02-06,ORD-10537,North,Small Business,Monitor,Electronics,11,$244.42,15%,2285.33,1637.36
+2025-02-06,ORD-10587,East,Enterprise,Laptop,Electronics,19,$947.00,0%,17993.0,10754.24
+2025-02-06,ORD-10679,East,Consumer,Printer Paper,Office Supplies,11,$22.77,0%,250.47,200.3
+2025-02-06,ORD-11120,North,Consumer,Laptop,Electronics,3,"$1,035.70",0%,3107.1,2070.69
+2025-02-07,ORD-10088,South,Consumer,Notebook Pack,Office Supplies,7,$12.11,5%,80.53,52.22
+2025-02-07,ORD-10158,East,Consumer,Standing Desk,Furniture,18,$454.95,5%,7779.64,4980.73
+2025-02-07,ORD-10235,West,Consumer,Notebook Pack,Office Supplies,5,$11.12,10%,50.04,30.0
+2025-02-07,ORD-10249,North,Consumer,Laptop,Electronics,18,$944.79,0%,17006.22,13520.98
+2025-02-08,ORD-10529,South,Consumer,Printer Paper,Office Supplies,10,$24.92,0%,249.2,158.48
+2025-02-08,ORD-10626,East,Small Business,Desk Chair,Furniture,16,$193.87,15%,2636.63,2076.77
+2025-02-08,ORD-10654,West,Small Business,Standing Desk,Furniture,6,$404.68,15%,2063.87,1615.83
+2025-02-08,ORD-10976,South,Enterprise,Laptop,Electronics,8,$865.41,0%,6923.28,5032.92
+2025-02-08,ORD-11064,East,Consumer,Notebook Pack,Office Supplies,18,$11.09,0%,199.62,143.38
+2025-02-09,ORD-10026,South,Consumer,Desk Chair,Furniture,4,$171.61,0%,686.44,408.25
+2025-02-09,ORD-10071,South,Consumer,Monitor,Electronics,19,$262.27,0%,4983.13,3045.36
+2025-02-10,ORD-10265,East,Enterprise,Bookshelf,Furniture,14,$122.93,0%,1721.02,1167.26
+2025-02-10,ORD-10283,North,Consumer,Standing Desk,Furniture,9,$385.92,0%,3473.28,1955.09
+2025-02-10,ORD-10288,West,Consumer,Standing Desk,Furniture,3,$385.57,5%,1098.87,861.89
+2025-02-10,ORD-10337,East,Consumer,Headphones,Electronics,13,$91.51,0%,1189.63,666.16
+2025-02-10,ORD-10615,East,Consumer,Bookshelf,Furniture,5,$135.06,0%,675.3,450.52
+2025-02-10,ORD-10666,West,Enterprise,Standing Desk,Furniture,1,$395.74,15%,336.38,251.96
+2025-02-10,ORD-11043,North,Consumer,Desk Chair,Furniture,1,$195.29,5%,185.53,128.36
+2025-02-11,ORD-10015,East,Consumer,Pen Set,Office Supplies,6,$8.33,0%,49.98,27.69
+2025-02-11,ORD-10120,South,Consumer,Desk Chair,Furniture,19,$167.84,5%,3029.51,1961.36
+2025-02-11,ORD-10378,West,,Desk Chair,Furniture,2,$178.38,0%,356.76,241.19
+2025-02-12,ORD-11013,South,Small Business,Headphones,Electronics,19,$77.23,0%,1467.37,1069.91
+2025-02-12,ORD-11014,West,Consumer,Standing Desk,Furniture,12,$425.47,5%,4850.36,3302.64
+2025-02-13,ORD-10142,South,Consumer,Headphones,Electronics,16,$93.43,0%,1494.88,1044.63
+2025-02-13,ORD-10745,West,Consumer,Desk Chair,Furniture,17,$187.81,0%,3192.77,1987.54
+2025-02-13,ORD-11068,East,Consumer,Desk Chair,Furniture,18,$194.76,15%,2979.83,1734.48
+2025-02-13,ORD-11163,West,Small Business,Standing Desk,Furniture,6,$411.29,15%,2097.58,1316.44
+2025-02-14,ORD-10418,West,Enterprise,Headphones,Electronics,1,$77.47,10%,69.72,43.45
+2025-02-14,ORD-10675,East,Consumer,Notebook Pack,Office Supplies,11,$12.91,15%,120.71,70.26
+2025-02-15,ORD-10037,South,Consumer,Pen Set,Office Supplies,2,$7.21,15%,12.26,6.78
+2025-02-15,ORD-10404,North,Consumer,Standing Desk,Furniture,10,$451.75,5%,4291.62,2542.92
+2025-02-15,ORD-10409,South,Consumer,Laptop,Electronics,1,$874.15,0%,874.15,496.78
+2025-02-15,ORD-10727,East,Consumer,Laptop,Electronics,6,$902.29,10%,4872.37,2921.2
+2025-02-15,ORD-10879,North,Consumer,Bookshelf,Furniture,1,$127.88,0%,127.88,82.16
+2025-02-16,ORD-10429,South,Consumer,Notebook Pack,Office Supplies,6,$12.77,0%,76.62,46.66
+2025-02-16,ORD-10604,East,Small Business,Pen Set,Office Supplies,1,$8.70,10%,7.83,5.39
+2025-02-17,ORD-10575,East,Small Business,Desk Chair,Furniture,13,$175.93,0%,2287.09,1647.73
+2025-02-17,ORD-10805,West,Small Business,Pen Set,Office Supplies,2,$7.45,15%,12.66,8.72
+2025-02-17,ORD-10884,East,Enterprise,Pen Set,Office Supplies,11,$8.76,0%,96.36,63.13
+2025-02-17,ORD-10903,West,Consumer,Pen Set,Office Supplies,9,$8.05,10%,65.2,48.23
+2025-02-18,ORD-10444,North,Consumer,Standing Desk,Furniture,7,$451.83,5%,3004.67,1998.68
+2025-02-18,ORD-10694,South,Consumer,Laptop,Electronics,15,$997.87,0%,14968.05,11452.17
+2025-02-18,ORD-10725,North,Consumer,Monitor,Electronics,2,$254.37,0%,508.74,396.21
+2025-02-19,ORD-10141,West,Consumer,Monitor,Electronics,9,$224.31,15%,1715.97,966.67
+2025-02-19,ORD-10157,South,Consumer,Bookshelf,Furniture,8,$118.48,0%,947.84,578.89
+2025-02-19,ORD-10618,South,Consumer,Laptop,Electronics,11,$915.91,0%,10075.01,5913.41
+2025-02-19,ORD-11006,East,Enterprise,Pen Set,Office Supplies,9,$7.99,15%,61.12,44.39
+2025-02-20,ORD-10244,North,Consumer,Bookshelf,Furniture,16,$119.99,0%,1919.84,1173.88
+2025-02-20,ORD-10327,South,Small Business,Laptop,Electronics,10,"$1,016.27",15%,8638.3,5212.82
+2025-02-20,ORD-10635,North,Consumer,Notebook Pack,Office Supplies,19,$10.95,0%,208.05,119.2
+2025-02-20,ORD-10907,West,Enterprise,Monitor,Electronics,7,$258.30,0%,1808.1,1373.84
+2025-02-20,ORD-11009,North,Small Business,Standing Desk,Furniture,8,$429.43,0%,3435.44,2537.89
+2025-02-20,ORD-11033,West,Consumer,Headphones,Electronics,5,$85.78,0%,428.9,305.95
+2025-02-20,ORD-11177,East,Enterprise,Monitor,Electronics,4,$263.32,0%,1053.28,670.14
+2025-02-22,ORD-10411,East,Small Business,Headphones,Electronics,3,$78.78,5%,224.52,137.24
+2025-02-22,ORD-10762,East,Enterprise,Printer Paper,Office Supplies,15,$22.94,5%,326.9,188.07
+2025-02-22,ORD-11101,East,Consumer,Standing Desk,Furniture,3,$433.34,0%,1300.02,723.89
+2025-02-23,ORD-10406,West,Enterprise,Desk Chair,Furniture,14,$180.57,5%,2401.58,1352.14
+2025-02-23,ORD-10734,East,Consumer,Monitor,Electronics,2,$224.03,0%,448.06,340.48
+2025-02-23,ORD-11129,South,Consumer,Bookshelf,Furniture,5,$140.62,0%,703.1,394.78
+2025-02-24,ORD-10323,East,Consumer,Printer Paper,Office Supplies,13,$26.51,5%,327.4,225.44
+2025-02-24,ORD-10374,North,Consumer,Pen Set,Office Supplies,4,$8.01,5%,30.44,18.07
+2025-02-24,ORD-10476,East,Small Business,Pen Set,Office Supplies,5,$8.52,0%,42.6,29.58
+2025-02-24,ORD-10497,East,Consumer,Desk Chair,Furniture,13,$189.30,5%,2337.86,1426.92
+2025-02-24,ORD-10862,East,Consumer,Monitor,Electronics,17,$248.44,0%,4223.48,2880.8
+2025-02-25,ORD-10280,South,Small Business,Headphones,Electronics,7,$87.80,15%,522.41,310.11
+2025-02-25,ORD-10769,East,Consumer,Desk Chair,Furniture,5,$184.70,10%,831.15,639.83
+2025-02-25,ORD-10807,North,Enterprise,Laptop,Electronics,12,$974.62,5%,11110.67,7771.78
+2025-02-25,ORD-10812,North,Consumer,Notebook Pack,Office Supplies,13,$12.15,15%,134.26,83.47
+2025-02-26,ORD-10028,West,Enterprise,Standing Desk,Furniture,18,$428.60,5%,7329.06,5472.64
+2025-02-26,ORD-10205,North,Small Business,Headphones,Electronics,19,$83.58,15%,1349.82,890.74
+2025-02-26,ORD-10336,East,Consumer,Printer Paper,Office Supplies,9,$25.12,0%,226.08,127.47
+2025-02-26,ORD-11021,South,Enterprise,Laptop,Electronics,14,$891.74,10%,11235.92,8554.8
+2025-02-26,ORD-11048,South,Small Business,Notebook Pack,Office Supplies,12,$11.68,10%,126.14,72.53
+2025-02-26,ORD-11107,South,,Printer Paper,Office Supplies,18,$26.14,0%,470.52,332.13
+2025-02-27,ORD-10454,West,,Bookshelf,Furniture,7,$142.76,5%,949.35,700.56
+2025-02-27,ORD-10746,North,Small Business,Standing Desk,Furniture,3,$399.01,10%,1077.33,854.21
+2025-02-28,ORD-10494,East,Enterprise,Headphones,Electronics,18,$78.70,0%,1416.6,1049.13
+2025-02-28,ORD-10653,East,Small Business,Pen Set,Office Supplies,15,$7.53,10%,101.66,60.35
+2025-02-28,ORD-10707,North,Small Business,Bookshelf,Furniture,2,$134.42,10%,241.96,157.28
+2025-03-01,ORD-10286,West,Small Business,Monitor,Electronics,16,$246.17,0%,3938.72,2938.21
+2025-03-01,ORD-10355,East,Consumer,Printer Paper,Office Supplies,17,$24.28,0%,412.76,227.4
+2025-03-01,ORD-10577,South,Small Business,Standing Desk,Furniture,5,$399.56,0%,1997.8,1459.18
+2025-03-01,ORD-10735,North,Enterprise,Notebook Pack,Office Supplies,13,$13.14,0%,170.82,126.07
+2025-03-01,ORD-10894,West,Consumer,Notebook Pack,Office Supplies,12,$13.02,0%,156.24,115.21
+2025-03-01,ORD-11168,South,Small Business,Printer Paper,Office Supplies,4,$25.18,0%,100.72,71.03
+2025-03-02,ORD-10395,East,Small Business,Pen Set,Office Supplies,8,$8.68,10%,62.5,49.6
+2025-03-02,ORD-10436,South,Small Business,Bookshelf,Furniture,11,$125.55,0%,1381.05,823.15
+2025-03-02,ORD-10649,East,Consumer,Pen Set,Office Supplies,4,$8.57,10%,30.85,20.4
+2025-03-02,ORD-10740,North,Small Business,Pen Set,Office Supplies,6,$7.54,5%,42.98,33.97
+2025-03-03,ORD-10999,East,Small Business,Standing Desk,Furniture,8,$393.15,10%,2830.68,1837.22
+2025-03-03,ORD-11096,East,Consumer,Pen Set,Office Supplies,1,$8.15,0%,8.15,4.72
+2025-03-03,ORD-11127,North,Consumer,Bookshelf,Furniture,12,$129.46,5%,1475.84,1113.25
+2025-03-04,ORD-10232,North,Enterprise,Laptop,Electronics,7,$953.48,0%,6674.36,3748.36
+2025-03-04,ORD-10850,West,Enterprise,Printer Paper,Office Supplies,18,$24.62,5%,421.0,324.53
+2025-03-04,ORD-10902,West,Small Business,Monitor,Electronics,6,$249.83,5%,1424.03,805.75
+2025-03-05,ORD-10415,North,Consumer,Notebook Pack,Office Supplies,5,$11.36,0%,56.8,37.61
+2025-03-06,ORD-10204,North,Consumer,Standing Desk,Furniture,15,$455.97,0%,6839.55,3836.75
+2025-03-06,ORD-10682,South,Small Business,Printer Paper,Office Supplies,6,$24.63,0%,147.78,94.22
+2025-03-06,ORD-10831,East,Small Business,Headphones,Electronics,11,$87.06,0%,957.66,569.75
+2025-03-06,ORD-10946,North,Small Business,Printer Paper,Office Supplies,9,$23.55,15%,180.16,107.34
+2025-03-06,ORD-11047,East,Consumer,Bookshelf,Furniture,13,$123.89,5%,1530.04,925.47
+2025-03-06,ORD-11074,West,Small Business,Standing Desk,Furniture,14,$380.44,0%,5326.16,3149.91
+2025-03-06,ORD-11167,South,Consumer,Desk Chair,Furniture,12,$176.55,5%,2012.67,1251.11
+2025-03-06,ORD-11169,East,Consumer,Printer Paper,Office Supplies,2,$24.80,15%,42.16,31.61
+2025-03-07,ORD-10501,West,Consumer,Bookshelf,Furniture,19,$131.83,15%,2129.05,1497.45
+2025-03-07,ORD-10685,South,Consumer,Pen Set,Office Supplies,4,$7.35,15%,24.99,19.45
+2025-03-07,ORD-11180,West,Consumer,Bookshelf,Furniture,12,$135.87,0%,1630.44,1100.9
+2025-03-08,ORD-10438,North,Enterprise,Laptop,Electronics,18,$856.35,10%,13872.87,9147.81
+2025-03-08,ORD-10728,North,Small Business,Standing Desk,Furniture,1,$437.61,0%,437.61,345.12
+2025-03-09,ORD-10231,East,Consumer,Pen Set,Office Supplies,16,$7.38,5%,112.18,85.58
+2025-03-09,ORD-10462,East,Small Business,Notebook Pack,Office Supplies,12,$10.82,10%,116.86,68.8
+2025-03-09,ORD-10597,North,Consumer,Pen Set,Office Supplies,8,$8.61,15%,58.55,36.97
+2025-03-09,ORD-10690,North,Consumer,Printer Paper,Office Supplies,10,$22.69,5%,215.56,135.4
+2025-03-09,ORD-11184,North,Consumer,Desk Chair,Furniture,3,$195.08,10%,526.72,377.54
+2025-03-10,ORD-10125,West,Consumer,Bookshelf,Furniture,2,$122.02,0%,244.04,155.05
+2025-03-10,ORD-10144,West,Small Business,Printer Paper,Office Supplies,1,$26.64,0%,26.64,18.19
+2025-03-10,ORD-10333,East,Consumer,Pen Set,Office Supplies,1,$7.59,0%,7.59,5.08
+2025-03-10,ORD-10759,East,Consumer,Notebook Pack,Office Supplies,3,$11.20,0%,33.6,19.73
+2025-03-11,ORD-10322,West,Enterprise,Bookshelf,Furniture,12,$135.40,10%,1462.32,962.08
+2025-03-11,ORD-10450,North,Consumer,Printer Paper,Office Supplies,3,$25.96,0%,77.88,52.17
+2025-03-11,ORD-10870,West,Small Business,Standing Desk,Furniture,7,$409.13,15%,2434.32,1713.27
+2025-03-12,ORD-11019,South,Small Business,Monitor,Electronics,11,$250.62,0%,2756.82,1798.86
+2025-03-12,ORD-11191,East,Consumer,Headphones,Electronics,9,$88.80,0%,799.2,576.99
+2025-03-13,ORD-10569,West,,Bookshelf,Furniture,6,$124.98,15%,637.4,400.88
+2025-03-14,ORD-10503,East,Enterprise,Pen Set,Office Supplies,8,$8.23,15%,55.96,35.47
+2025-03-14,ORD-10586,South,Consumer,Notebook Pack,Office Supplies,5,$11.74,10%,52.83,30.19
+2025-03-14,ORD-10893,North,Consumer,Printer Paper,Office Supplies,5,$25.12,15%,106.76,81.55
+2025-03-15,ORD-10163,North,Small Business,Desk Chair,Furniture,5,$187.74,0%,938.7,573.47
+2025-03-15,ORD-10595,North,Consumer,Pen Set,Office Supplies,1,$8.80,0%,8.8,5.75
+2025-03-15,ORD-10915,West,Enterprise,Standing Desk,Furniture,9,$403.61,0%,3632.49,2177.95
+2025-03-15,ORD-11148,North,Small Business,Notebook Pack,Office Supplies,18,$11.84,15%,181.15,116.32
+2025-03-16,ORD-10539,East,Small Business,Laptop,Electronics,9,$912.68,0%,8214.12,5086.86
+2025-03-17,ORD-10273,South,Consumer,Printer Paper,Office Supplies,15,$26.05,0%,390.75,264.32
+2025-03-17,ORD-10671,South,Consumer,Bookshelf,Furniture,9,$132.88,0%,1195.92,676.57
+2025-03-17,ORD-10739,North,Consumer,Printer Paper,Office Supplies,19,$24.71,5%,446.02,245.43
+2025-03-18,ORD-10544,East,Consumer,Pen Set,Office Supplies,6,$7.73,0%,46.38,28.97
+2025-03-18,ORD-10788,West,Small Business,Standing Desk,Furniture,16,$407.32,0%,6517.12,4382.0
+2025-03-18,ORD-11076,East,Consumer,Notebook Pack,Office Supplies,18,$12.36,0%,222.48,156.15
+2025-03-18,ORD-11159,North,Consumer,Desk Chair,Furniture,17,$169.47,5%,2736.94,1716.65
+2025-03-19,ORD-10509,North,Small Business,Headphones,Electronics,9,$81.23,5%,694.52,430.91
+2025-03-19,ORD-10787,East,Small Business,Notebook Pack,Office Supplies,19,$11.11,0%,211.09,131.65
+2025-03-20,ORD-10194,West,Consumer,Printer Paper,Office Supplies,13,$25.74,0%,334.62,233.86
+2025-03-20,ORD-10381,South,Enterprise,Printer Paper,Office Supplies,15,$26.83,0%,402.45,260.07
+2025-03-21,ORD-10993,North,Small Business,Desk Chair,Furniture,19,$173.65,0%,3299.35,1908.83
+2025-03-22,ORD-10154,West,Consumer,Desk Chair,Furniture,8,$168.70,15%,1147.16,696.27
+2025-03-22,ORD-11157,East,Enterprise,Pen Set,Office Supplies,14,$7.31,0%,102.34,58.21
+2025-03-22,ORD-11193,North,Consumer,Notebook Pack,Office Supplies,13,$12.81,0%,166.53,129.39
+2025-03-23,ORD-10056,East,Consumer,Standing Desk,Furniture,17,$429.86,15%,6211.48,4135.37
+2025-03-23,ORD-10638,East,Small Business,Pen Set,Office Supplies,9,$8.49,15%,64.95,51.05
+2025-03-23,ORD-11040,North,Small Business,Notebook Pack,Office Supplies,15,$11.86,0%,177.9,114.61
+2025-03-23,ORD-11098,North,Consumer,Laptop,Electronics,13,$985.48,15%,10889.55,7429.88
+2025-03-24,ORD-11114,South,Enterprise,Monitor,Electronics,10,$252.86,5%,2402.17,1479.82
+2025-03-25,ORD-10302,South,Small Business,Laptop,Electronics,5,$903.63,15%,3840.43,2134.13
+2025-03-25,ORD-10311,North,Enterprise,Notebook Pack,Office Supplies,14,$13.05,10%,164.43,115.6
+2025-03-26,ORD-10278,South,Small Business,Laptop,Electronics,16,$916.53,5%,13931.26,8881.18
+2025-03-26,ORD-10344,South,Consumer,Printer Paper,Office Supplies,13,$25.01,0%,325.13,205.74
+2025-03-26,ORD-10455,South,Small Business,Standing Desk,Furniture,7,$443.71,0%,3105.97,2388.35
+2025-03-27,ORD-10087,South,Consumer,Headphones,Electronics,11,$84.21,5%,879.99,636.9
+2025-03-27,ORD-10090,South,Consumer,Desk Chair,Furniture,16,$193.49,0%,3095.84,1876.87
+2025-03-27,ORD-10185,North,Small Business,Standing Desk,Furniture,1,$384.77,0%,384.77,243.64
+2025-03-27,ORD-10616,East,Consumer,Headphones,Electronics,7,$82.71,0%,578.97,322.96
+2025-03-27,ORD-10676,North,Consumer,Bookshelf,Furniture,5,$125.37,10%,564.17,339.86
+2025-03-27,ORD-10974,South,Small Business,Monitor,Electronics,10,$219.67,0%,2196.7,1330.9
+2025-03-27,ORD-11008,North,Consumer,Notebook Pack,Office Supplies,10,$11.19,0%,111.9,63.29
+2025-03-27,ORD-11092,East,Enterprise,Pen Set,Office Supplies,3,$8.54,5%,24.34,16.54
+2025-03-28,ORD-10107,East,Consumer,Bookshelf,Furniture,16,$133.81,5%,2033.91,1180.53
+2025-03-28,ORD-10408,South,Small Business,Printer Paper,Office Supplies,10,$25.03,10%,225.27,128.01
+2025-03-29,ORD-10064,East,,Desk Chair,Furniture,17,$175.46,0%,2982.82,2134.37
+2025-03-29,ORD-10981,West,Enterprise,Notebook Pack,Office Supplies,3,$11.86,0%,35.58,28.41
+2025-03-30,ORD-10050,North,Consumer,Notebook Pack,Office Supplies,18,$12.93,5%,221.1,132.75
+2025-03-30,ORD-10201,North,Consumer,Printer Paper,Office Supplies,1,$27.11,0%,27.11,19.4
+2025-03-30,ORD-10305,East,Consumer,Monitor,Electronics,13,$218.27,5%,2695.63,1786.22
+2025-03-30,ORD-10341,North,Enterprise,Headphones,Electronics,1,$90.47,0%,90.47,62.49
+2025-03-30,ORD-10508,West,Small Business,Headphones,Electronics,2,$88.08,0%,176.16,104.99
+2025-03-30,ORD-10585,West,Consumer,Printer Paper,Office Supplies,17,$26.50,15%,382.92,285.19
+2025-03-30,ORD-11052,South,Consumer,Standing Desk,Furniture,5,$423.96,10%,1907.82,1060.6
+2025-03-31,ORD-10253,West,Consumer,Headphones,Electronics,18,$84.81,0%,1526.58,885.53
+2025-03-31,ORD-10610,North,Small Business,Pen Set,Office Supplies,1,$8.25,0%,8.25,5.09
+2025-03-31,ORD-10691,East,Consumer,Pen Set,Office Supplies,15,$8.16,0%,122.4,87.62
+2025-03-31,ORD-10705,South,Consumer,Bookshelf,Furniture,16,$120.98,0%,1935.68,1240.05
+2025-03-31,ORD-10961,North,Consumer,Desk Chair,Furniture,4,$166.67,15%,566.68,440.72
+2025-04-01,ORD-10314,West,Small Business,Headphones,Electronics,5,$81.46,5%,386.93,224.1
+2025-04-01,ORD-10362,West,Small Business,Headphones,Electronics,6,$86.45,10%,466.83,271.42
+2025-04-01,ORD-10703,North,Consumer,Monitor,Electronics,14,$248.85,10%,3135.51,2215.28
+2025-04-01,ORD-10899,North,Enterprise,Bookshelf,Furniture,8,$122.00,0%,976.0,549.91
+2025-04-02,ORD-10212,West,Consumer,Pen Set,Office Supplies,12,$8.47,0%,101.64,61.09
+2025-04-02,ORD-11036,North,Consumer,Printer Paper,Office Supplies,17,$24.07,0%,409.19,314.46
+2025-04-02,ORD-11198,North,Small Business,Pen Set,Office Supplies,15,$7.48,5%,106.59,81.57
+2025-04-03,ORD-10106,East,Enterprise,Pen Set,Office Supplies,6,$7.73,0%,46.38,35.71
+2025-04-03,ORD-10361,East,Small Business,Printer Paper,Office Supplies,1,$24.23,5%,23.02,18.07
+2025-04-03,ORD-10459,North,Small Business,Laptop,Electronics,5,"$1,005.45",0%,5027.25,3008.81
+2025-04-03,ORD-10617,South,Enterprise,Headphones,Electronics,4,$79.22,10%,285.19,225.3
+2025-04-03,ORD-10651,West,Enterprise,Bookshelf,Furniture,15,$122.47,5%,1745.2,1210.5
+2025-04-03,ORD-10741,South,Consumer,Notebook Pack,Office Supplies,4,$11.25,0%,45.0,30.93
+2025-04-04,ORD-10224,South,Small Business,Notebook Pack,Office Supplies,17,$11.13,0%,189.21,134.1
+2025-04-04,ORD-10925,South,Consumer,Printer Paper,Office Supplies,7,$25.30,0%,177.1,136.44
+2025-04-04,ORD-11145,North,Small Business,Standing Desk,Furniture,3,$399.44,0%,1198.32,738.22
+2025-04-05,ORD-10603,East,Consumer,Monitor,Electronics,11,$226.56,0%,2492.16,1461.99
+2025-04-05,ORD-10878,South,,Standing Desk,Furniture,12,$379.68,15%,3872.74,2860.44
+2025-04-05,ORD-10987,East,Consumer,Headphones,Electronics,12,$84.43,15%,861.19,649.05
+2025-04-06,ORD-10096,North,Consumer,Headphones,Electronics,17,$77.92,15%,1125.94,681.44
+2025-04-06,ORD-10301,West,Consumer,Pen Set,Office Supplies,11,$7.71,0%,84.81,52.89
+2025-04-07,ORD-10258,West,Consumer,Monitor,Electronics,5,$243.14,0%,1215.7,851.79
+2025-04-07,ORD-10420,North,Consumer,Printer Paper,Office Supplies,6,$26.80,0%,160.8,92.56
+2025-04-07,ORD-10500,West,Enterprise,Monitor,Electronics,2,$235.87,0%,471.74,324.8
+2025-04-07,ORD-10681,East,Enterprise,Monitor,Electronics,2,$224.21,0%,448.42,246.67
+2025-04-08,ORD-10060,North,Small Business,Printer Paper,Office Supplies,2,$25.49,10%,45.88,31.03
+2025-04-08,ORD-10228,East,Consumer,Standing Desk,Furniture,14,$432.44,0%,6054.16,4225.81
+2025-04-08,ORD-10472,East,Enterprise,Desk Chair,Furniture,5,$181.88,10%,818.46,619.01
+2025-04-08,ORD-11100,West,Consumer,Standing Desk,Furniture,18,$402.78,15%,6162.53,4673.12
+2025-04-08,ORD-11132,West,Consumer,Pen Set,Office Supplies,7,$7.88,5%,52.4,32.87
+2025-04-09,ORD-11037,South,Small Business,Laptop,Electronics,1,"$1,015.90",5%,965.1,654.49
+2025-04-10,ORD-10439,East,Small Business,Desk Chair,Furniture,18,$183.46,5%,3137.17,2168.43
+2025-04-11,ORD-10121,South,Consumer,Notebook Pack,Office Supplies,17,$11.60,15%,167.62,98.94
+2025-04-11,ORD-10290,North,Small Business,Pen Set,Office Supplies,17,$7.76,0%,131.92,86.15
+2025-04-11,ORD-10905,East,Enterprise,Notebook Pack,Office Supplies,16,$12.40,0%,198.4,129.68
+2025-04-12,ORD-10593,East,Enterprise,Printer Paper,Office Supplies,16,$22.93,0%,366.88,244.32
+2025-04-12,ORD-10844,West,Small Business,Laptop,Electronics,12,"$1,037.23",10%,11202.08,7905.07
+2025-04-13,ORD-10350,North,Small Business,Standing Desk,Furniture,4,$380.76,0%,1523.04,1088.38
+2025-04-13,ORD-10798,West,,Headphones,Electronics,15,$83.56,0%,1253.4,869.38
+2025-04-13,ORD-10799,East,Consumer,Desk Chair,Furniture,15,$171.85,0%,2577.75,1723.87
+2025-04-13,ORD-10908,South,Enterprise,Desk Chair,Furniture,11,$181.69,5%,1898.66,1071.61
+2025-04-13,ORD-10910,East,Small Business,Notebook Pack,Office Supplies,6,$12.03,10%,64.96,48.27
+2025-04-13,ORD-11110,West,Enterprise,Bookshelf,Furniture,4,$125.36,0%,501.44,396.28
+2025-04-14,ORD-10008,North,Small Business,Monitor,Electronics,8,$219.82,0%,1758.56,1159.0
+2025-04-14,ORD-10181,North,Small Business,Monitor,Electronics,19,$228.35,0%,4338.65,2629.15
+2025-04-14,ORD-10209,East,Enterprise,Pen Set,Office Supplies,6,$7.35,0%,44.1,28.7
+2025-04-14,ORD-10716,East,Small Business,Standing Desk,Furniture,10,$439.34,0%,4393.4,2609.73
+2025-04-14,ORD-10909,North,Consumer,Laptop,Electronics,15,"$1,010.78",0%,15161.7,10674.17
+2025-04-15,ORD-10792,South,Small Business,Notebook Pack,Office Supplies,11,$10.86,15%,101.54,70.69
+2025-04-15,ORD-10992,East,Enterprise,Monitor,Electronics,8,$219.87,0%,1758.96,1025.67
+2025-04-15,ORD-11018,West,Consumer,Laptop,Electronics,8,$871.67,0%,6973.36,4446.8
+2025-04-16,ORD-10029,North,Consumer,Desk Chair,Furniture,10,$175.61,5%,1668.3,1296.67
+2025-04-16,ORD-10282,East,Consumer,Notebook Pack,Office Supplies,1,$11.46,0%,11.46,7.5
+2025-04-16,ORD-10840,North,Small Business,Headphones,Electronics,15,$88.10,0%,1321.5,856.15
+2025-04-16,ORD-10985,North,Small Business,Bookshelf,Furniture,12,$118.87,10%,1283.8,942.81
+2025-04-16,ORD-11028,North,Small Business,Bookshelf,Furniture,3,$129.48,0%,388.44,264.66
+2025-04-16,ORD-11197,North,Enterprise,Printer Paper,Office Supplies,19,$26.92,15%,434.76,327.8
+2025-04-17,ORD-10360,West,Consumer,Pen Set,Office Supplies,8,$7.71,15%,52.43,41.83
+2025-04-17,ORD-10996,North,Small Business,Standing Desk,Furniture,17,$386.00,0%,6562.0,4461.14
+2025-04-18,ORD-10250,West,Enterprise,Monitor,Electronics,9,$262.63,15%,2009.12,1218.29
+2025-04-18,ORD-10445,South,Consumer,Bookshelf,Furniture,5,$125.75,5%,597.31,426.04
+2025-04-18,ORD-10619,East,Consumer,Monitor,Electronics,13,$262.29,0%,3409.77,2176.63
+2025-04-18,ORD-11054,West,Consumer,Laptop,Electronics,8,"$1,012.36",0%,8098.88,4542.14
+2025-04-19,ORD-10038,North,Consumer,Headphones,Electronics,17,$79.63,0%,1353.71,786.16
+2025-04-19,ORD-10137,East,Consumer,Laptop,Electronics,12,$865.80,10%,9350.64,6836.16
+2025-04-19,ORD-10380,West,Small Business,Laptop,Electronics,17,$909.48,5%,14688.1,10494.25
+2025-04-19,ORD-10661,West,Enterprise,Notebook Pack,Office Supplies,1,$12.98,10%,11.68,6.75
+2025-04-19,ORD-10706,South,Consumer,Laptop,Electronics,3,$917.94,0%,2753.82,1630.6
+2025-04-19,ORD-11072,East,Consumer,Notebook Pack,Office Supplies,15,$11.81,10%,159.44,92.45
+2025-04-20,ORD-10115,East,Small Business,Bookshelf,Furniture,2,$133.44,0%,266.88,201.15
+2025-04-20,ORD-10199,South,Enterprise,Printer Paper,Office Supplies,10,$27.16,10%,244.44,172.04
+2025-04-20,ORD-10202,West,Small Business,Standing Desk,Furniture,12,$455.00,0%,5460.0,4049.77
+2025-04-21,ORD-10166,North,Small Business,Headphones,Electronics,5,$78.14,10%,351.63,225.96
+2025-04-21,ORD-10275,East,Small Business,Standing Desk,Furniture,8,$446.86,0%,3574.88,2165.77
+2025-04-21,ORD-10400,West,Consumer,Printer Paper,Office Supplies,9,$22.84,10%,185.0,113.65
+2025-04-21,ORD-10622,East,Consumer,Monitor,Electronics,2,$237.64,10%,427.75,319.26
+2025-04-21,ORD-10820,East,Small Business,Laptop,Electronics,1,"$1,001.02",0%,1001.02,661.4
+2025-04-21,ORD-10851,North,Consumer,Pen Set,Office Supplies,15,$7.64,5%,108.87,71.99
+2025-04-22,ORD-10190,West,Enterprise,Notebook Pack,Office Supplies,13,$11.27,0%,146.51,80.83
+2025-04-22,ORD-10637,South,Small Business,Headphones,Electronics,1,$80.18,10%,72.16,43.37
+2025-04-22,ORD-10888,East,Small Business,Laptop,Electronics,15,"$1,031.50",0%,15472.5,11485.74
+2025-04-22,ORD-10986,West,Small Business,Bookshelf,Furniture,13,$122.72,10%,1435.82,1105.3
+2025-04-23,ORD-10578,South,Enterprise,Printer Paper,Office Supplies,10,$26.23,10%,236.07,142.61
+2025-04-23,ORD-10926,South,Consumer,Standing Desk,Furniture,10,$423.08,0%,4230.8,3014.99
+2025-04-23,ORD-11108,East,Consumer,Printer Paper,Office Supplies,16,$27.08,10%,389.95,242.96
+2025-04-23,ORD-11154,South,Enterprise,Headphones,Electronics,13,$86.37,0%,1122.81,738.31
+2025-04-25,ORD-10261,East,Consumer,Monitor,Electronics,12,$249.41,0%,2992.92,1766.71
+2025-04-25,ORD-10620,West,Enterprise,Desk Chair,Furniture,16,$184.39,10%,2655.22,1715.8
+2025-04-26,ORD-10385,West,Enterprise,Monitor,Electronics,13,$248.89,5%,3073.79,2356.19
+2025-04-26,ORD-10403,West,Small Business,Printer Paper,Office Supplies,13,$27.04,10%,316.37,210.32
+2025-04-26,ORD-10966,West,Small Business,Bookshelf,Furniture,6,$129.95,0%,779.7,498.7
+2025-04-27,ORD-10234,North,Consumer,Standing Desk,Furniture,1,$391.80,10%,352.62,248.16
+2025-04-27,ORD-10238,West,Enterprise,Headphones,Electronics,19,$82.54,10%,1411.43,1088.39
+2025-04-27,ORD-10326,South,Enterprise,Headphones,Electronics,5,$83.41,15%,354.49,233.92
+2025-04-27,ORD-10375,North,Consumer,Laptop,Electronics,4,$935.62,0%,3742.48,2103.74
+2025-04-27,ORD-10555,East,Consumer,Standing Desk,Furniture,16,$445.13,0%,7122.08,5570.01
+2025-04-27,ORD-10815,East,Consumer,Pen Set,Office Supplies,14,$7.82,0%,109.48,66.42
+2025-04-27,ORD-10929,North,Enterprise,Bookshelf,Furniture,8,$140.66,5%,1069.02,667.8
+2025-04-27,ORD-11070,East,Small Business,Notebook Pack,Office Supplies,15,$11.74,0%,176.1,124.9
+2025-04-27,ORD-11071,East,Consumer,Monitor,Electronics,9,$247.06,10%,2001.19,1245.45
+2025-04-28,ORD-10203,South,Consumer,Notebook Pack,Office Supplies,13,$12.36,10%,144.61,85.56
+2025-04-28,ORD-10303,South,Consumer,Printer Paper,Office Supplies,10,$27.50,0%,275.0,193.49
+2025-04-28,ORD-10749,West,Small Business,Monitor,Electronics,15,$225.61,15%,2876.53,1909.15
+2025-04-28,ORD-10951,North,Enterprise,Headphones,Electronics,5,$92.80,0%,464.0,299.56
+2025-04-28,ORD-11091,East,Small Business,Standing Desk,Furniture,8,$442.24,0%,3537.92,2466.38
+2025-04-29,ORD-10048,West,Consumer,Notebook Pack,Office Supplies,3,$13.00,10%,35.1,20.5
+2025-04-29,ORD-10187,South,Consumer,Desk Chair,Furniture,18,$193.11,5%,3302.18,1972.76
+2025-04-29,ORD-10882,East,Consumer,Standing Desk,Furniture,8,$437.88,0%,3503.04,2078.45
+2025-04-29,ORD-11082,South,Small Business,Printer Paper,Office Supplies,16,$26.15,0%,418.4,312.25
+2025-04-29,ORD-11106,East,Small Business,Headphones,Electronics,9,$88.60,0%,797.4,565.24
+2025-04-30,ORD-10714,North,Small Business,Printer Paper,Office Supplies,10,$26.76,5%,254.22,146.82
+2025-04-30,ORD-10891,West,Consumer,Notebook Pack,Office Supplies,12,$12.39,15%,126.38,72.84
+2025-04-30,ORD-10950,East,Small Business,Laptop,Electronics,17,$935.83,10%,14318.2,8006.74
+2025-04-30,ORD-11146,West,Consumer,Standing Desk,Furniture,5,$380.62,0%,1903.1,1073.85
+2025-05-01,ORD-10313,East,Consumer,Headphones,Electronics,1,$86.98,15%,73.93,57.96
+2025-05-01,ORD-10868,North,Small Business,Standing Desk,Furniture,15,$430.09,10%,5806.21,4147.33
+2025-05-02,ORD-10293,East,Enterprise,Headphones,Electronics,19,$84.86,10%,1451.11,930.29
+2025-05-02,ORD-10310,North,Consumer,Bookshelf,Furniture,11,$141.27,0%,1553.97,921.41
+2025-05-02,ORD-10576,East,Consumer,Printer Paper,Office Supplies,4,$26.60,10%,95.76,58.79
+2025-05-02,ORD-10704,East,Consumer,Monitor,Electronics,11,$218.92,0%,2408.12,1851.18
+2025-05-02,ORD-10959,North,Enterprise,Desk Chair,Furniture,1,$176.25,15%,149.81,84.39
+2025-05-03,ORD-11003,North,Small Business,Pen Set,Office Supplies,18,$7.59,0%,136.62,94.42
+2025-05-04,ORD-10570,East,Small Business,Printer Paper,Office Supplies,15,$26.31,5%,374.92,219.83
+2025-05-04,ORD-10581,East,Small Business,Pen Set,Office Supplies,19,$8.47,5%,152.88,110.71
+2025-05-04,ORD-10699,North,Small Business,Laptop,Electronics,1,$936.71,0%,936.71,574.88
+2025-05-04,ORD-11122,South,Enterprise,Headphones,Electronics,13,$91.58,15%,1011.96,745.53
+2025-05-04,ORD-11166,North,Small Business,Laptop,Electronics,14,$858.69,0%,12021.66,8934.49
+2025-05-05,ORD-10129,North,Consumer,Bookshelf,Furniture,5,$141.54,10%,636.93,395.96
+2025-05-05,ORD-10773,South,Enterprise,Notebook Pack,Office Supplies,14,$12.76,5%,169.71,129.94
+2025-05-05,ORD-10777,West,Small Business,Monitor,Electronics,18,$219.76,5%,3757.9,2702.62
+2025-05-05,ORD-10873,West,Consumer,Monitor,Electronics,13,$221.75,0%,2882.75,1981.27
+2025-05-05,ORD-11126,North,Consumer,Pen Set,Office Supplies,15,$8.03,10%,108.4,81.83
+2025-05-06,ORD-10156,East,Consumer,Monitor,Electronics,4,$219.37,15%,745.86,570.34
+2025-05-06,ORD-10171,West,Consumer,Laptop,Electronics,8,$982.68,0%,7861.44,4462.94
+2025-05-06,ORD-10446,North,Small Business,Headphones,Electronics,12,$88.04,0%,1056.48,715.6
+2025-05-06,ORD-10510,East,Small Business,Printer Paper,Office Supplies,18,$27.30,0%,491.4,322.53
+2025-05-06,ORD-10592,North,Consumer,Headphones,Electronics,16,$90.20,15%,1226.72,974.74
+2025-05-06,ORD-10829,East,Small Business,Laptop,Electronics,1,$973.63,0%,973.63,609.41
+2025-05-07,ORD-10035,North,Enterprise,Laptop,Electronics,11,$989.16,0%,10880.76,8232.79
+2025-05-07,ORD-10182,East,Enterprise,Standing Desk,Furniture,4,$419.29,0%,1677.16,1052.73
+2025-05-07,ORD-10206,West,Consumer,Notebook Pack,Office Supplies,10,$10.81,0%,108.1,80.37
+2025-05-07,ORD-10391,North,Small Business,Monitor,Electronics,18,$249.53,0%,4491.54,3235.72
+2025-05-08,ORD-10111,West,Consumer,Pen Set,Office Supplies,11,$7.61,0%,83.71,55.78
+2025-05-08,ORD-10556,North,Enterprise,Notebook Pack,Office Supplies,14,$12.00,5%,159.6,111.55
+2025-05-09,ORD-10162,East,Consumer,Desk Chair,Furniture,19,$167.13,15%,2699.15,1812.72
+2025-05-09,ORD-11081,North,Enterprise,Printer Paper,Office Supplies,19,$23.87,0%,453.53,274.78
+2025-05-10,ORD-10630,South,Small Business,Notebook Pack,Office Supplies,19,$11.06,0%,210.14,134.35
+2025-05-11,ORD-10484,North,Enterprise,Standing Desk,Furniture,19,$436.80,0%,8299.2,4978.95
+2025-05-12,ORD-10371,East,Consumer,Bookshelf,Furniture,9,$117.94,15%,902.24,637.36
+2025-05-12,ORD-10498,West,Consumer,Printer Paper,Office Supplies,4,$24.46,10%,88.06,54.21
+2025-05-12,ORD-10724,North,Consumer,Pen Set,Office Supplies,12,$8.51,0%,102.12,63.36
+2025-05-12,ORD-10726,South,Consumer,Notebook Pack,Office Supplies,12,$13.11,15%,133.72,83.79
+2025-05-12,ORD-10852,South,Small Business,Printer Paper,Office Supplies,2,$24.33,0%,48.66,33.95
+2025-05-13,ORD-10572,East,Small Business,Headphones,Electronics,7,$81.72,0%,572.04,318.94
+2025-05-13,ORD-10944,South,Consumer,Monitor,Electronics,1,$224.54,15%,190.86,137.42
+2025-05-13,ORD-10990,North,Consumer,Desk Chair,Furniture,14,$197.27,0%,2761.78,2085.14
+2025-05-14,ORD-10159,North,Enterprise,Pen Set,Office Supplies,18,$7.70,10%,124.74,90.89
+2025-05-14,ORD-10855,South,Consumer,Pen Set,Office Supplies,5,$7.55,0%,37.75,22.68
+2025-05-14,ORD-11000,North,Small Business,Pen Set,Office Supplies,3,$8.35,0%,25.05,16.37
+2025-05-15,ORD-10070,West,Enterprise,Pen Set,Office Supplies,4,$7.23,5%,27.47,18.09
+2025-05-15,ORD-11078,West,Consumer,Desk Chair,Furniture,13,$167.62,0%,2179.06,1586.63
+2025-05-15,ORD-11155,East,Small Business,Bookshelf,Furniture,14,$117.16,0%,1640.24,1165.01
+2025-05-16,ORD-10663,East,Enterprise,Monitor,Electronics,6,$248.61,0%,1491.66,1096.35
+2025-05-16,ORD-10736,South,Consumer,Notebook Pack,Office Supplies,2,$11.41,5%,21.68,13.54
+2025-05-16,ORD-10766,East,Enterprise,Bookshelf,Furniture,5,$130.33,10%,586.49,419.67
+2025-05-17,ORD-10067,West,Consumer,Desk Chair,Furniture,7,$168.55,10%,1061.87,647.17
+2025-05-17,ORD-10656,North,Small Business,Notebook Pack,Office Supplies,4,$11.18,15%,38.01,22.6
+2025-05-18,ORD-10547,East,Small Business,Bookshelf,Furniture,9,$142.94,0%,1286.46,948.36
+2025-05-18,ORD-10571,East,Small Business,Desk Chair,Furniture,15,$167.06,0%,2505.9,2002.86
+2025-05-19,ORD-10517,East,Small Business,Laptop,Electronics,3,$887.71,0%,2663.13,2075.87
+2025-05-19,ORD-10744,West,Consumer,Pen Set,Office Supplies,5,$7.34,10%,33.03,22.71
+2025-05-20,ORD-10084,West,Consumer,Bookshelf,Furniture,1,$136.78,0%,136.78,104.63
+2025-05-20,ORD-10392,West,Consumer,Desk Chair,Furniture,10,$197.07,5%,1872.16,1086.98
+2025-05-21,ORD-10267,North,Enterprise,Desk Chair,Furniture,1,$189.48,0%,189.48,121.15
+2025-05-21,ORD-10560,South,Consumer,Standing Desk,Furniture,13,$437.73,0%,5690.49,4046.8
+2025-05-21,ORD-10680,East,Small Business,Notebook Pack,Office Supplies,19,$12.57,15%,203.01,112.97
+2025-05-22,ORD-10184,West,Consumer,Standing Desk,Furniture,4,$382.85,0%,1531.4,959.88
+2025-05-22,ORD-10428,North,Consumer,Laptop,Electronics,2,"$1,030.62",5%,1958.18,1171.47
+2025-05-23,ORD-11015,North,Enterprise,Pen Set,Office Supplies,2,$8.08,0%,16.16,12.09
+2025-05-24,ORD-10082,South,Small Business,Monitor,Electronics,10,$247.65,15%,2105.02,
+2025-05-24,ORD-10151,West,Small Business,Headphones,Electronics,1,$86.67,0%,86.67,63.74
+2025-05-24,ORD-10277,West,Small Business,Pen Set,Office Supplies,1,$8.05,5%,7.65,4.49
+2025-05-24,ORD-10573,West,Small Business,Laptop,Electronics,5,$939.69,10%,4228.61,2957.21
+2025-05-24,ORD-10720,South,Consumer,Monitor,Electronics,9,$246.64,5%,2108.77,1393.72
+2025-05-24,ORD-10811,North,Consumer,Pen Set,Office Supplies,5,$7.42,0%,37.1,27.0
+2025-05-24,ORD-10858,North,Consumer,Notebook Pack,Office Supplies,10,$12.49,0%,124.9,72.86
+2025-05-24,ORD-11141,North,Small Business,Desk Chair,Furniture,9,$181.04,5%,1547.89,1081.33
+2025-05-24,ORD-11183,North,Consumer,Standing Desk,Furniture,16,$418.68,0%,6698.88,4248.0
+2025-05-25,ORD-10119,West,Consumer,Monitor,Electronics,11,$229.10,0%,2520.1,1643.06
+2025-05-25,ORD-10465,West,Enterprise,Printer Paper,Office Supplies,17,$26.47,10%,404.99,227.78
+2025-05-25,ORD-10493,East,Consumer,Bookshelf,Furniture,14,$132.86,0%,1860.04,1333.73
+2025-05-25,ORD-10553,West,Consumer,Headphones,Electronics,9,$85.33,5%,729.57,519.99
+2025-05-25,ORD-11090,West,Consumer,Standing Desk,Furniture,15,$386.48,0%,5797.2,4589.17
+2025-05-26,ORD-10802,West,Consumer,Standing Desk,Furniture,1,$404.24,0%,404.24,313.01
+2025-05-26,ORD-10933,West,Small Business,Bookshelf,Furniture,8,$117.94,10%,849.17,657.19
+2025-05-26,ORD-11173,North,Small Business,Monitor,Electronics,2,$230.16,0%,460.32,367.73
+2025-05-27,ORD-10101,East,Consumer,Monitor,Electronics,13,$225.38,0%,2929.94,1822.78
+2025-05-27,ORD-10646,South,Consumer,Standing Desk,Furniture,13,$407.40,15%,4501.77,3406.32
+2025-05-27,ORD-10755,West,Consumer,Desk Chair,Furniture,10,$174.38,0%,1743.8,1342.29
+2025-05-27,ORD-10872,North,Consumer,Monitor,Electronics,19,$221.35,15%,3574.8,2289.38
+2025-05-27,ORD-10939,West,Consumer,Standing Desk,Furniture,1,$385.83,0%,385.83,248.93
+2025-05-27,ORD-11024,West,Consumer,Pen Set,Office Supplies,10,$8.47,0%,84.7,54.34
+2025-05-28,ORD-10665,West,Small Business,Notebook Pack,Office Supplies,11,$11.81,5%,123.41,92.86
+2025-05-28,ORD-10859,North,Consumer,Pen Set,Office Supplies,14,$7.33,0%,102.62,75.6
+2025-05-28,ORD-10962,South,Small Business,Pen Set,Office Supplies,4,$8.31,15%,28.25,20.8
+2025-05-29,ORD-10139,South,Consumer,Desk Chair,Furniture,7,$175.56,10%,1106.03,660.26
+2025-05-29,ORD-10487,East,Small Business,Standing Desk,Furniture,17,$440.68,15%,6367.83,4385.56
+2025-05-29,ORD-10875,East,Small Business,Standing Desk,Furniture,6,$412.63,10%,2228.2,1728.97
+2025-05-30,ORD-10294,South,Consumer,Standing Desk,Furniture,9,$418.91,0%,3770.19,3011.27
+2025-05-30,ORD-10561,North,Consumer,Laptop,Electronics,16,$950.75,0%,15212.0,8660.44
+2025-05-30,ORD-10634,North,Small Business,Monitor,Electronics,10,$244.27,15%,2076.3,1521.76
+2025-05-30,ORD-10674,West,Small Business,Bookshelf,Furniture,2,$137.56,0%,275.12,198.29
+2025-05-30,ORD-10991,East,Consumer,Standing Desk,Furniture,2,$413.54,10%,744.37,537.94
+2025-05-31,ORD-10051,North,Small Business,Monitor,Electronics,14,$220.68,15%,2626.09,1924.51
+2025-05-31,ORD-10518,East,Consumer,Standing Desk,Furniture,15,$423.64,10%,5719.14,3727.29
+2025-05-31,ORD-10687,North,Enterprise,Bookshelf,Furniture,15,$141.76,0%,2126.4,1245.63
+2025-05-31,ORD-11156,South,Enterprise,Monitor,Electronics,5,$259.57,10%,1168.06,801.89
+2025-06-01,ORD-10108,North,Consumer,Standing Desk,Furniture,16,$393.68,0%,6298.88,4539.11
+2025-06-01,ORD-10284,East,Enterprise,Desk Chair,Furniture,10,$168.87,10%,1519.83,1190.44
+2025-06-01,ORD-10383,North,Small Business,Headphones,Electronics,17,$85.97,10%,1315.34,945.04
+2025-06-01,ORD-10434,West,Small Business,Desk Chair,Furniture,8,$164.73,15%,1120.16,815.61
+2025-06-01,ORD-10816,North,Small Business,Laptop,Electronics,16,$936.28,10%,13482.43,8899.93
+2025-06-02,ORD-10024,North,Enterprise,Pen Set,Office Supplies,10,$7.70,0%,77.0,50.27
+2025-06-02,ORD-10279,South,Consumer,Laptop,Electronics,10,$875.00,10%,7875.0,5743.46
+2025-06-02,ORD-11089,North,Consumer,Monitor,Electronics,6,$224.55,0%,1347.3,769.6
+2025-06-03,ORD-10173,West,Consumer,Notebook Pack,Office Supplies,15,$13.16,15%,167.79,128.9
+2025-06-03,ORD-10477,South,Consumer,Laptop,Electronics,16,"$1,027.72",0%,16443.52,12002.47
+2025-06-03,ORD-10869,East,Small Business,Laptop,Electronics,13,$943.74,5%,11655.19,8835.46
+2025-06-04,ORD-11023,North,Consumer,Pen Set,Office Supplies,3,$8.64,0%,25.92,15.38
+2025-06-04,ORD-11049,South,Consumer,Monitor,Electronics,2,$250.44,0%,500.88,373.82
+2025-06-04,ORD-11140,North,Consumer,Pen Set,Office Supplies,5,$7.82,0%,39.1,28.28
+2025-06-05,ORD-10132,East,Small Business,Laptop,Electronics,18,$873.68,0%,15726.24,11745.78
+2025-06-05,ORD-10236,North,Consumer,Bookshelf,Furniture,18,$141.81,0%,2552.58,1975.53
+2025-06-05,ORD-10640,North,Consumer,Notebook Pack,Office Supplies,10,$11.46,10%,103.14,60.06
+2025-06-05,ORD-11075,North,Consumer,Monitor,Electronics,2,$235.52,0%,471.04,315.34
+2025-06-06,ORD-10486,East,Consumer,Desk Chair,Furniture,6,$186.35,10%,1006.29,750.93
+2025-06-07,ORD-10295,East,Small Business,Standing Desk,Furniture,4,$459.17,15%,1561.18,1075.5
+2025-06-07,ORD-10540,North,Enterprise,Notebook Pack,Office Supplies,6,$12.93,0%,77.58,49.26
+2025-06-08,ORD-10243,North,Small Business,Bookshelf,Furniture,11,$124.80,5%,1304.16,847.04
+2025-06-08,ORD-10723,South,Consumer,Monitor,Electronics,18,$236.71,0%,4260.78,3060.86
+2025-06-08,ORD-10806,South,,Standing Desk,Furniture,9,$433.95,0%,3905.55,2204.25
+2025-06-09,ORD-10791,East,Consumer,Standing Desk,Furniture,12,$405.28,15%,4133.86,3091.23
+2025-06-09,ORD-11117,East,Small Business,Bookshelf,Furniture,5,$139.49,0%,697.45,519.11
+2025-06-10,ORD-10019,North,Enterprise,Standing Desk,Furniture,18,$397.71,0%,7158.78,4925.93
+2025-06-10,ORD-10217,East,Small Business,Laptop,Electronics,11,$857.47,15%,8017.34,5385.07
+2025-06-10,ORD-10877,North,Consumer,Notebook Pack,Office Supplies,8,$13.09,0%,104.72,72.73
+2025-06-10,ORD-10934,East,Small Business,Desk Chair,Furniture,13,$179.90,15%,1987.9,1170.82
+2025-06-11,ORD-10092,East,Small Business,Pen Set,Office Supplies,2,$8.56,0%,17.12,11.31
+2025-06-11,ORD-10956,North,Consumer,Desk Chair,Furniture,7,$197.61,10%,1244.94,729.18
+2025-06-12,ORD-10062,South,Consumer,Desk Chair,Furniture,17,$170.80,10%,2613.24,1614.62
+2025-06-12,ORD-10528,North,Small Business,Printer Paper,Office Supplies,4,$26.69,5%,101.42,66.88
+2025-06-12,ORD-10945,West,Small Business,Monitor,Electronics,1,$258.32,0%,258.32,146.44
+2025-06-13,ORD-10118,East,Enterprise,Headphones,Electronics,17,$81.10,15%,1171.89,914.19
+2025-06-13,ORD-10272,North,Small Business,Monitor,Electronics,4,$246.80,0%,987.2,654.7
+2025-06-13,ORD-10442,South,Enterprise,Monitor,Electronics,18,$217.94,5%,3726.77,2334.77
+2025-06-13,ORD-11181,North,Consumer,Printer Paper,Office Supplies,16,$23.14,0%,370.24,253.54
+2025-06-14,ORD-10130,East,Consumer,Bookshelf,Furniture,1,$128.10,10%,115.29,85.25
+2025-06-14,ORD-10172,South,Consumer,Notebook Pack,Office Supplies,16,$12.51,15%,170.14,107.06
+2025-06-14,ORD-10689,South,Consumer,Pen Set,Office Supplies,7,$7.81,0%,54.67,40.26
+2025-06-14,ORD-10718,East,Small Business,Headphones,Electronics,11,$92.39,0%,1016.29,595.95
+2025-06-14,ORD-10839,East,Enterprise,Printer Paper,Office Supplies,18,$23.91,5%,408.86,282.39
+2025-06-14,ORD-11016,North,Consumer,Desk Chair,Furniture,8,$171.02,0%,1368.16,855.18
+2025-06-15,ORD-10167,North,Consumer,Monitor,Electronics,7,$225.05,0%,1575.35,991.78
+2025-06-15,ORD-10365,South,Consumer,Standing Desk,Furniture,2,$405.75,0%,811.5,595.13
+2025-06-15,ORD-10602,North,Consumer,Notebook Pack,Office Supplies,13,$12.00,10%,140.4,90.71
+2025-06-15,ORD-10652,East,Small Business,Monitor,Electronics,17,$230.84,0%,3924.28,2891.71
+2025-06-15,ORD-10846,South,Consumer,Monitor,Electronics,17,$251.15,15%,3629.12,2522.61
+2025-06-15,ORD-11004,South,Enterprise,Monitor,Electronics,6,$241.84,10%,1305.94,884.37
+2025-06-15,ORD-11042,South,Consumer,Desk Chair,Furniture,11,$166.87,0%,1835.57,1133.8
+2025-06-15,ORD-11136,West,Consumer,Notebook Pack,Office Supplies,4,$12.01,10%,43.24,26.37
+2025-06-15,ORD-11190,East,Small Business,Desk Chair,Furniture,1,$164.91,0%,164.91,95.16
+2025-06-16,ORD-10257,South,Consumer,Laptop,Electronics,16,$913.66,15%,12425.78,8541.59
+2025-06-16,ORD-10542,North,Enterprise,Monitor,Electronics,11,$258.52,15%,2417.16,1854.41
+2025-06-16,ORD-10979,West,Small Business,Bookshelf,Furniture,3,$133.95,10%,361.66,206.84
+2025-06-17,ORD-10354,North,Consumer,Printer Paper,Office Supplies,16,$24.98,10%,359.71,203.48
+2025-06-17,ORD-10803,East,Consumer,Printer Paper,Office Supplies,10,$23.39,15%,198.82,154.6
+2025-06-18,ORD-10012,East,Consumer,Notebook Pack,Office Supplies,11,$12.63,0%,138.93,94.05
+2025-06-18,ORD-10319,North,Small Business,Notebook Pack,Office Supplies,1,$11.55,10%,10.4,7.04
+2025-06-18,ORD-10819,South,Enterprise,Printer Paper,Office Supplies,4,$26.70,15%,90.78,51.49
+2025-06-18,ORD-10988,North,Consumer,Headphones,Electronics,11,$93.34,0%,1026.74,773.08
+2025-06-18,ORD-11073,West,Small Business,Standing Desk,Furniture,7,$392.68,10%,2473.88,1456.48
+2025-06-19,ORD-10047,North,Consumer,Printer Paper,Office Supplies,2,$25.71,0%,51.42,36.71
+2025-06-19,ORD-10753,West,Enterprise,Printer Paper,Office Supplies,13,$26.26,10%,307.24,182.51
+2025-06-19,ORD-10876,West,Consumer,Standing Desk,Furniture,10,$378.16,0%,3781.6,2235.79
+2025-06-19,ORD-11153,East,Small Business,Printer Paper,Office Supplies,13,$24.87,0%,323.31,181.5
+2025-06-20,ORD-10298,South,Consumer,Headphones,Electronics,18,$84.65,0%,1523.7,1153.41
+2025-06-20,ORD-10567,North,Small Business,Headphones,Electronics,12,$84.71,0%,1016.52,758.34
+2025-06-20,ORD-10601,East,Consumer,Pen Set,Office Supplies,14,$7.41,0%,103.74,62.28
+2025-06-21,ORD-10230,West,Enterprise,Standing Desk,Furniture,7,$414.91,0%,2904.37,1602.82
+2025-06-21,ORD-10496,North,Consumer,Monitor,Electronics,1,$250.42,0%,250.42,199.8
+2025-06-21,ORD-10511,South,Consumer,Notebook Pack,Office Supplies,18,$12.50,0%,225.0,137.86
+2025-06-21,ORD-10767,West,Consumer,Standing Desk,Furniture,7,$406.31,15%,2417.54,1424.03
+2025-06-22,ORD-10588,West,Enterprise,Pen Set,Office Supplies,10,$8.45,0%,84.5,56.1
+2025-06-22,ORD-10825,South,Small Business,Laptop,Electronics,14,$958.55,10%,12077.73,8477.65
+2025-06-22,ORD-11194,East,Small Business,Standing Desk,Furniture,3,$401.50,0%,1204.5,834.71
+2025-06-23,ORD-10219,West,Consumer,Printer Paper,Office Supplies,13,$24.15,5%,298.25,196.65
+2025-06-23,ORD-10340,West,Enterprise,Bookshelf,Furniture,8,$125.84,0%,1006.72,710.11
+2025-06-23,ORD-11038,South,Enterprise,Desk Chair,Furniture,6,$175.64,0%,1053.84,704.32
+2025-06-24,ORD-10001,East,Consumer,Notebook Pack,Office Supplies,12,$12.23,0%,146.76,88.38
+2025-06-24,ORD-10594,West,Enterprise,Headphones,Electronics,11,$77.25,0%,849.75,559.5
+2025-06-24,ORD-10598,East,Consumer,Bookshelf,Furniture,18,$141.73,0%,2551.14,1841.82
+2025-06-25,ORD-10307,South,Enterprise,Standing Desk,Furniture,19,$380.14,0%,7222.66,4492.64
+2025-06-25,ORD-10607,South,Consumer,Standing Desk,Furniture,16,$398.70,0%,6379.2,3769.18
+2025-06-25,ORD-10731,East,Small Business,Desk Chair,Furniture,18,$194.65,5%,3328.52,2530.87
+2025-06-25,ORD-10977,West,Consumer,Bookshelf,Furniture,3,$120.62,15%,307.58,211.38
+2025-06-26,ORD-10316,North,Small Business,Notebook Pack,Office Supplies,5,$12.57,10%,56.57,39.62
+2025-06-28,ORD-10043,North,Enterprise,Desk Chair,Furniture,4,$178.11,0%,712.44,468.26
+2025-06-28,ORD-10291,West,Enterprise,Headphones,Electronics,8,$88.75,15%,603.5,446.42
+2025-06-28,ORD-10955,West,Consumer,Bookshelf,Furniture,8,$132.43,0%,1059.44,744.12
+2025-06-29,ORD-10276,South,Consumer,Standing Desk,Furniture,7,$418.61,10%,2637.24,1772.21
+2025-06-29,ORD-10717,East,Enterprise,Standing Desk,Furniture,13,$445.35,0%,5789.55,3463.23
+2025-06-29,ORD-11097,North,Consumer,Notebook Pack,Office Supplies,19,$12.29,15%,198.48,150.88
+2025-06-30,ORD-10152,North,Consumer,Printer Paper,Office Supplies,15,$24.27,5%,345.85,210.79
+2025-06-30,ORD-10318,North,Consumer,Printer Paper,Office Supplies,17,$22.93,5%,370.32,208.65
+2025-06-30,ORD-10348,South,Consumer,Monitor,Electronics,8,$253.14,15%,1721.35,1331.59
+2025-06-30,ORD-10613,North,Consumer,Desk Chair,Furniture,17,$194.05,0%,3298.85,1970.02
+2025-07-01,ORD-10155,North,Consumer,Bookshelf,Furniture,4,$125.63,15%,427.14,260.2
+2025-07-01,ORD-10810,North,Consumer,Laptop,Electronics,6,$962.87,10%,5199.5,2920.98
+2025-07-02,ORD-11053,East,Consumer,Printer Paper,Office Supplies,13,$24.74,10%,289.46,177.39
+2025-07-03,ORD-10178,East,Consumer,Printer Paper,Office Supplies,18,$22.52,15%,344.56,259.44
+2025-07-03,ORD-10536,West,Consumer,Standing Desk,Furniture,15,$397.18,15%,5064.04,3665.18
+2025-07-04,ORD-10566,West,Small Business,Headphones,Electronics,2,$91.13,10%,164.03,107.76
+2025-07-04,ORD-11050,East,Enterprise,Standing Desk,Furniture,4,$457.77,10%,1647.97,1316.26
+2025-07-04,ORD-11149,North,Small Business,Pen Set,Office Supplies,10,$7.87,0%,78.7,56.11
+2025-07-05,ORD-10016,South,Consumer,Standing Desk,Furniture,17,$457.64,5%,7390.89,4501.74
+2025-07-05,ORD-10040,West,Consumer,Monitor,Electronics,15,$234.23,0%,3513.45,2704.42
+2025-07-05,ORD-10289,South,Enterprise,Standing Desk,Furniture,11,$414.40,10%,4102.56,2554.33
+2025-07-05,ORD-10417,East,Consumer,Monitor,Electronics,13,$253.77,15%,2804.16,1568.83
+2025-07-05,ORD-10865,West,Consumer,Notebook Pack,Office Supplies,9,$11.58,0%,104.22,75.46
+2025-07-06,ORD-11112,South,Small Business,Monitor,Electronics,14,$253.00,0%,3542.0,2416.54
+2025-07-07,ORD-10095,South,Consumer,Headphones,Electronics,8,$77.31,0%,618.48,414.52
+2025-07-07,ORD-10241,North,Consumer,Bookshelf,Furniture,4,$131.64,10%,473.9,278.5
+2025-07-07,ORD-10479,East,Consumer,Laptop,Electronics,4,$962.22,0%,3848.88,2820.65
+2025-07-08,ORD-10006,East,Small Business,Laptop,Electronics,9,$967.10,0%,8703.9,5676.25
+2025-07-08,ORD-10259,South,Consumer,Bookshelf,Furniture,12,$118.12,15%,1204.82,679.36
+2025-07-08,ORD-10382,South,Small Business,Printer Paper,Office Supplies,13,$27.11,0%,352.43,194.12
+2025-07-08,ORD-10519,West,Consumer,Bookshelf,Furniture,5,$136.90,10%,616.05,389.37
+2025-07-08,ORD-10715,North,Enterprise,Pen Set,Office Supplies,14,$8.53,10%,107.48,85.48
+2025-07-08,ORD-11063,North,Consumer,Notebook Pack,Office Supplies,4,$12.21,15%,41.51,30.45
+2025-07-09,ORD-10485,North,,Headphones,Electronics,11,$89.25,15%,834.49,482.39
+2025-07-09,ORD-10932,West,Small Business,Headphones,Electronics,17,$85.17,5%,1375.5,990.64
+2025-07-10,ORD-10599,East,Consumer,Bookshelf,Furniture,17,$128.40,10%,1964.52,1100.54
+2025-07-10,ORD-10648,South,Enterprise,Printer Paper,Office Supplies,9,$23.74,0%,213.66,146.22
+2025-07-11,ORD-10110,South,Consumer,Headphones,Electronics,18,$81.63,10%,1322.41,767.19
+2025-07-11,ORD-10464,West,Small Business,Laptop,Electronics,16,$997.75,10%,14367.6,9225.68
+2025-07-11,ORD-10658,North,Small Business,Laptop,Electronics,10,"$1,022.10",15%,8687.85,5195.17
+2025-07-11,ORD-10828,East,Small Business,Pen Set,Office Supplies,9,$8.70,10%,70.47,39.8
+2025-07-12,ORD-10756,East,Small Business,Notebook Pack,Office Supplies,2,$11.43,15%,19.43,12.16
+2025-07-13,ORD-10098,East,Small Business,Bookshelf,Furniture,15,$123.70,5%,1762.72,1361.17
+2025-07-13,ORD-10191,West,Consumer,Bookshelf,Furniture,10,$117.70,0%,1177.0,898.92
+2025-07-13,ORD-10300,East,Consumer,Desk Chair,Furniture,11,$195.93,5%,2047.47,1414.42
+2025-07-13,ORD-10701,North,Small Business,Bookshelf,Furniture,5,$123.35,0%,616.75,417.36
+2025-07-13,ORD-10719,West,Consumer,Bookshelf,Furniture,10,$129.36,10%,1164.24,806.29
+2025-07-13,ORD-10790,North,Consumer,Laptop,Electronics,2,$897.10,0%,1794.2,1178.22
+2025-07-13,ORD-10847,East,Consumer,Laptop,Electronics,19,$989.04,15%,15973.0,9109.66
+2025-07-14,ORD-10134,West,Consumer,Pen Set,Office Supplies,8,$8.35,0%,66.8,47.28
+2025-07-14,ORD-10140,North,Consumer,Printer Paper,Office Supplies,14,$24.02,5%,319.47,244.26
+2025-07-14,ORD-10352,South,Small Business,Headphones,Electronics,5,$77.16,0%,385.8,257.9
+2025-07-14,ORD-10468,North,Enterprise,Monitor,Electronics,14,$230.90,10%,2909.34,2267.07
+2025-07-14,ORD-10524,South,Consumer,Headphones,Electronics,18,$85.10,0%,1531.8,898.12
+2025-07-14,ORD-10757,North,Enterprise,Desk Chair,Furniture,5,$172.01,0%,860.05,544.6
+2025-07-14,ORD-11109,West,Consumer,Laptop,Electronics,10,$953.53,15%,8105.0,4728.62
+2025-07-15,ORD-10435,South,Consumer,Monitor,Electronics,17,$242.97,0%,4130.49,2919.14
+2025-07-15,ORD-10700,East,Consumer,Standing Desk,Furniture,18,$452.20,0%,8139.6,4825.16
+2025-07-15,ORD-10721,South,Consumer,Printer Paper,Office Supplies,13,$25.07,15%,277.02,169.64
+2025-07-16,ORD-10938,East,Consumer,Standing Desk,Furniture,5,$419.81,10%,1889.15,1470.73
+2025-07-16,ORD-11135,East,Small Business,Laptop,Electronics,6,$858.87,5%,4895.56,3368.95
+2025-07-16,ORD-11150,North,,Desk Chair,Furniture,8,$171.00,10%,1231.2,783.98
+2025-07-17,ORD-10058,East,Enterprise,Notebook Pack,Office Supplies,5,$11.32,0%,56.6,31.46
+2025-07-17,ORD-10179,South,Consumer,Standing Desk,Furniture,12,$420.61,5%,4794.95,3732.87
+2025-07-17,ORD-10647,East,Consumer,Standing Desk,Furniture,8,$410.70,15%,2792.76,1781.81
+2025-07-17,ORD-10917,North,Small Business,Pen Set,Office Supplies,15,$8.07,5%,115.0,91.91
+2025-07-18,ORD-10936,South,Enterprise,Monitor,Electronics,6,$232.45,0%,1394.7,980.73
+2025-07-18,ORD-10953,East,Small Business,Desk Chair,Furniture,6,$187.74,0%,1126.44,831.56
+2025-07-19,ORD-10918,North,Consumer,Headphones,Electronics,1,$87.73,0%,87.73,50.41
+2025-07-19,ORD-11142,East,Small Business,Printer Paper,Office Supplies,4,$22.67,0%,90.68,53.22
+2025-07-20,ORD-10122,North,Small Business,Bookshelf,Furniture,11,$125.61,10%,1243.54,769.68
+2025-07-20,ORD-10376,East,Consumer,Notebook Pack,Office Supplies,4,$10.82,10%,38.95,23.29
+2025-07-21,ORD-10021,North,Enterprise,Desk Chair,Furniture,13,$188.72,10%,2208.02,1366.02
+2025-07-21,ORD-10296,West,Enterprise,Pen Set,Office Supplies,12,$8.41,10%,90.83,65.61
+2025-07-21,ORD-10424,South,Consumer,Desk Chair,Furniture,11,$167.55,10%,1658.74,1111.57
+2025-07-21,ORD-10639,East,Consumer,Printer Paper,Office Supplies,11,$25.17,0%,276.87,163.04
+2025-07-21,ORD-10796,North,Small Business,Printer Paper,Office Supplies,11,$25.74,15%,240.67,187.44
+2025-07-21,ORD-11051,East,Consumer,Desk Chair,Furniture,12,$186.09,0%,2233.08,1710.32
+2025-07-21,ORD-11134,South,Consumer,Bookshelf,Furniture,16,$130.24,0%,2083.84,1285.49
+2025-07-22,ORD-10057,West,Small Business,Monitor,Electronics,13,$223.28,5%,2757.51,1951.1
+2025-07-22,ORD-10164,South,,Desk Chair,Furniture,18,$183.63,0%,3305.34,
+2025-07-22,ORD-10463,North,Consumer,Desk Chair,Furniture,10,$172.38,15%,1465.23,1130.3
+2025-07-22,ORD-10737,East,Small Business,Desk Chair,Furniture,16,$188.09,5%,2858.97,2006.05
+2025-07-22,ORD-10830,North,Consumer,Headphones,Electronics,10,$84.59,5%,803.6,526.61
+2025-07-23,ORD-10364,East,Enterprise,Monitor,Electronics,7,$231.11,0%,1617.77,1152.19
+2025-07-24,ORD-10186,East,Small Business,Monitor,Electronics,19,$250.90,10%,4290.39,3038.78
+2025-07-24,ORD-10211,West,Small Business,Notebook Pack,Office Supplies,2,$12.48,0%,24.96,17.05
+2025-07-24,ORD-10774,North,Small Business,Pen Set,Office Supplies,14,$8.47,0%,118.58,74.88
+2025-07-25,ORD-10233,North,Consumer,Notebook Pack,Office Supplies,3,$11.04,15%,28.15,19.18
+2025-07-25,ORD-10861,North,Enterprise,Printer Paper,Office Supplies,5,$22.64,0%,113.2,62.7
+2025-07-26,ORD-10471,East,Small Business,Pen Set,Office Supplies,9,$7.92,5%,67.72,52.06
+2025-07-27,ORD-10343,North,Consumer,Standing Desk,Furniture,11,$386.69,0%,4253.59,3327.82
+2025-07-28,ORD-10254,South,Enterprise,Bookshelf,Furniture,1,$117.97,0%,117.97,88.97
+2025-07-28,ORD-10527,West,Consumer,Monitor,Electronics,5,$223.37,15%,949.32,740.76
+2025-07-28,ORD-10558,West,Enterprise,Pen Set,Office Supplies,2,$8.20,0%,16.4,10.51
+2025-07-28,ORD-10998,North,Enterprise,Printer Paper,Office Supplies,11,$24.20,15%,226.27,161.76
+2025-07-28,ORD-11102,South,Small Business,Printer Paper,Office Supplies,2,$25.30,0%,50.6,29.58
+2025-07-29,ORD-10143,East,Small Business,Desk Chair,Furniture,17,$164.29,0%,2792.93,2223.05
+2025-07-29,ORD-10430,South,Consumer,Laptop,Electronics,3,$961.88,15%,2452.79,1839.74
+2025-07-29,ORD-10696,East,Consumer,Notebook Pack,Office Supplies,15,$11.52,0%,172.8,136.7
+2025-07-30,ORD-10426,South,Consumer,Pen Set,Office Supplies,6,$7.34,0%,44.04,25.74
+2025-07-30,ORD-10564,North,Consumer,Printer Paper,Office Supplies,6,$27.37,15%,139.59,107.64
+2025-07-30,ORD-11046,North,Consumer,Headphones,Electronics,3,$80.61,15%,205.56,161.43
+2025-08-01,ORD-10559,West,Consumer,Pen Set,Office Supplies,7,$8.02,15%,47.72,36.02
+2025-08-01,ORD-10922,North,Consumer,Standing Desk,Furniture,13,$407.06,10%,4762.6,2701.06
+2025-08-02,ORD-10214,North,Consumer,Notebook Pack,Office Supplies,13,$11.15,0%,144.95,86.86
+2025-08-02,ORD-10427,North,Consumer,Pen Set,Office Supplies,15,$8.61,0%,129.15,71.18
+2025-08-02,ORD-10590,East,Consumer,Pen Set,Office Supplies,4,$8.49,0%,33.96,23.45
+2025-08-02,ORD-10657,North,Enterprise,Bookshelf,Furniture,8,$127.84,0%,1022.72,727.65
+2025-08-02,ORD-10836,West,Consumer,Pen Set,Office Supplies,5,$8.30,5%,39.42,24.27
+2025-08-02,ORD-10989,West,Consumer,Pen Set,Office Supplies,19,$8.79,0%,167.01,111.19
+2025-08-03,ORD-10222,South,Small Business,Notebook Pack,Office Supplies,13,$12.62,15%,139.45,107.35
+2025-08-03,ORD-10632,South,Enterprise,Desk Chair,Furniture,7,$183.56,5%,1220.67,872.18
+2025-08-03,ORD-11034,East,Consumer,Laptop,Electronics,5,$878.56,0%,4392.8,3019.47
+2025-08-03,ORD-11144,East,Enterprise,Headphones,Electronics,5,$84.57,5%,401.71,224.68
+2025-08-04,ORD-10117,North,Consumer,Monitor,Electronics,6,$248.32,15%,1266.43,908.01
+2025-08-04,ORD-10195,North,Consumer,Laptop,Electronics,5,$928.73,5%,4411.47,2672.85
+2025-08-04,ORD-10345,South,Small Business,Headphones,Electronics,15,$87.92,5%,1252.86,950.59
+2025-08-04,ORD-10864,South,Small Business,Pen Set,Office Supplies,11,$8.72,5%,91.12,54.9
+2025-08-05,ORD-10407,North,Consumer,Monitor,Electronics,15,$228.08,0%,3421.2,2676.99
+2025-08-06,ORD-10149,North,Small Business,Laptop,Electronics,7,$889.92,0%,6229.44,4502.53
+2025-08-06,ORD-10443,North,Enterprise,Standing Desk,Furniture,19,$408.61,0%,7763.59,4777.13
+2025-08-06,ORD-10453,North,Consumer,Laptop,Electronics,11,$861.67,0%,9478.37,7118.34
+2025-08-07,ORD-10304,West,Small Business,Standing Desk,Furniture,3,$438.37,10%,1183.6,895.24
+2025-08-07,ORD-10823,North,Consumer,Bookshelf,Furniture,17,$117.81,0%,2002.77,1409.23
+2025-08-08,ORD-10379,West,Consumer,Headphones,Electronics,8,$92.72,5%,704.67,480.64
+2025-08-08,ORD-10563,North,Enterprise,Monitor,Electronics,17,$224.85,5%,3631.33,2814.45
+2025-08-09,ORD-10324,East,Small Business,Printer Paper,Office Supplies,3,$25.52,15%,65.08,44.78
+2025-08-09,ORD-10367,North,Consumer,Headphones,Electronics,4,$87.51,0%,350.04,257.83
+2025-08-09,ORD-10672,West,Small Business,Bookshelf,Furniture,16,$124.70,0%,1995.2,1568.47
+2025-08-09,ORD-11012,West,Consumer,Headphones,Electronics,6,$92.31,10%,498.47,358.78
+2025-08-10,ORD-10751,North,Consumer,Monitor,Electronics,7,$240.55,0%,1683.85,953.21
+2025-08-10,ORD-10982,West,Consumer,Standing Desk,Furniture,17,$426.82,10%,6530.35,4350.85
+2025-08-11,ORD-10104,West,Consumer,Pen Set,Office Supplies,4,$8.23,0%,32.92,23.95
+2025-08-11,ORD-10461,East,Small Business,Monitor,Electronics,2,$253.90,0%,507.8,353.56
+2025-08-11,ORD-10557,West,Consumer,Pen Set,Office Supplies,15,$8.68,10%,117.18,76.66
+2025-08-11,ORD-10923,North,Small Business,Monitor,Electronics,10,$260.30,15%,2212.55,1708.54
+2025-08-11,ORD-10943,West,Small Business,Standing Desk,Furniture,9,$429.10,0%,3861.9,2990.02
+2025-08-13,ORD-10628,West,Consumer,Standing Desk,Furniture,1,$431.99,5%,410.39,320.91
+2025-08-13,ORD-10826,West,Consumer,Notebook Pack,Office Supplies,8,$11.45,10%,82.44,60.49
+2025-08-14,ORD-10353,South,Consumer,Desk Chair,Furniture,14,$173.84,10%,2190.38,1323.72
+2025-08-14,ORD-10645,East,Consumer,Headphones,Electronics,7,$89.35,10%,562.9,347.67
+2025-08-14,ORD-10684,South,Consumer,Monitor,Electronics,11,$224.85,0%,2473.35,1906.85
+2025-08-14,ORD-11192,South,Small Business,Monitor,Electronics,16,$242.51,15%,3298.14,2608.32
+2025-08-15,ORD-10089,East,Small Business,Pen Set,Office Supplies,10,$8.67,10%,78.03,62.42
+2025-08-15,ORD-10196,East,Small Business,Desk Chair,Furniture,15,$181.98,15%,2320.24,1373.81
+2025-08-15,ORD-10339,South,Small Business,Printer Paper,Office Supplies,19,$25.10,0%,476.9,362.77
+2025-08-15,ORD-10437,West,Consumer,Printer Paper,Office Supplies,16,$24.11,0%,385.76,222.55
+2025-08-15,ORD-10460,North,Consumer,Notebook Pack,Office Supplies,19,$11.88,15%,191.86,136.74
+2025-08-15,ORD-11025,North,Small Business,Laptop,Electronics,11,"$1,034.91",5%,10814.81,6376.45
+2025-08-16,ORD-10010,East,Small Business,Standing Desk,Furniture,4,$402.61,15%,1368.87,929.98
+2025-08-16,ORD-10781,South,Consumer,Bookshelf,Furniture,16,$138.74,0%,2219.84,1434.33
+2025-08-17,ORD-10554,South,Consumer,Printer Paper,Office Supplies,15,$23.96,15%,305.49,237.09
+2025-08-17,ORD-10927,South,Enterprise,Headphones,Electronics,2,$90.59,0%,181.18,114.26
+2025-08-17,ORD-10978,North,Small Business,Desk Chair,Furniture,14,$179.77,10%,2265.1,1655.75
+2025-08-17,ORD-11158,West,Consumer,Desk Chair,Furniture,12,$178.23,10%,1924.88,1380.17
+2025-08-18,ORD-10552,West,Enterprise,Pen Set,Office Supplies,3,$7.75,0%,23.25,16.61
+2025-08-19,ORD-10809,East,Small Business,Printer Paper,Office Supplies,3,$26.49,10%,71.52,52.01
+2025-08-19,ORD-10957,North,Small Business,Bookshelf,Furniture,11,$141.62,0%,1557.82,1048.88
+2025-08-19,ORD-11030,South,Consumer,Standing Desk,Furniture,7,$420.91,0%,2946.37,2114.71
+2025-08-20,ORD-10169,South,Small Business,Laptop,Electronics,16,$969.79,15%,13189.14,9302.41
+2025-08-20,ORD-10216,East,Small Business,Laptop,Electronics,2,$922.41,10%,1660.34,1123.45
+2025-08-20,ORD-10266,South,Consumer,Standing Desk,Furniture,11,$393.86,15%,3682.59,2599.52
+2025-08-20,ORD-10984,East,Consumer,Bookshelf,Furniture,11,$126.67,0%,1393.37,851.2
+2025-08-21,ORD-10034,North,Enterprise,Pen Set,Office Supplies,19,$8.78,0%,166.82,105.61
+2025-08-21,ORD-10136,North,Enterprise,Bookshelf,Furniture,19,$138.92,5%,2507.51,1607.19
+2025-08-21,ORD-10384,East,Consumer,Laptop,Electronics,15,$893.51,0%,13402.65,7553.37
+2025-08-21,ORD-10784,East,Small Business,Standing Desk,Furniture,9,$422.08,15%,3228.91,2354.45
+2025-08-22,ORD-10793,North,Small Business,Pen Set,Office Supplies,12,$7.45,0%,89.4,49.38
+2025-08-24,ORD-10514,South,Consumer,Printer Paper,Office Supplies,8,$27.09,10%,195.05,124.1
+2025-08-24,ORD-10516,South,Small Business,Pen Set,Office Supplies,11,$8.18,0%,89.98,50.39
+2025-08-24,ORD-10983,North,Small Business,Bookshelf,Furniture,19,$123.09,0%,2338.71,1792.66
+2025-08-25,ORD-10814,South,Small Business,Pen Set,Office Supplies,11,$7.89,15%,73.77,52.14
+2025-08-25,ORD-10871,South,Small Business,Monitor,Electronics,13,$225.78,0%,2935.14,2251.88
+2025-08-25,ORD-11160,West,Small Business,Bookshelf,Furniture,4,$130.62,5%,496.36,274.79
+2025-08-26,ORD-10004,North,Consumer,Desk Chair,Furniture,14,$165.04,15%,1963.98,1480.24
+2025-08-26,ORD-10020,North,Enterprise,Standing Desk,Furniture,11,$411.03,10%,4069.2,2964.97
+2025-08-26,ORD-10054,North,Consumer,Standing Desk,Furniture,2,$429.63,15%,730.37,417.54
+2025-08-26,ORD-10686,North,Enterprise,Desk Chair,Furniture,5,$174.53,10%,785.38,604.85
+2025-08-27,ORD-10023,East,Enterprise,Printer Paper,Office Supplies,19,$25.35,0%,481.65,349.68
+2025-08-27,ORD-10197,West,Consumer,Monitor,Electronics,16,$220.52,5%,3351.9,2238.36
+2025-08-27,ORD-10237,East,Small Business,Desk Chair,Furniture,11,$172.26,15%,1610.63,962.39
+2025-08-27,ORD-10522,East,Consumer,Monitor,Electronics,14,$221.26,5%,2942.76,2254.03
+2025-08-27,ORD-10611,South,Consumer,Standing Desk,Furniture,9,$405.51,0%,3649.59,2714.11
+2025-08-27,ORD-11057,East,Consumer,Notebook Pack,Office Supplies,7,$13.09,5%,87.05,59.06
+2025-08-27,ORD-11123,North,Enterprise,Headphones,Electronics,19,$83.05,5%,1499.05,937.78
+2025-08-27,ORD-11179,East,Consumer,Laptop,Electronics,12,"$1,025.78",10%,11078.42,7937.45
+2025-08-28,ORD-10076,North,Small Business,Headphones,Electronics,8,$82.24,0%,657.92,398.35
+2025-08-28,ORD-10492,North,Enterprise,Notebook Pack,Office Supplies,7,$12.85,10%,80.96,61.99
+2025-08-28,ORD-10885,North,Enterprise,Notebook Pack,Office Supplies,9,$10.89,0%,98.01,54.28
+2025-08-28,ORD-10994,East,Small Business,Standing Desk,Furniture,8,$397.97,0%,3183.76,2365.47
+2025-08-28,ORD-11195,West,Enterprise,Bookshelf,Furniture,4,$130.50,0%,522.0,336.2
+2025-08-29,ORD-10396,North,Small Business,Laptop,Electronics,18,$869.21,0%,15645.78,10338.15
+2025-08-29,ORD-10780,West,Consumer,Pen Set,Office Supplies,11,$7.34,15%,68.63,49.73
+2025-08-29,ORD-10821,North,Enterprise,Bookshelf,Furniture,1,$133.32,15%,113.32,71.16
+2025-08-29,ORD-10822,North,Consumer,Monitor,Electronics,4,$241.84,0%,967.36,687.22
+2025-08-29,ORD-10849,South,Enterprise,Bookshelf,Furniture,19,$124.37,0%,2363.03,1407.61
+2025-08-30,ORD-10758,West,Consumer,Monitor,Electronics,11,$260.54,5%,2722.64,1953.74
+2025-08-30,ORD-10887,South,Consumer,Monitor,Electronics,5,$256.77,0%,1283.85,768.79
+2025-08-31,ORD-10447,East,Consumer,Printer Paper,Office Supplies,18,$26.28,0%,473.04,284.0
+2025-08-31,ORD-11041,North,Consumer,Pen Set,Office Supplies,19,$8.41,0%,159.79,101.18
+2025-09-01,ORD-10883,North,Enterprise,Monitor,Electronics,9,$238.25,0%,2144.25,1492.42
+2025-09-01,ORD-10901,North,Small Business,Laptop,Electronics,8,"$1,008.96",15%,6860.93,3940.25
+2025-09-02,ORD-10412,East,Consumer,Headphones,Electronics,9,$85.19,5%,728.37,575.9
+2025-09-03,ORD-10105,West,Enterprise,Pen Set,Office Supplies,13,$8.28,0%,107.64,74.6
+2025-09-03,ORD-10226,North,Consumer,Pen Set,Office Supplies,5,$8.28,10%,37.26,24.54
+2025-09-03,ORD-10612,East,Small Business,Pen Set,Office Supplies,10,$8.18,10%,73.62,46.59
+2025-09-03,ORD-11079,East,Enterprise,Pen Set,Office Supplies,1,$7.92,5%,7.52,4.66
+2025-09-04,ORD-10073,East,Consumer,Monitor,Electronics,12,$250.73,0%,3008.76,2094.45
+2025-09-04,ORD-10128,North,Small Business,Bookshelf,Furniture,4,$134.91,15%,458.69,334.46
+2025-09-04,ORD-10223,South,Consumer,Monitor,Electronics,8,$249.39,10%,1795.61,1270.18
+2025-09-04,ORD-10911,East,Small Business,Monitor,Electronics,18,$238.78,15%,3653.33,2512.11
+2025-09-05,ORD-10097,North,Small Business,Notebook Pack,Office Supplies,12,$11.74,0%,140.88,95.32
+2025-09-05,ORD-10126,South,Consumer,Laptop,Electronics,8,$957.93,5%,7280.27,4397.49
+2025-09-05,ORD-10467,North,,Bookshelf,Furniture,12,$124.83,0%,1497.96,1149.63
+2025-09-05,ORD-10833,South,Enterprise,Monitor,Electronics,6,$238.57,0%,1431.42,812.74
+2025-09-06,ORD-10502,South,Small Business,Printer Paper,Office Supplies,4,$22.50,5%,85.5,62.54
+2025-09-06,ORD-10772,East,Consumer,Laptop,Electronics,5,$984.33,0%,4921.65,3323.63
+2025-09-06,ORD-11084,North,Small Business,Monitor,Electronics,3,$241.93,0%,725.79,488.55
+2025-09-07,ORD-10309,East,Small Business,Laptop,Electronics,6,$868.60,15%,4429.86,3363.02
+2025-09-07,ORD-10495,East,Consumer,Desk Chair,Furniture,16,$191.39,0%,3062.24,2130.93
+2025-09-07,ORD-10579,South,Enterprise,Laptop,Electronics,10,$869.01,5%,8255.59,6251.62
+2025-09-07,ORD-11066,East,Small Business,Printer Paper,Office Supplies,14,$23.91,5%,318.0,240.59
+2025-09-08,ORD-10346,North,Enterprise,Printer Paper,Office Supplies,10,$26.48,0%,264.8,204.95
+2025-09-08,ORD-10935,East,Small Business,Printer Paper,Office Supplies,11,$23.82,0%,262.02,206.49
+2025-09-08,ORD-11055,East,Consumer,Printer Paper,Office Supplies,12,$26.75,0%,321.0,242.42
+2025-09-10,ORD-10413,South,Enterprise,Monitor,Electronics,12,$218.61,15%,2229.82,1734.23
+2025-09-12,ORD-10271,North,Consumer,Laptop,Electronics,12,$968.00,0%,11616.0,7386.75
+2025-09-12,ORD-10874,South,Consumer,Notebook Pack,Office Supplies,10,$13.20,0%,132.0,89.62
+2025-09-13,ORD-10102,East,Enterprise,Pen Set,Office Supplies,12,$8.74,0%,104.88,62.4
+2025-09-13,ORD-10147,South,Consumer,Headphones,Electronics,10,$88.60,15%,753.1,561.64
+2025-09-13,ORD-10532,East,Small Business,Monitor,Electronics,8,$238.73,5%,1814.35,1109.82
+2025-09-13,ORD-10940,West,Small Business,Notebook Pack,Office Supplies,15,$10.98,10%,148.23,108.19
+2025-09-13,ORD-10980,East,Enterprise,Bookshelf,Furniture,4,$119.27,0%,477.08,381.13
+2025-09-13,ORD-11010,West,Consumer,Headphones,Electronics,13,$80.98,15%,894.83,607.09
+2025-09-13,ORD-11174,South,,Laptop,Electronics,19,"$1,004.92",10%,17184.13,13614.09
+2025-09-14,ORD-10394,West,Small Business,Notebook Pack,Office Supplies,8,$12.58,0%,100.64,77.5
+2025-09-14,ORD-10919,North,Small Business,Bookshelf,Furniture,9,$128.19,0%,1153.71,663.48
+2025-09-15,ORD-10338,West,Consumer,Monitor,Electronics,2,$230.03,10%,414.05,251.27
+2025-09-15,ORD-10954,East,Small Business,Pen Set,Office Supplies,3,$7.31,0%,21.93,12.53
+2025-09-16,ORD-10399,North,Enterprise,Headphones,Electronics,19,$87.52,10%,1496.59,1026.24
+2025-09-17,ORD-10116,East,Consumer,Laptop,Electronics,2,$885.30,5%,1682.07,1240.03
+2025-09-17,ORD-10321,East,Consumer,Laptop,Electronics,12,$937.47,0%,11249.64,7050.24
+2025-09-17,ORD-10693,North,Enterprise,Printer Paper,Office Supplies,4,$25.21,15%,85.71,54.07
+2025-09-17,ORD-11044,South,Enterprise,Notebook Pack,Office Supplies,17,$11.95,10%,182.83,121.69
+2025-09-18,ORD-10075,South,Small Business,Standing Desk,Furniture,13,$454.17,15%,5018.58,3455.82
+2025-09-18,ORD-10854,South,Consumer,Headphones,Electronics,5,$86.77,15%,368.77,229.44
+2025-09-18,ORD-11094,North,Small Business,Headphones,Electronics,11,$80.23,5%,838.4,466.89
+2025-09-18,ORD-11152,North,Enterprise,Desk Chair,Furniture,4,$177.77,0%,711.08,472.51
+2025-09-19,ORD-10131,South,Small Business,Standing Desk,Furniture,14,$453.69,5%,6034.08,4268.79
+2025-09-19,ORD-10474,East,Consumer,Bookshelf,Furniture,12,$131.37,0%,1576.44,1017.54
+2025-09-20,ORD-10549,South,Consumer,Notebook Pack,Office Supplies,12,$12.84,0%,154.08,92.59
+2025-09-20,ORD-10702,West,Enterprise,Monitor,Electronics,1,$243.55,0%,243.55,140.82
+2025-09-20,ORD-10818,East,Consumer,Bookshelf,Furniture,18,$134.83,0%,2426.94,1702.25
+2025-09-20,ORD-10863,North,Consumer,Notebook Pack,Office Supplies,9,$11.62,0%,104.58,60.92
+2025-09-20,ORD-10930,North,Consumer,Standing Desk,Furniture,16,$422.64,0%,6762.24,4185.0
+2025-09-21,ORD-10007,South,Enterprise,Notebook Pack,Office Supplies,17,$11.07,5%,178.78,124.91
+2025-09-21,ORD-10440,East,Consumer,Printer Paper,Office Supplies,7,$23.82,0%,166.74,97.49
+2025-09-22,ORD-10397,North,Consumer,Monitor,Electronics,18,$221.29,0%,3983.22,2533.83
+2025-09-22,ORD-10469,West,Enterprise,Printer Paper,Office Supplies,10,$27.33,5%,259.63,174.63
+2025-09-22,ORD-10866,East,Small Business,Pen Set,Office Supplies,4,$8.10,5%,30.78,18.91
+2025-09-23,ORD-10584,North,Consumer,Desk Chair,Furniture,2,$194.94,0%,389.88,237.63
+2025-09-23,ORD-10678,East,Consumer,Standing Desk,Furniture,2,$401.37,0%,802.74,556.52
+2025-09-23,ORD-10817,North,Consumer,Laptop,Electronics,4,$908.17,0%,3632.68,2756.87
+2025-09-23,ORD-11067,East,Enterprise,Bookshelf,Furniture,17,$135.08,0%,2296.36,1673.78
+2025-09-24,ORD-10523,East,Consumer,Pen Set,Office Supplies,8,$7.81,0%,62.48,35.01
+2025-09-25,ORD-10017,East,Enterprise,Monitor,Electronics,7,$220.39,0%,1542.73,1041.58
+2025-09-25,ORD-10031,East,Consumer,Headphones,Electronics,3,$77.60,0%,232.8,145.46
+2025-09-25,ORD-10372,East,Enterprise,Desk Chair,Furniture,17,$192.79,5%,3113.56,2364.13
+2025-09-25,ORD-10513,West,Small Business,Pen Set,Office Supplies,8,$8.75,0%,70.0,49.67
+2025-09-25,ORD-10886,South,Consumer,Laptop,Electronics,15,"$1,042.51",0%,15637.65,8873.74
+2025-09-26,ORD-10148,South,Enterprise,Pen Set,Office Supplies,6,$8.57,0%,51.42,36.71
+2025-09-26,ORD-10390,North,Consumer,Notebook Pack,Office Supplies,14,$11.13,5%,148.03,103.93
+2025-09-26,ORD-10659,North,Consumer,Headphones,Electronics,17,$77.47,5%,1251.14,708.0
+2025-09-26,ORD-10856,West,Consumer,Headphones,Electronics,16,$90.17,0%,1442.72,1122.39
+2025-09-26,ORD-11199,East,Small Business,Bookshelf,Furniture,2,$119.66,10%,215.39,162.56
+2025-09-27,ORD-10081,South,Consumer,Desk Chair,Furniture,19,$166.10,10%,2840.31,1985.97
+2025-09-27,ORD-10248,East,Small Business,Pen Set,Office Supplies,6,$8.61,10%,46.49,27.42
+2025-09-27,ORD-10401,North,Consumer,Notebook Pack,Office Supplies,8,$12.80,10%,92.16,54.65
+2025-09-27,ORD-10857,South,Consumer,Laptop,Electronics,16,$938.13,0%,15010.08,11255.56
+2025-09-27,ORD-11143,North,Consumer,Pen Set,Office Supplies,13,$7.81,0%,101.53,76.56
+2025-09-28,ORD-10080,South,Consumer,Printer Paper,Office Supplies,8,$23.61,5%,179.44,105.41
+2025-09-28,ORD-10193,North,Consumer,Desk Chair,Furniture,11,$187.20,0%,2059.2,1315.5
+2025-09-28,ORD-10521,North,Consumer,Monitor,Electronics,16,$257.68,0%,4122.88,2921.25
+2025-09-28,ORD-10660,East,Consumer,Monitor,Electronics,18,$226.21,10%,3664.6,2643.38
+2025-09-28,ORD-10765,North,Small Business,Pen Set,Office Supplies,13,$8.46,15%,93.48,57.19
+2025-09-28,ORD-10914,North,Small Business,Bookshelf,Furniture,19,$127.29,0%,2418.51,1393.15
+2025-09-29,ORD-10312,East,Enterprise,Monitor,Electronics,19,$242.21,15%,3911.69,2888.17
+2025-09-29,ORD-10541,North,Consumer,Laptop,Electronics,12,$958.38,15%,9775.48,5479.99
+2025-09-29,ORD-10644,North,Small Business,Notebook Pack,Office Supplies,5,$10.92,15%,46.41,36.67
+2025-09-29,ORD-10971,North,Consumer,Desk Chair,Furniture,5,$167.22,0%,836.1,642.93
+2025-09-30,ORD-10698,North,Small Business,Laptop,Electronics,19,$859.71,0%,16334.49,9080.05
+2025-09-30,ORD-10842,East,Small Business,Printer Paper,Office Supplies,13,$25.76,5%,318.14,237.33
+2025-09-30,ORD-10924,South,Consumer,Headphones,Electronics,5,$80.03,0%,400.15,300.16
+2025-09-30,ORD-11124,North,Consumer,Pen Set,Office Supplies,18,$8.79,0%,158.22,109.23
+2025-10-01,ORD-10033,East,Consumer,Standing Desk,Furniture,5,$397.33,10%,1787.98,1314.23
+2025-10-01,ORD-10843,West,Consumer,Laptop,Electronics,13,$970.54,15%,10724.47,6905.38
+2025-10-01,ORD-11093,South,Small Business,Desk Chair,Furniture,7,$168.71,0%,1180.97,899.71
+2025-10-01,ORD-11151,West,Small Business,Standing Desk,Furniture,16,$423.18,0%,6770.88,4495.43
+2025-10-02,ORD-10177,West,Consumer,Monitor,Electronics,3,$233.50,15%,595.42,358.48
+2025-10-02,ORD-10466,West,Consumer,Monitor,Electronics,11,$245.75,0%,2703.25,1708.37
+2025-10-02,ORD-10783,North,Consumer,Monitor,Electronics,2,$226.86,0%,453.72,330.87
+2025-10-02,ORD-10848,North,Consumer,Pen Set,Office Supplies,19,$7.58,5%,136.82,90.12
+2025-10-02,ORD-10898,North,Small Business,Laptop,Electronics,14,$880.36,15%,10476.28,7998.87
+2025-10-02,ORD-11147,West,Small Business,Notebook Pack,Office Supplies,18,$12.46,0%,224.28,160.78
+2025-10-02,ORD-11161,North,Consumer,Standing Desk,Furniture,12,$401.54,0%,4818.48,2837.6
+2025-10-03,ORD-10589,North,Small Business,Pen Set,Office Supplies,17,$7.67,0%,130.39,102.04
+2025-10-03,ORD-10794,South,Small Business,Desk Chair,Furniture,17,$182.24,0%,3098.08,
+2025-10-04,ORD-10473,North,Small Business,Standing Desk,Furniture,9,$412.40,10%,3340.44,2555.19
+2025-10-05,ORD-10003,East,Consumer,Desk Chair,Furniture,16,$188.84,10%,2719.3,1810.12
+2025-10-05,ORD-10100,North,Small Business,Pen Set,Office Supplies,7,$8.73,0%,61.11,41.23
+2025-10-05,ORD-10667,North,Consumer,Pen Set,Office Supplies,7,$7.41,0%,51.87,30.36
+2025-10-05,ORD-11164,East,Enterprise,Standing Desk,Furniture,15,$431.66,15%,5503.66,3982.43
+2025-10-06,ORD-10074,North,Enterprise,Notebook Pack,Office Supplies,4,$12.89,10%,46.4,31.54
+2025-10-06,ORD-10470,South,Consumer,Notebook Pack,Office Supplies,4,$11.85,0%,47.4,37.4
+2025-10-06,ORD-10975,East,Consumer,Headphones,Electronics,18,$79.94,0%,1438.92,804.92
+2025-10-06,ORD-11080,South,Enterprise,Printer Paper,Office Supplies,3,$24.35,5%,69.4,43.58
+2025-10-07,ORD-10621,South,Consumer,Standing Desk,Furniture,19,$401.31,5%,7243.65,4870.32
+2025-10-07,ORD-10906,East,Small Business,Desk Chair,Furniture,8,$191.26,10%,1377.07,1068.56
+2025-10-07,ORD-10973,North,Enterprise,Standing Desk,Furniture,1,$394.55,0%,394.55,268.99
+2025-10-08,ORD-10574,East,Consumer,Laptop,Electronics,15,$916.24,0%,13743.6,9793.04
+2025-10-08,ORD-10920,North,Small Business,Pen Set,Office Supplies,19,$7.55,0%,143.45,106.27
+2025-10-09,ORD-10490,East,Consumer,Printer Paper,Office Supplies,16,$25.44,15%,345.98,219.01
+2025-10-09,ORD-10669,West,Enterprise,Monitor,Electronics,6,$243.64,5%,1388.75,797.36
+2025-10-10,ORD-10077,North,Consumer,Headphones,Electronics,9,$86.89,5%,742.91,534.98
+2025-10-10,ORD-10138,West,Consumer,Desk Chair,Furniture,6,$189.97,0%,1139.82,806.9
+2025-10-10,ORD-10357,South,Enterprise,Printer Paper,Office Supplies,3,$24.90,15%,63.49,44.28
+2025-10-10,ORD-10624,East,Consumer,Bookshelf,Furniture,6,$134.38,15%,685.34,536.7
+2025-10-10,ORD-11011,South,Enterprise,Pen Set,Office Supplies,13,$7.48,0%,97.24,55.3
+2025-10-10,ORD-11119,West,Small Business,Standing Desk,Furniture,18,$418.62,15%,6404.89,3991.69
+2025-10-11,ORD-10041,South,Consumer,Notebook Pack,Office Supplies,3,$13.02,0%,39.06,25.63
+2025-10-11,ORD-10268,East,Consumer,Bookshelf,Furniture,1,$141.74,0%,141.74,87.75
+2025-10-11,ORD-10410,North,Consumer,Monitor,Electronics,2,$247.62,15%,420.95,279.0
+2025-10-11,ORD-10713,East,Small Business,Notebook Pack,Office Supplies,17,$12.61,10%,192.93,121.89
+2025-10-12,ORD-10112,East,Consumer,Bookshelf,Furniture,1,$135.49,15%,115.17,74.5
+2025-10-12,ORD-10240,North,Small Business,Monitor,Electronics,7,$259.12,5%,1723.15,1051.44
+2025-10-12,ORD-10297,East,Small Business,Desk Chair,Furniture,7,$179.89,5%,1196.27,850.39
+2025-10-12,ORD-10530,West,Consumer,Bookshelf,Furniture,11,$118.27,15%,1105.82,819.92
+2025-10-12,ORD-10895,South,Consumer,Bookshelf,Furniture,2,$133.12,0%,266.24,165.81
+2025-10-13,ORD-10011,West,Small Business,Printer Paper,Office Supplies,5,$26.95,10%,121.28,87.35
+2025-10-13,ORD-10525,North,Enterprise,Headphones,Electronics,8,$83.85,0%,670.8,393.49
+2025-10-14,ORD-10215,East,Consumer,Headphones,Electronics,18,$89.21,0%,1605.78,1000.11
+2025-10-15,ORD-10229,South,Consumer,Monitor,Electronics,5,$239.21,0%,1196.05,665.46
+2025-10-15,ORD-10808,North,Consumer,Desk Chair,Furniture,12,$195.68,0%,2348.16,1543.42
+2025-10-15,ORD-11083,East,Consumer,Bookshelf,Furniture,5,$125.05,0%,625.25,493.92
+2025-10-16,ORD-10260,East,Enterprise,Pen Set,Office Supplies,11,$7.33,15%,68.54,40.59
+2025-10-16,ORD-11035,West,Small Business,Notebook Pack,Office Supplies,17,$11.74,5%,189.6,108.85
+2025-10-17,ORD-10053,East,Consumer,Standing Desk,Furniture,2,$443.76,5%,843.14,490.14
+2025-10-17,ORD-10213,West,Small Business,Standing Desk,Furniture,18,$427.58,5%,7311.62,5348.87
+2025-10-17,ORD-10416,North,Consumer,Printer Paper,Office Supplies,15,$25.60,0%,384.0,247.21
+2025-10-17,ORD-10779,North,Small Business,Pen Set,Office Supplies,8,$8.74,15%,59.43,43.86
+2025-10-17,ORD-10785,West,Small Business,Bookshelf,Furniture,15,$141.12,10%,1905.12,1500.56
+2025-10-18,ORD-10483,North,Small Business,Pen Set,Office Supplies,15,$8.10,0%,121.5,78.32
+2025-10-18,ORD-11056,West,Enterprise,Standing Desk,Furniture,10,$402.62,0%,4026.2,2799.63
+2025-10-19,ORD-10377,West,Enterprise,Notebook Pack,Office Supplies,9,$13.00,10%,105.3,58.03
+2025-10-19,ORD-10535,East,Consumer,Monitor,Electronics,2,$254.18,5%,482.94,359.26
+2025-10-19,ORD-10804,North,Enterprise,Notebook Pack,Office Supplies,12,$10.85,5%,123.69,84.98
+2025-10-19,ORD-11005,East,Consumer,Printer Paper,Office Supplies,3,$23.42,0%,70.26,51.41
+2025-10-20,ORD-10059,West,Enterprise,Notebook Pack,Office Supplies,15,$11.45,0%,171.75,106.43
+2025-10-20,ORD-10083,East,Consumer,Pen Set,Office Supplies,4,$8.45,10%,30.42,19.32
+2025-10-20,ORD-11095,North,Consumer,Laptop,Electronics,16,$916.41,5%,13929.43,10367.51
+2025-10-21,ORD-10548,South,Small Business,Standing Desk,Furniture,6,$387.61,15%,1976.81,1416.47
+2025-10-21,ORD-10892,East,Consumer,Standing Desk,Furniture,17,$421.33,10%,6446.35,4406.76
+2025-10-22,ORD-10133,West,Consumer,Bookshelf,Furniture,16,$118.12,0%,1889.92,1158.01
+2025-10-23,ORD-10018,East,Small Business,Pen Set,Office Supplies,11,$7.72,10%,76.43,52.37
+2025-10-23,ORD-10960,South,Consumer,Monitor,Electronics,3,$231.15,10%,624.1,355.74
+2025-10-24,ORD-10373,West,Small Business,Desk Chair,Furniture,7,$167.87,0%,1175.09,660.06
+2025-10-24,ORD-10958,South,Consumer,Printer Paper,Office Supplies,11,$23.03,10%,228.0,139.06
+2025-10-25,ORD-10225,South,Consumer,Headphones,Electronics,3,$90.23,0%,270.69,190.11
+2025-10-25,ORD-10995,West,Enterprise,Bookshelf,Furniture,4,$117.37,0%,469.48,331.62
+2025-10-26,ORD-10334,North,Small Business,Standing Desk,Furniture,14,$408.80,10%,5150.88,3959.1
+2025-10-26,ORD-10642,North,Consumer,Pen Set,Office Supplies,18,$8.51,5%,145.52,109.82
+2025-10-26,ORD-10763,North,Small Business,Printer Paper,Office Supplies,2,$23.74,10%,42.73,25.37
+2025-10-26,ORD-10764,East,Consumer,Desk Chair,Furniture,2,$164.10,15%,278.97,218.49
+2025-10-27,ORD-10030,North,Consumer,Standing Desk,Furniture,7,$444.35,0%,3110.45,2172.35
+2025-10-27,ORD-11087,East,Consumer,Printer Paper,Office Supplies,4,$25.59,0%,102.36,60.34
+2025-10-27,ORD-11137,South,Consumer,Desk Chair,Furniture,11,$192.81,0%,2120.91,1375.29
+2025-10-28,ORD-10063,West,Consumer,Printer Paper,Office Supplies,14,$26.91,0%,376.74,280.22
+2025-10-28,ORD-10386,South,Consumer,Laptop,Electronics,17,$959.31,0%,16308.27,9061.91
+2025-10-28,ORD-11125,West,Enterprise,Pen Set,Office Supplies,2,$7.44,15%,12.65,7.49
+2025-10-28,ORD-11133,North,Consumer,Notebook Pack,Office Supplies,7,$12.02,5%,79.93,48.94
+2025-10-28,ORD-11171,South,Small Business,Bookshelf,Furniture,5,$135.38,15%,575.36,323.18
+2025-10-29,ORD-10402,East,Consumer,Headphones,Electronics,16,$85.40,10%,1229.76,728.7
+2025-10-29,ORD-10722,South,Consumer,Pen Set,Office Supplies,15,$8.56,15%,109.14,71.74
+2025-10-29,ORD-10786,North,Consumer,Laptop,Electronics,5,"$1,037.44",0%,5187.2,3590.4
+2025-10-29,ORD-10880,South,Consumer,Laptop,Electronics,4,$991.32,5%,3767.02,2888.91
+2025-10-30,ORD-10770,South,Consumer,Bookshelf,Furniture,15,$141.44,5%,2015.52,1183.13
+2025-10-31,ORD-11045,North,Enterprise,Monitor,Electronics,4,$228.47,0%,913.88,705.79
+2025-10-31,ORD-11085,North,Small Business,Pen Set,Office Supplies,16,$8.68,10%,124.99,70.06
+2025-11-01,ORD-10664,East,Consumer,Bookshelf,Furniture,4,$123.25,5%,468.35,264.06
+2025-11-01,ORD-10732,East,Enterprise,Printer Paper,Office Supplies,10,$25.37,15%,215.64,146.57
+2025-11-02,ORD-10449,West,Small Business,Headphones,Electronics,11,$90.47,5%,945.41,714.23
+2025-11-03,ORD-10458,South,Small Business,Pen Set,Office Supplies,13,$7.23,0%,93.99,61.72
+2025-11-03,ORD-10760,East,Consumer,Monitor,Electronics,10,$263.43,10%,2370.87,1854.87
+2025-11-03,ORD-10768,South,Enterprise,Monitor,Electronics,6,$247.78,10%,1338.01,800.83
+2025-11-03,ORD-11007,South,Consumer,Standing Desk,Furniture,19,$390.81,0%,7425.39,5625.38
+2025-11-04,ORD-10299,East,Enterprise,Laptop,Electronics,6,$860.03,10%,4644.16,3554.9
+2025-11-04,ORD-10967,South,Consumer,Headphones,Electronics,7,$79.19,10%,498.9,351.26
+2025-11-05,ORD-10398,West,Small Business,Headphones,Electronics,11,$88.26,15%,825.23,609.29
+2025-11-05,ORD-10643,West,Consumer,Standing Desk,Furniture,16,$392.82,0%,6285.12,4617.61
+2025-11-05,ORD-10683,East,Enterprise,Printer Paper,Office Supplies,17,$24.94,0%,423.98,272.0
+2025-11-05,ORD-10835,East,Consumer,Notebook Pack,Office Supplies,12,$11.86,5%,135.2,96.96
+2025-11-06,ORD-10456,North,Consumer,Monitor,Electronics,2,$261.00,0%,522.0,365.67
+2025-11-06,ORD-10662,West,Consumer,Laptop,Electronics,14,"$1,024.10",5%,13620.53,7852.98
+2025-11-06,ORD-10948,East,Small Business,Printer Paper,Office Supplies,18,$26.88,0%,483.84,383.28
+2025-11-07,ORD-10264,East,Consumer,Printer Paper,Office Supplies,10,$24.19,0%,241.9,188.8
+2025-11-07,ORD-10347,East,Small Business,Printer Paper,Office Supplies,16,$25.45,0%,407.2,273.16
+2025-11-07,ORD-10655,West,Consumer,Standing Desk,Furniture,3,$384.97,10%,1039.42,709.51
+2025-11-07,ORD-10695,North,Consumer,Headphones,Electronics,4,$83.70,0%,334.8,205.11
+2025-11-07,ORD-11118,South,Consumer,Notebook Pack,Office Supplies,13,$11.56,15%,127.74,98.0
+2025-11-08,ORD-10109,West,Small Business,Notebook Pack,Office Supplies,12,$13.05,15%,133.11,80.42
+2025-11-08,ORD-10113,North,Enterprise,Standing Desk,Furniture,12,$433.14,0%,5197.68,4081.7
+2025-11-08,ORD-10200,South,Small Business,Desk Chair,Furniture,4,$189.41,10%,681.88,412.22
+2025-11-08,ORD-10351,South,Enterprise,Laptop,Electronics,12,$877.06,0%,10524.72,6020.04
+2025-11-08,ORD-10949,North,Enterprise,Headphones,Electronics,3,$81.52,5%,232.33,183.97
+2025-11-08,ORD-11176,West,Consumer,Headphones,Electronics,18,$86.90,0%,1564.2,1155.83
+2025-11-09,ORD-10146,South,Small Business,Laptop,Electronics,8,$994.67,10%,7161.62,5004.51
+2025-11-09,ORD-10359,West,Consumer,Notebook Pack,Office Supplies,18,$12.40,0%,223.2,139.6
+2025-11-09,ORD-10952,East,Consumer,Bookshelf,Furniture,3,$141.55,0%,424.65,314.21
+2025-11-10,ORD-10046,East,Consumer,Standing Desk,Furniture,16,$416.72,0%,6667.52,3897.0
+2025-11-10,ORD-10091,East,Consumer,Pen Set,Office Supplies,11,$8.67,0%,95.37,59.14
+2025-11-10,ORD-10505,West,Consumer,Standing Desk,Furniture,16,$425.64,5%,6469.73,4580.94
+2025-11-11,ORD-10218,West,Consumer,Standing Desk,Furniture,15,$401.57,0%,6023.55,4217.76
+2025-11-11,ORD-10285,North,Small Business,Printer Paper,Office Supplies,7,$25.69,5%,170.84,
+2025-11-11,ORD-10388,North,Enterprise,Printer Paper,Office Supplies,16,$24.70,0%,395.2,305.78
+2025-11-11,ORD-10534,West,Consumer,Bookshelf,Furniture,12,$135.33,0%,1623.96,1038.45
+2025-11-11,ORD-10897,South,Consumer,Laptop,Electronics,15,$931.01,0%,13965.15,10825.37
+2025-11-11,ORD-10997,East,Consumer,Desk Chair,Furniture,12,$178.31,5%,2032.73,1579.06
+2025-11-11,ORD-11131,South,Small Business,Notebook Pack,Office Supplies,11,$12.30,0%,135.3,82.8
+2025-11-12,ORD-10079,East,Enterprise,Notebook Pack,Office Supplies,15,$11.44,5%,163.02,104.47
+2025-11-12,ORD-10308,North,,Headphones,Electronics,7,$86.69,0%,606.83,411.13
+2025-11-12,ORD-10320,North,Consumer,Headphones,Electronics,16,$76.71,10%,1104.62,779.48
+2025-11-12,ORD-10533,North,Consumer,Headphones,Electronics,18,$79.29,0%,1427.22,842.35
+2025-11-13,ORD-10013,South,Small Business,Notebook Pack,Office Supplies,11,$12.48,0%,137.28,107.79
+2025-11-13,ORD-10124,South,Consumer,Pen Set,Office Supplies,7,$7.50,0%,52.5,35.1
+2025-11-14,ORD-10904,East,Consumer,Standing Desk,Furniture,6,$409.45,0%,2456.7,1680.57
+2025-11-15,ORD-10457,West,Small Business,Bookshelf,Furniture,6,$140.46,0%,842.76,552.62
+2025-11-15,ORD-11189,North,Small Business,Laptop,Electronics,11,$948.72,0%,10435.92,7000.58
+2025-11-16,ORD-10044,South,Small Business,Laptop,Electronics,15,$997.41,10%,13465.04,8734.91
+2025-11-16,ORD-10207,North,Consumer,Printer Paper,Office Supplies,16,$22.81,0%,364.96,260.11
+2025-11-16,ORD-10623,East,Consumer,Desk Chair,Furniture,5,$192.08,5%,912.38,503.2
+2025-11-16,ORD-10697,North,Consumer,Bookshelf,Furniture,10,$118.23,10%,1064.07,666.71
+2025-11-16,ORD-10742,South,Consumer,Bookshelf,Furniture,6,$139.27,0%,835.62,584.61
+2025-11-16,ORD-10941,South,Consumer,Desk Chair,Furniture,12,$168.68,0%,2024.16,1437.33
+2025-11-16,ORD-11185,East,Consumer,Headphones,Electronics,6,$90.22,0%,541.32,347.28
+2025-11-17,ORD-10000,East,Consumer,Laptop,Electronics,12,"$1,012.55",10%,10935.54,7208.85
+2025-11-17,ORD-10515,East,Consumer,Laptop,Electronics,11,$998.52,5%,10434.53,
+2025-11-17,ORD-10692,East,Enterprise,Printer Paper,Office Supplies,4,$22.96,10%,82.66,50.36
+2025-11-17,ORD-10800,West,Consumer,Laptop,Electronics,7,$857.96,0%,6005.72,4101.39
+2025-11-17,ORD-11026,East,Small Business,Laptop,Electronics,3,$978.87,0%,2936.61,2119.3
+2025-11-17,ORD-11103,South,Consumer,Monitor,Electronics,15,$230.68,5%,3287.19,2463.6
+2025-11-18,ORD-10170,North,Enterprise,Laptop,Electronics,17,"$1,042.45",15%,15063.4,10644.76
+2025-11-18,ORD-10433,East,Enterprise,Monitor,Electronics,4,$227.90,5%,866.02,564.0
+2025-11-18,ORD-10512,West,Consumer,Pen Set,Office Supplies,4,$8.78,10%,31.61,20.13
+2025-11-18,ORD-10591,South,Small Business,Printer Paper,Office Supplies,4,$24.14,0%,96.56,62.47
+2025-11-19,ORD-10614,West,Enterprise,Notebook Pack,Office Supplies,6,$12.25,15%,62.48,45.72
+2025-11-19,ORD-11039,East,Enterprise,Pen Set,Office Supplies,14,$8.51,0%,119.14,71.44
+2025-11-20,ORD-10123,East,Consumer,Standing Desk,Furniture,13,$416.15,15%,4598.46,3540.56
+2025-11-20,ORD-10174,West,Consumer,Notebook Pack,Office Supplies,16,$12.43,15%,169.05,117.58
+2025-11-20,ORD-10551,North,Consumer,Desk Chair,Furniture,10,$181.92,5%,1728.24,1275.94
+2025-11-20,ORD-10890,South,Small Business,Laptop,Electronics,8,$882.07,5%,6703.73,4601.51
+2025-11-21,ORD-10405,North,Small Business,Standing Desk,Furniture,9,$446.25,0%,4016.25,2228.74
+2025-11-21,ORD-10491,West,Small Business,Pen Set,Office Supplies,17,$7.20,0%,122.4,81.04
+2025-11-21,ORD-10711,North,Enterprise,Standing Desk,Furniture,16,$441.70,10%,6360.48,4352.46
+2025-11-22,ORD-10188,West,Small Business,Headphones,Electronics,18,$78.94,5%,1349.87,1052.7
+2025-11-22,ORD-10841,East,Enterprise,Bookshelf,Furniture,6,$133.71,0%,802.26,601.09
+2025-11-22,ORD-11099,East,Consumer,Desk Chair,Furniture,17,$194.59,0%,3308.03,1869.97
+2025-11-23,ORD-10103,North,Enterprise,Laptop,Electronics,14,$999.56,0%,13993.84,10769.6
+2025-11-23,ORD-10860,West,Consumer,Printer Paper,Office Supplies,3,$24.85,0%,74.55,48.8
+2025-11-24,ORD-10183,West,Small Business,Notebook Pack,Office Supplies,8,$11.22,0%,89.76,52.97
+2025-11-24,ORD-10270,West,Consumer,Headphones,Electronics,18,$92.81,10%,1503.52,937.57
+2025-11-24,ORD-10356,West,Consumer,Monitor,Electronics,18,$242.91,10%,3935.14,2483.81
+2025-11-24,ORD-10431,West,Consumer,Notebook Pack,Office Supplies,10,$12.14,10%,109.26,85.1
+2025-11-24,ORD-10677,South,Enterprise,Laptop,Electronics,14,$963.59,0%,13490.26,8940.5
+2025-11-26,ORD-10005,North,Consumer,Pen Set,Office Supplies,15,$8.44,0%,126.6,92.72
+2025-11-26,ORD-10114,North,Consumer,Standing Desk,Furniture,15,$415.91,5%,5926.72,3739.73
+2025-11-26,ORD-10227,North,Consumer,Bookshelf,Furniture,2,$122.07,10%,219.73,138.55
+2025-11-26,ORD-10531,North,Enterprise,Monitor,Electronics,16,$216.79,0%,3468.64,2551.68
+2025-11-26,ORD-10625,North,Enterprise,Headphones,Electronics,5,$86.03,15%,365.63,260.14
+2025-11-27,ORD-11086,West,Small Business,Pen Set,Office Supplies,19,$8.06,0%,153.14,94.2
+2025-11-28,ORD-10086,South,,Laptop,Electronics,14,$894.00,0%,12516.0,7225.03
+2025-11-28,ORD-10189,North,Small Business,Headphones,Electronics,17,$81.40,10%,1245.42,717.08
+2025-11-28,ORD-10368,South,Small Business,Laptop,Electronics,7,$880.66,0%,6164.62,3581.88
+2025-11-28,ORD-10867,West,Consumer,Pen Set,Office Supplies,16,$7.61,0%,121.76,94.12
+2025-11-29,ORD-10913,East,Small Business,Printer Paper,Office Supplies,13,$24.43,15%,269.95,194.77
+2025-11-30,ORD-10306,East,Small Business,Headphones,Electronics,15,$77.55,5%,1105.09,653.3
+2025-11-30,ORD-10507,South,Consumer,Headphones,Electronics,15,$90.27,5%,1286.35,802.22
+2025-11-30,ORD-10900,East,Consumer,Laptop,Electronics,12,$882.24,0%,10586.88,8002.82
+2025-11-30,ORD-10912,North,Small Business,Desk Chair,Furniture,9,$193.16,0%,1738.44,1383.37
+2025-11-30,ORD-10963,South,Consumer,Monitor,Electronics,2,$229.14,0%,458.28,358.81
+2025-12-01,ORD-10153,South,Consumer,Headphones,Electronics,3,$78.60,0%,235.8,187.5
+2025-12-01,ORD-10747,West,Small Business,Headphones,Electronics,1,$91.40,0%,91.4,64.48
+2025-12-01,ORD-10750,West,Consumer,Printer Paper,Office Supplies,12,$22.92,15%,233.78,145.4
+2025-12-01,ORD-11104,South,Consumer,Headphones,Electronics,4,$91.93,0%,367.72,244.98
+2025-12-02,ORD-10329,North,Consumer,Standing Desk,Furniture,12,$396.74,10%,4284.79,3402.74
+2025-12-02,ORD-10363,West,Consumer,Printer Paper,Office Supplies,16,$25.48,0%,407.68,266.53
+2025-12-02,ORD-10504,South,Small Business,Headphones,Electronics,5,$88.71,5%,421.37,233.04
+2025-12-02,ORD-11182,North,Small Business,Notebook Pack,Office Supplies,18,$12.48,10%,202.18,153.02
+2025-12-03,ORD-10771,West,Small Business,Printer Paper,Office Supplies,14,$27.31,10%,344.11,190.87
+2025-12-03,ORD-10813,South,Consumer,Headphones,Electronics,7,$77.55,15%,461.42,328.96
+2025-12-04,ORD-10061,South,Consumer,Notebook Pack,Office Supplies,16,$11.86,15%,161.3,124.45
+2025-12-04,ORD-10422,West,Small Business,Notebook Pack,Office Supplies,18,$12.38,5%,211.7,121.66
+2025-12-04,ORD-10478,West,Consumer,Bookshelf,Furniture,8,$141.23,0%,1129.84,671.63
+2025-12-04,ORD-10789,North,Enterprise,Laptop,Electronics,17,$987.65,0%,16790.05,11810.6
+2025-12-04,ORD-10965,North,Small Business,Bookshelf,Furniture,11,$119.35,10%,1181.56,771.94
+2025-12-06,ORD-10315,North,Small Business,Bookshelf,Furniture,5,$118.66,0%,593.3,463.72
+2025-12-06,ORD-10550,East,Enterprise,Pen Set,Office Supplies,5,$8.58,0%,42.9,33.39
+2025-12-07,ORD-10072,South,Consumer,Standing Desk,Furniture,2,$446.52,0%,893.04,646.53
+2025-12-07,ORD-10332,East,Small Business,Headphones,Electronics,10,$76.95,0%,769.5,465.45
+2025-12-07,ORD-10776,South,Consumer,Desk Chair,Furniture,11,$187.36,0%,2060.96,1639.61
+2025-12-07,ORD-11027,North,Consumer,Headphones,Electronics,13,$87.77,15%,969.86,593.6
+2025-12-08,ORD-10242,North,Consumer,Laptop,Electronics,8,"$1,029.64",15%,7001.55,4404.38
+2025-12-08,ORD-10565,North,Small Business,Headphones,Electronics,3,$90.31,10%,243.84,192.14
+2025-12-08,ORD-10947,West,Small Business,Monitor,Electronics,5,$220.37,0%,1101.85,868.8
+2025-12-08,ORD-10968,South,Small Business,Printer Paper,Office Supplies,9,$24.66,10%,199.75,127.42
+2025-12-08,ORD-11088,North,Consumer,Bookshelf,Furniture,13,$118.90,5%,1468.42,1117.01
+2025-12-09,ORD-10246,West,Enterprise,Notebook Pack,Office Supplies,15,$11.63,10%,157.01,95.37
+2025-12-09,ORD-10488,East,Consumer,Notebook Pack,Office Supplies,6,$11.30,5%,64.41,40.37
+2025-12-09,ORD-11032,North,Consumer,Notebook Pack,Office Supplies,16,$12.34,15%,167.82,106.27
+2025-12-10,ORD-10636,North,Consumer,Headphones,Electronics,8,$90.48,5%,687.65,520.89
+2025-12-10,ORD-10673,West,Consumer,Laptop,Electronics,4,$920.71,5%,3498.7,2105.98
+2025-12-10,ORD-10709,West,Consumer,Standing Desk,Furniture,17,$439.67,0%,7474.39,5216.17
+2025-12-10,ORD-10896,North,Enterprise,Standing Desk,Furniture,2,$404.13,10%,727.43,422.62
+2025-12-11,ORD-10480,East,Small Business,Headphones,Electronics,14,$84.02,0%,1176.28,928.55
+2025-12-12,ORD-10853,West,Consumer,Headphones,Electronics,9,$83.15,15%,636.1,407.16
+2025-12-12,ORD-11020,South,Enterprise,Laptop,Electronics,12,$897.12,0%,10765.44,7794.0
+2025-12-12,ORD-11196,North,Consumer,Notebook Pack,Office Supplies,17,$11.08,10%,169.52,117.85
+2025-12-13,ORD-10220,East,Consumer,Monitor,Electronics,17,$229.16,0%,3895.72,3038.15
+2025-12-13,ORD-10526,South,Consumer,Printer Paper,Office Supplies,11,$23.04,0%,253.44,177.55
+2025-12-13,ORD-10827,South,Enterprise,Printer Paper,Office Supplies,1,$24.14,0%,24.14,17.92
+2025-12-14,ORD-10068,South,Consumer,Laptop,Electronics,18,$994.01,10%,16102.96,10638.13
+2025-12-14,ORD-10094,South,Enterprise,Printer Paper,Office Supplies,10,$24.83,0%,248.3,179.52
+2025-12-14,ORD-10631,West,Consumer,Headphones,Electronics,5,$92.91,0%,464.55,306.94
+2025-12-14,ORD-10729,South,Small Business,Bookshelf,Furniture,2,$136.68,0%,273.36,205.74
+2025-12-14,ORD-10733,West,Small Business,Notebook Pack,Office Supplies,9,$12.19,10%,98.74,62.87
+2025-12-14,ORD-10921,North,Small Business,Bookshelf,Furniture,8,$139.54,10%,1004.69,568.74
+2025-12-14,ORD-11186,West,Consumer,Monitor,Electronics,18,$221.00,15%,3381.3,1895.83
+2025-12-15,ORD-10239,West,Small Business,Bookshelf,Furniture,5,$125.37,0%,626.85,464.34
+2025-12-15,ORD-10583,North,Consumer,Laptop,Electronics,8,$992.27,15%,6747.44,4029.82
+2025-12-15,ORD-10964,West,Consumer,Printer Paper,Office Supplies,6,$24.22,0%,145.32,97.0
+2025-12-15,ORD-11188,East,Consumer,Bookshelf,Furniture,17,$118.81,5%,1918.78,1511.06
+2025-12-17,ORD-10022,West,Consumer,Monitor,Electronics,18,$238.76,0%,4297.68,3078.11
+2025-12-17,ORD-10175,North,Enterprise,Standing Desk,Furniture,16,$381.38,0%,6102.08,3984.62
+2025-12-17,ORD-10247,East,Enterprise,Desk Chair,Furniture,12,$190.87,0%,2290.44,1735.37
+2025-12-17,ORD-10499,East,Small Business,Desk Chair,Furniture,17,$192.75,0%,3276.75,1878.04
+2025-12-17,ORD-10609,North,Consumer,Pen Set,Office Supplies,14,$7.56,0%,105.84,79.86
+2025-12-17,ORD-10738,North,Small Business,Notebook Pack,Office Supplies,16,$12.71,15%,172.86,111.04
+2025-12-17,ORD-10916,North,Consumer,Standing Desk,Furniture,4,$421.57,15%,1433.34,1084.41
+2025-12-18,ORD-10009,South,Enterprise,Laptop,Electronics,16,$997.66,10%,14366.3,9981.04
+2025-12-18,ORD-10042,South,Small Business,Notebook Pack,Office Supplies,2,$12.64,0%,25.28,15.64
+2025-12-18,ORD-10168,North,Consumer,Desk Chair,Furniture,1,$164.76,0%,164.76,91.9
+2025-12-18,ORD-10176,East,Small Business,Notebook Pack,Office Supplies,11,$12.88,5%,134.6,89.68
+2025-12-18,ORD-10942,East,Small Business,Printer Paper,Office Supplies,17,$23.45,0%,398.65,297.77
+2025-12-18,ORD-11162,South,Small Business,Pen Set,Office Supplies,16,$8.58,5%,130.42,87.95
+2025-12-20,ORD-10025,West,Enterprise,Bookshelf,Furniture,8,$120.67,0%,965.36,628.01
+2025-12-20,ORD-10366,North,Consumer,Standing Desk,Furniture,14,$436.30,0%,6108.2,3918.98
+2025-12-21,ORD-10032,North,Consumer,Laptop,Electronics,8,$903.24,0%,7225.92,5206.8
+2025-12-21,ORD-10754,West,Consumer,Standing Desk,Furniture,11,$417.03,15%,3899.23,2789.99
+2025-12-23,ORD-10049,West,Small Business,Pen Set,Office Supplies,18,$7.60,0%,136.8,101.76
+2025-12-23,ORD-10274,East,Consumer,Desk Chair,Furniture,3,$187.35,15%,477.74,380.32
+2025-12-23,ORD-10448,West,Small Business,Standing Desk,Furniture,18,$405.56,0%,7300.08,4202.91
+2025-12-23,ORD-10596,East,Consumer,Bookshelf,Furniture,18,$139.61,0%,2512.98,1578.26
+2025-12-23,ORD-10931,East,Small Business,Notebook Pack,Office Supplies,3,$12.21,0%,36.63,28.26
+2025-12-23,ORD-11069,West,Small Business,Laptop,Electronics,13,$889.39,15%,9827.76,5884.73
+2025-12-23,ORD-11187,North,Consumer,Bookshelf,Furniture,11,$120.48,15%,1126.49,726.03
+2025-12-24,ORD-10180,South,Consumer,Printer Paper,Office Supplies,18,$27.19,0%,489.42,380.61
+2025-12-24,ORD-10545,East,Enterprise,Laptop,Electronics,8,$944.48,5%,7178.05,4072.5
+2025-12-24,ORD-10969,East,Small Business,Laptop,Electronics,11,$882.24,15%,8248.94,6075.91
+2025-12-24,ORD-11029,East,Enterprise,Desk Chair,Furniture,9,$194.59,5%,1663.74,1244.41
+2025-12-25,ORD-10475,West,Consumer,Pen Set,Office Supplies,4,$7.89,0%,31.56,23.33
+2025-12-25,ORD-10506,North,Enterprise,Standing Desk,Furniture,8,$419.71,15%,2854.03,2282.29
+2025-12-25,ORD-10629,South,Small Business,Desk Chair,Furniture,17,$168.83,0%,2870.11,2009.79
+2025-12-26,ORD-10002,West,Small Business,Bookshelf,Furniture,5,$123.37,0%,616.85,346.37
+2025-12-26,ORD-10027,South,Consumer,Pen Set,Office Supplies,11,$8.58,0%,94.38,61.68
+2025-12-26,ORD-10045,North,Consumer,Printer Paper,Office Supplies,15,$27.38,0%,410.7,256.84
+2025-12-26,ORD-10192,North,Consumer,Bookshelf,Furniture,19,$131.39,0%,2496.41,1812.25
+2025-12-26,ORD-10256,North,Small Business,Notebook Pack,Office Supplies,19,$11.04,0%,209.76,144.17
+2025-12-26,ORD-10369,South,Small Business,Notebook Pack,Office Supplies,1,$11.86,15%,10.08,6.38
+2025-12-26,ORD-10627,South,Small Business,Desk Chair,Furniture,3,$186.21,0%,558.63,421.4
+2025-12-26,ORD-10834,North,Consumer,Pen Set,Office Supplies,15,$7.66,0%,114.9,66.45
+2025-12-27,ORD-10546,East,Consumer,Desk Chair,Furniture,10,$179.28,0%,1792.8,1310.27
+2025-12-27,ORD-10761,South,Small Business,Standing Desk,Furniture,3,$405.46,10%,1094.74,701.69
+2025-12-27,ORD-10838,East,Enterprise,Laptop,Electronics,3,"$1,006.06",5%,2867.27,1611.48
+2025-12-27,ORD-11178,North,Enterprise,Headphones,Electronics,4,$87.62,0%,350.48,206.81
+2025-12-28,ORD-10419,North,Small Business,Standing Desk,Furniture,7,$449.42,0%,3145.94,1826.75
+2025-12-28,ORD-11175,North,Consumer,Desk Chair,Furniture,11,$182.00,10%,1801.8,1090.55
+2025-12-29,ORD-10425,East,Consumer,Monitor,Electronics,10,$241.38,10%,2172.42,1435.04
+2025-12-29,ORD-10797,South,Consumer,Standing Desk,Furniture,13,$443.38,0%,5763.94,3766.33
+2025-12-29,ORD-10845,North,Consumer,Laptop,Electronics,2,$951.59,5%,1808.02,1097.26
+2025-12-29,ORD-11059,South,Consumer,Headphones,Electronics,14,$90.10,0%,1261.4,773.38
+2025-12-30,ORD-10221,South,Consumer,Standing Desk,Furniture,9,$446.20,5%,3815.01,2899.34
+2025-12-30,ORD-10358,East,Small Business,Laptop,Electronics,3,$983.81,0%,2951.43,1959.18
+2025-12-30,ORD-10972,East,Consumer,Standing Desk,Furniture,8,$421.84,0%,3374.72,2060.94
+2025-12-31,ORD-10135,West,Consumer,Headphones,Electronics,12,$89.44,10%,965.95,568.4
+2025-12-31,ORD-10145,East,Small Business,Pen Set,Office Supplies,14,$8.22,10%,103.57,
+2025-12-31,ORD-11017,West,Consumer,Standing Desk,Furniture,18,$416.03,0%,7488.54,4496.69
+2025-12-31,ORD-11061,West,Consumer,Notebook Pack,Office Supplies,12,$12.49,0%,149.88,83.58

@@ -5,7 +5,7 @@ Colors: slate text, one blue accent, green/red only for up/down changes, amber o
 
 CSS = """
 <style>
-  .block-container {padding-top: 2.2rem; max-width: 1240px;}
+  .block-container {padding-top: 4.2rem; max-width: 1240px;}   /* clears the hosted toolbar (Share, GitHub) */
   h1, h2, h3 {letter-spacing: -0.01em;}
 
   /* Built-in metric widgets (Overview tab) */

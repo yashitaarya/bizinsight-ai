@@ -42,10 +42,8 @@ def sidebar() -> Source | None:
     """Draw the sidebar. Returns (file name, file bytes, sheet) or None."""
     with st.sidebar:
         st.markdown("### BizInsight AI")
-        st.caption("Turn business data into actionable insights. Upload a CSV or Excel file to automatically "
-                   "generate interactive dashboards, visualizations, and AI-powered analysis. Explore your data "
-                   "through conversational queries, uncover trends and patterns, and get data-backed "
-                   "recommendations with transparent calculations behind every result.")
+        st.caption("Your AI-powered business intelligence workspace. Transform data into actionable insights, "
+                   "interactive dashboards, and smarter business decisions.")
         uploaded = st.file_uploader(
             "Upload a CSV or Excel file", key="upload",
             type=[ext.lstrip(".") for ext in config.ALLOWED_EXTENSIONS],

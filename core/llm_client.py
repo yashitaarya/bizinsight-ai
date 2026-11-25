@@ -19,6 +19,8 @@ from typing import Any
 
 import openai
 
+from core import config
+
 DEFAULT_MODEL = "gpt-5-mini"
 
 
@@ -51,6 +53,12 @@ def get_settings(env: dict[str, str] | None = None) -> tuple[str | None, str]:
     return key, model
 
 
+def _supports_reasoning_effort(model: str) -> bool:
+    """Reasoning models (gpt-5 family, o-series) accept reasoning.effort; others would reject it."""
+    name = model.lower()
+    return name.startswith(("gpt-5", "o1", "o3", "o4")) and "chat" not in name
+
+
 def mask_key(key: str | None) -> str:
     """'sk-proj-abc…wxyz' — enough to recognize a key without revealing it."""
     if not key:
@@ -61,19 +69,20 @@ def mask_key(key: str | None) -> str:
 def _friendly_error(err: Exception, model: str) -> LLMError:
     """Translate OpenAI SDK exceptions into plain-English messages."""
     if isinstance(err, openai.AuthenticationError):
-        return LLMError("OpenAI rejected the API key. Check OPENAI_API_KEY in your .env file "
-                        "(it may be mistyped, revoked or expired).", "auth")
+        return LLMError("OpenAI rejected the API key. Check OPENAI_API_KEY in the app's .env file "
+                        "or Streamlit secrets (it may be mistyped, revoked or expired).", "auth")
     if isinstance(err, openai.PermissionDeniedError):
         return LLMError(f"Your OpenAI key isn't allowed to use the model '{model}'. "
                         "Check your project's model permissions on platform.openai.com.", "auth")
     if isinstance(err, openai.NotFoundError):
         return LLMError(f"The model '{model}' isn't available to your account. "
-                        "Set OPENAI_MODEL in .env to a model you can use.", "model")
+                        "Set OPENAI_MODEL (in .env or Streamlit secrets) to a model you can use.", "model")
     if isinstance(err, openai.RateLimitError):
         code = getattr(err, "code", None) or ""
-        if "quota" in code or "quota" in str(err).lower() or "billing" in str(err).lower():
-            return LLMError("Your OpenAI account has run out of credit or hit its spending limit. "
-                            "Add credit or raise the limit under Billing on platform.openai.com.", "quota")
+        text = f"{code} {err}".lower()
+        if any(w in text for w in ("quota", "billing", "spend_limit", "credit_balance")):
+            return LLMError("The OpenAI account behind this app has run out of credit or reached its spending "
+                            "limit, so AI features are paused. Everything else in the app still works.", "quota")
         return LLMError("OpenAI is receiving too many requests from this key right now. "
                         "Wait a minute and try again.", "rate_limit")
     if isinstance(err, openai.APITimeoutError):
@@ -91,16 +100,25 @@ class LLMClient:
     """Sends one request and returns validated JSON matching a schema."""
 
     def __init__(self, api_key: str | None, model: str = DEFAULT_MODEL, *,
-                 timeout: float = 90, max_retries: int = 2, http_client=None, base_url: str | None = None):
+                 timeout: float = 90, max_retries: int = 0, http_client=None, base_url: str | None = None):
         if not api_key:
-            raise LLMError("No OpenAI API key is set. Add OPENAI_API_KEY to your .env file.", "missing_key")
+            raise LLMError("No OpenAI API key is set. Add OPENAI_API_KEY to .env or Streamlit secrets.", "missing_key")
         self.model = model
-        # max_retries: the SDK automatically retries brief network/rate-limit hiccups.
+        # max_retries=0: no automatic retries. A retried request that had already reached OpenAI could be
+        # billed twice; the user sees a friendly error and can try again instead.
         self._client = openai.OpenAI(api_key=api_key, timeout=timeout, max_retries=max_retries,
                                      http_client=http_client, base_url=base_url)
 
     def generate_json(self, instructions: str, user_input: str, schema: dict, schema_name: str,
-                      max_output_tokens: int = 6000) -> LLMResult:
+                      max_output_tokens: int = config.QA_MAX_OUTPUT_TOKENS) -> LLMResult:
+        # Cost guard: refuse oversized requests before anything is sent (and billed).
+        if len(instructions) + len(user_input) > config.AI_MAX_INPUT_CHARS:
+            raise LLMError("This dataset is too large to describe to the AI within the app's cost limits "
+                           "(usually because it has very many columns or categories). Everything else "
+                           "in the app still works.", "too_large")
+        options = {}
+        if _supports_reasoning_effort(self.model):
+            options["reasoning"] = {"effort": config.AI_REASONING_EFFORT}
         try:
             response = self._client.responses.create(
                 model=self.model,
@@ -108,8 +126,9 @@ class LLMClient:
                 input=user_input,
                 # Structured Outputs: the model must reply with JSON matching `schema`.
                 text={"format": {"type": "json_schema", "name": schema_name, "schema": schema, "strict": True}},
-                max_output_tokens=max_output_tokens,
+                max_output_tokens=max_output_tokens,   # hard ceiling on billed output (incl. reasoning)
                 store=False,   # ask OpenAI not to keep this response on their side
+                **options,
             )
         except openai.OpenAIError as err:
             raise _friendly_error(err, self.model) from err

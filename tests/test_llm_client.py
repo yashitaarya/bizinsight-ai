@@ -51,6 +51,29 @@ def test_successful_structured_response(fake):
     assert sent["store"] is False                                   # don't keep our data at OpenAI
     assert sent["text"]["format"] == {"type": "json_schema", "name": "summary",
                                       "schema": {"type": "object"}, "strict": True}
+    assert sent["reasoning"] == {"effort": "low"}                   # cost control: little hidden reasoning
+    assert sent["max_output_tokens"] == 2000                        # default ceiling on billed output
+
+
+# ---------------------------------------------------------------- cost controls
+
+def test_no_automatic_retries_by_default():
+    llm = LLMClient("sk-test-0123456789abcdef")
+    assert llm._client.max_retries == 0          # a retried request could be billed twice
+
+
+def test_oversized_request_is_refused_before_sending(fake):
+    from core import config
+    with pytest.raises(LLMError) as err:
+        client(fake).generate_json("x", "y" * (config.AI_MAX_INPUT_CHARS + 1), {"type": "object"}, "summary")
+    assert err.value.kind == "too_large" and fake.requests == []    # nothing sent, nothing billed
+
+
+def test_reasoning_effort_only_sent_to_reasoning_models(fake):
+    fake.queue(200, response_body('{"a": 1}'))
+    client(fake, model="gpt-4.1-mini").generate_json("i", "u", {"type": "object"}, "s", max_output_tokens=123)
+    sent = fake.requests[-1]
+    assert "reasoning" not in sent and sent["max_output_tokens"] == 123
 
 
 # ---------------------------------------------------------------- failures
@@ -61,6 +84,10 @@ def test_successful_structured_response(fake):
     (404, error_body("Model not found", "model_not_found"), "model", "OPENAI_MODEL"),
     (429, error_body("You exceeded your current quota", "insufficient_quota", "insufficient_quota"),
      "quota", "run out of credit"),
+    (429, error_body("Project spend limit reached", "project_spend_limit_exceeded", "requests"), "quota", "AI features are paused"),
+    (429, error_body("Organization spend limit reached", "organization_spend_limit_exceeded", "requests"),
+     "quota", "spending limit"),
+    (429, error_body("No credit", "credit_balance_exhausted", "insufficient_quota"), "quota", "run out of credit"),
     (429, error_body("Rate limit reached", "rate_limit_exceeded", "requests"), "rate_limit", "Wait a minute"),
     (500, error_body("Server error", "server_error", "server_error"), "server", "temporary problems"),
     (400, error_body("Invalid schema", "invalid_schema"), "bad_request", "couldn't process"),

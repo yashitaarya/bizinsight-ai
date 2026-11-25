@@ -18,6 +18,7 @@ from ui.ask_tab import ask_tab
 from ui.charts_tab import charts_tab
 from ui.home import home_page
 from ui.overview import columns_tab, overview_tab
+from ui.guide import guide_page
 from ui.state import PAGES, Source, cached_load, cached_profile, cached_sheets, formatter
 from ui.summary_tab import summary_tab
 from ui.theme import CSS
@@ -74,6 +75,11 @@ def sidebar() -> Source | None:
 
 def _pick_sample(name: str) -> None:
     st.session_state["sample"] = name
+    st.session_state["show_guide"] = False
+
+
+def _show_guide(show: bool) -> None:
+    st.session_state["show_guide"] = show
 
 
 def welcome() -> None:
@@ -86,11 +92,13 @@ def welcome() -> None:
                 'insight comes from.</div>', unsafe_allow_html=True)
 
     section_label("Start in one click")
-    c1, c2, _ = st.columns([1, 1, 1.4])
+    c1, c2, c3 = st.columns([1, 1, 1])
     c1.button("Explore retail sales sample", type="primary", width="stretch", on_click=_pick_sample,
               args=("Retail sales",), key="welcome_sales")
     c2.button("Explore support tickets sample", width="stretch", on_click=_pick_sample,
               args=("Customer support tickets",), key="welcome_tickets")
+    c3.button("How to use BizInsight AI", icon=":material/menu_book:", width="stretch", on_click=_show_guide,
+              args=(True,), key="welcome_guide")
     st.caption("Or upload your own file in the sidebar (CSV or XLSX, up to 25 MB). Samples are synthetic data.")
 
     section_label("What you get")
@@ -133,7 +141,12 @@ def data_page(ds, profile, fmt) -> None:
 def main() -> None:
     source = sidebar()
     if source is None:
-        welcome()
+        if st.session_state.get("show_guide"):
+            st.button("Back to start", icon=":material/arrow_back:", on_click=_show_guide, args=(False,),
+                      key="guide_back")
+            guide_page()
+        else:
+            welcome()
         return
     try:
         with st.spinner("Reading and analyzing your file…"):
@@ -167,6 +180,8 @@ def main() -> None:
         ask_tab(source, ds, profile, fmt)
     elif page == "Charts":
         charts_tab(ds.df, profile, fmt)
+    elif page == "Guide":
+        guide_page()
     else:
         data_page(ds, profile, fmt)
 

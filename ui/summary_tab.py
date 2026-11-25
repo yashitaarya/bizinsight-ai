@@ -22,8 +22,8 @@ from core.insights import SECTIONS, BusinessSummary, build_request, generate_sum
 from core.llm_client import LLMClient, LLMError
 from core.profiler import DatasetProfile
 from ui.components import callout, empty_state, headline, insight_cards, key_charts, kpi_row, section_label
-from ui.state import (Source, ai_settings, cached_facts, requests_left, setup_help, summary_key, usage_caption,
-                      use_request)
+from ui.state import (Source, ai_settings, cached_facts, limit_message, requests_left, setup_help, shared_put,
+                      summary_entry, summary_key, usage_caption, use_request)
 
 SECTION_TITLES = {
     "key_findings": "Key findings",
@@ -91,7 +91,7 @@ def summary_tab(source: Source, ds: LoadedDataset, profile: DatasetProfile, fmt:
     key, model = ai_settings()
     state = st.session_state.setdefault("ai_summaries", {})
     fingerprint = summary_key(source, model)
-    entry = state.get(fingerprint)          # (BusinessSummary, generated-at text) or None
+    entry = summary_entry(source, model)    # (BusinessSummary, generated-at text) or None
 
     top, action = st.columns([4, 1.3], vertical_alignment="bottom")
     with top:
@@ -116,13 +116,13 @@ def summary_tab(source: Source, ds: LoadedDataset, profile: DatasetProfile, fmt:
             with st.spinner("Writing your executive summary… (usually 10–40 seconds)"):
                 summary = generate_summary(LLMClient(key, model), facts, profile, source[0])
             state[fingerprint] = (summary, datetime.now().strftime("%Y-%m-%d %H:%M"))
+            shared_put("summary|" + fingerprint, state[fingerprint])
             st.rerun()
         except LLMError as err:
             callout("The summary couldn't be generated", [str(err)], "warn")
 
     if key is not None and requests_left() <= 0:
-        callout("AI request limit reached", ["This session's limit protects your OpenAI credit. "
-                                             "Refresh the page to start a new session."], "warn")
+        callout("AI request limit reached", [limit_message()], "warn")
     if entry:
         render_summary(*entry[:1], facts, entry[1])
     elif key is not None:

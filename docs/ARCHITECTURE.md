@@ -138,7 +138,8 @@ pandas — never from the model. Charts come from `core/charts.py`. The AI's tex
 | `ui/summary_tab.py` | AI Summary page and its Sources & calculations section |
 | `ui/ask_tab.py` | Ask AI page: chat layout, structured answers, unanswerable-question handling |
 | `ui/components.py`, `ui/theme.py` | Shared visual components (KPI cards, insight cards, callouts) and the style sheet |
-| `ui/state.py` | Cached loading/profiling, AI settings, request limit, navigation helpers |
+| `ui/guide.py` | How to use page for first-time visitors (static content) |
+| `ui/state.py` | Cached loading/profiling, AI settings (`.env` or Streamlit secrets), AI request limits, navigation helpers |
 
 `core/` never imports Streamlit, which keeps all business logic testable without a browser.
 
@@ -194,7 +195,18 @@ is capped at 5% so "3 million" cannot pass for 2.6 million.
 - Requests are made with `store=False`, asking OpenAI not to retain them.
 - The API key is read from the environment (`.env`, git-ignored) or Streamlit secrets; the UI only ever
   shows a masked version.
-- AI requests are capped per browser session (`MAX_AI_REQUESTS_PER_SESSION`) to protect API credit.
+- AI requests are capped per browser session (`MAX_AI_REQUESTS_PER_SESSION`) and per day across all
+  visitors of a running app (`AI_DAILY_LIMIT`, a thread-safe counter in `st.cache_resource`), so a public
+  deployment can't drain the host's API credit (default 2 per day). The daily counter resets at midnight
+  UTC and on restart, so OpenAI-side controls (prepaid credit without auto recharge, enforced hard spend
+  limits) are the real financial backstop.
+- Every request is cost-capped in `LLMClient`: `reasoning.effort = "low"` for reasoning models, a
+  `max_output_tokens` ceiling (4,000 for a summary, 2,000 per Q&A call), requests over
+  `AI_MAX_INPUT_CHARS` refused before sending, and no automatic retries
+  (`max_retries=0`), so a request is never billed twice.
+- Results are shared between visitors of the *identical* file (`ui/state.shared_get/shared_put`, keyed by
+  a SHA-256 hash of the file, sheet and model, plus the normalized question for Q&A), so repeated use of the
+  samples costs nothing. Shared answers stay usable after the daily limit is reached.
 
 ## Presentation layer
 
@@ -216,7 +228,7 @@ is capped at 5% so "3 million" cannot pass for 2.6 million.
 
 ## Testing strategy
 
-The suite (`pytest`, 220 test cases) is organized by layer:
+The suite (`pytest`, 231 test cases) is organized by layer:
 
 | Test file | Covers |
 |---|---|
@@ -244,4 +256,4 @@ separate, opt-in check against the real API.
 | AI requests per session | 10 | `core/config.py` |
 | Max question length | 500 characters | `core/qa.py` |
 | Model | `OPENAI_MODEL` in `.env` (default `gpt-5-mini`) | `core/llm_client.py` |
-| API timeout / retries | 90 s / 2 automatic retries | `core/llm_client.py` |
+| API timeout / retries | 90 s / no automatic retries | `core/llm_client.py` |

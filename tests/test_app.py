@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 
 import pytest
+import streamlit as st
 from streamlit.testing.v1 import AppTest
 
 from tests.fake_openai import FakeOpenAI, error_body, response_body
@@ -22,6 +23,8 @@ def never_call_real_openai(monkeypatch):
     monkeypatch.setenv("OPENAI_API_KEY", "")
     monkeypatch.setenv("OPENAI_MODEL", "gpt-5-mini")
     monkeypatch.setenv("OPENAI_BASE_URL", "http://127.0.0.1:9/v1")
+    monkeypatch.setenv("AI_DAILY_LIMIT", "1000")   # most tests check the per-session limit
+    st.cache_resource.clear()   # fresh app-wide daily AI counter for every test
 
 
 def run_with_sample(sample: str = "Retail sales") -> AppTest:
@@ -162,7 +165,7 @@ def test_ai_summary_generated_and_validated(monkeypatch):
 
 def test_ai_summary_error_is_shown_not_crashed(monkeypatch):
     with FakeOpenAI() as fake:
-        for _ in range(3):   # the SDK retries 429s twice before giving up
+        for _ in range(3):   # more errors than needed: the client doesn't retry
             fake.queue(429, error_body("You exceeded your current quota", "insufficient_quota", "insufficient_quota"))
         at = start_with_fake(monkeypatch, fake)
         button(at, "ai_generate").click().run()
@@ -324,3 +327,71 @@ def test_new_dataset_opens_on_home():
     at = go(run_with_sample(), "Charts")
     at.selectbox(key="sample").set_value("Customer support tickets").run()
     assert at.session_state["nav"] == "Home"
+
+
+# ---------------------------------------------------------------- guide and public-demo limits
+
+def test_guide_from_welcome_and_back():
+    at = AppTest.from_file(APP, default_timeout=90).run()
+    button(at, "welcome_guide").click().run()
+    assert not at.exception, at.exception
+    text = page_text(at)
+    assert "How to use BizInsight AI" in text and "Asking good questions".upper() in text.upper()
+    assert "upload confidential or personal data" in text
+    button(at, "guide_back").click().run()
+    assert "Start in one click".upper() in page_text(at).upper()
+
+
+def test_guide_in_navigation_after_loading_data():
+    at = go(run_with_sample(), "Guide")
+    assert "Understanding the numbers".upper() in page_text(at).upper()
+
+
+def test_shared_daily_limit_applies_across_sessions(monkeypatch):
+    monkeypatch.setenv("AI_DAILY_LIMIT", "1")
+    with FakeOpenAI() as fake:
+        fake.queue(200, response_body(summary_json()))
+        at = start_with_fake(monkeypatch, fake)
+        button(at, "ai_generate").click().run()
+        assert not at.exception, at.exception
+        assert "shared daily limit" in page_text(at)
+
+        # A brand-new visitor (new session) is blocked too, but the rest of the app still works.
+        other = start_with_fake(monkeypatch, fake)
+        assert button(other, "ai_generate").disabled
+        assert "shared daily limit" in page_text(other)
+        assert len(fake.requests) == 1
+
+
+def test_summary_is_shared_with_later_visitors_of_the_same_file(monkeypatch):
+    with FakeOpenAI() as fake:
+        fake.queue(200, response_body(summary_json()))
+        first = start_with_fake(monkeypatch, fake)
+        button(first, "ai_generate").click().run()
+        assert "Laptops drive almost half of revenue" in page_text(first)
+
+        second = start_with_fake(monkeypatch, fake)                    # a new visitor, same sample
+        assert "Laptops drive almost half of revenue" in page_text(second)
+        assert "10 of 10 AI requests left" in page_text(second)         # nothing spent
+        assert len(fake.requests) == 1
+
+
+def test_shared_answer_is_free_even_after_the_daily_limit(monkeypatch):
+    monkeypatch.setenv("AI_DAILY_LIMIT", "2")                          # one question = one request
+    with FakeOpenAI() as fake:
+        fake.queue(200, response_body(plan_json(operation="aggregate", group_by=None)))
+        fake.queue(200, response_body(answer_json("Total revenue is about 2.6 million.", ["Q1"],
+                                                  headline="Total revenue is about 2.6 million")))
+        fake.queue(200, response_body(plan_json()))
+        fake.queue(200, response_body(answer_json("North sells the most.", ["Q1"])))
+        first = start_with_fake(monkeypatch, fake, page="Ask AI")
+        button(first, "example_What is the total Revenue?").click().run()
+        first.chat_input[0].set_value("Which region sells the most?").run()
+        assert len(fake.requests) == 4 and "shared daily limit" in page_text(first)
+
+        second = start_with_fake(monkeypatch, fake, page="Ask AI")      # limit reached for everyone…
+        cached = button(second, "example_What is the total Revenue?")
+        assert not cached.disabled                                     # …but this answer is already known
+        cached.click().run()
+        assert "Total revenue is about 2.6 million." in page_text(second)
+        assert len(fake.requests) == 4                                 # served without a new request

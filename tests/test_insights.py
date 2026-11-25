@@ -46,8 +46,9 @@ class FakeLLM:
     def __init__(self, data=None, error=None):
         self.data, self.error, self.calls = data, error, []
 
-    def generate_json(self, instructions, user_input, schema, schema_name):
+    def generate_json(self, instructions, user_input, schema, schema_name, max_output_tokens=None):
         self.calls.append((instructions, user_input, schema, schema_name))
+        self.max_output_tokens = max_output_tokens
         if self.error:
             raise self.error
         return LLMResult(self.data, "fake-model", 100, 50)
@@ -127,6 +128,7 @@ def test_generate_summary_sends_facts_and_rules(profile):
     assert json.loads(user_input)["facts"][0]["id"] == "F1"
     assert schema is SUMMARY_SCHEMA and name == "business_summary"
     assert (s.model, s.input_tokens, s.output_tokens) == ("fake-model", 100, 50)
+    assert llm.max_output_tokens == 4000                     # summary output ceiling (cost control)
 
 
 def test_answer_with_no_supported_statements_is_rejected(profile):

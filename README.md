@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-3776AB)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI%20API-412991)
-![Tests](https://img.shields.io/badge/tests-220%20passing-2EA44F)
+![Tests](https://img.shields.io/badge/tests-231%20passing-2EA44F)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 Turn your business data into insights you can actually use. Simply upload a CSV or Excel file to explore
@@ -31,6 +31,7 @@ so you can understand where every insight comes from.
 - [Technology stack](#technology-stack)
 - [Getting started (macOS)](#getting-started-macos)
 - [OpenAI API configuration](#openai-api-configuration)
+- [Deploying to Streamlit Community Cloud](#deploying-to-streamlit-community-cloud)
 - [Testing and quality assurance](#testing-and-quality-assurance)
 - [Future improvements](#future-improvements)
 - [About this project](#about-this-project)
@@ -185,6 +186,7 @@ bizinsight-ai/
 │   ├── charts_tab.py         #   Charts, filters and chart builder
 │   ├── summary_tab.py        #   AI Summary
 │   ├── ask_tab.py            #   Ask AI
+│   ├── guide.py              #   How to use (for first-time visitors)
 │   ├── components.py         #   KPI cards, insight cards, callouts
 │   ├── state.py              #   Caching, AI settings, navigation
 │   └── theme.py              #   Style sheet
@@ -250,7 +252,11 @@ For module responsibilities, the full data flow and sequence diagrams, see
 - Both AI pages explain what is sent to OpenAI, and the AI Summary page shows the exact request.
   Requests are sent with `store=False`.
 - The API key is read from a git-ignored `.env` file and only ever displayed in masked form.
-- AI requests are capped at 10 per browser session to protect your API credit.
+- Cost controls on every AI request: low reasoning effort, a ceiling on output tokens, a size limit on what
+  is sent, and no automatic retries (a retry could be billed twice).
+- AI requests are capped at 10 per browser session and at a shared daily total across all visitors
+  (2 by default, `AI_DAILY_LIMIT`). A summary or answer already generated for the identical file is
+  reused for later visitors at no cost, so the sample datasets rarely need new requests.
 
 **Limitations**
 
@@ -364,8 +370,35 @@ sends a few thousand tokens of calculated facts (never raw data); with a small m
 `gpt-5-mini`, a request typically costs a fraction of a US cent. Check
 [OpenAI's pricing page](https://openai.com/api/pricing/) for current rates.
 
-**Hosting.** For Streamlit Community Cloud, put the same two values in the app's **Secrets** settings
-instead of `.env` (see `.streamlit/secrets.toml.example`).
+## Deploying to Streamlit Community Cloud
+
+The app runs on [Streamlit Community Cloud](https://streamlit.io/cloud)'s free tier without code changes.
+
+1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub and click **Create app** →
+   **Deploy a public app from GitHub**.
+2. Choose this repository, branch `main` and main file `app.py`; optionally pick a custom subdomain.
+3. Under **Advanced settings**, choose Python **3.12 or 3.13** (both are tested) and paste your secrets:
+
+   ```toml
+   OPENAI_API_KEY = "sk-...your key..."
+   OPENAI_MODEL = "gpt-5-mini"
+   AI_DAILY_LIMIT = "2"   # optional: AI requests per day across all visitors
+   ```
+
+4. Click **Deploy**. The app installs `requirements.txt` and starts in a few minutes.
+
+**Protecting your credit on a public app.** Visitors use *your* API key. The app keeps requests small,
+limits them per session and per day, and reuses results for identical files — but its daily counter lives
+in memory and resets when the app restarts, so it is not a financial guarantee. Put the real limits at
+OpenAI ([platform.openai.com](https://platform.openai.com)):
+
+- use prepaid credit with **auto recharge turned off** — usage stops when the balance runs out;
+- create a dedicated **project** and API key for the deployment;
+- set monthly spend limits for the organization and the project with **Enforce a hard limit** turned on
+  (a spend *alert* only sends an email).
+
+On the free tier the app sleeps after a period without visitors; the first visit afterwards wakes it up,
+which takes about a minute.
 
 ## Testing and quality assurance
 
@@ -374,7 +407,7 @@ pip install -r requirements-dev.txt
 pytest
 ```
 
-The automated suite has **220 test cases** covering every layer:
+The automated suite has **231 test cases** covering every layer:
 
 - loading and cleaning rules, profiling, charts and formatting — each calculation checked against plain pandas;
 - the fact sheet, including a privacy test that no rows or IDs reach the AI request;
@@ -383,7 +416,8 @@ The automated suite has **220 test cases** covering every layer:
 - the OpenAI client against a local fake server, for success and every error type (bad key, no credit,
   rate limits, timeouts, malformed responses);
 - presentation: number and period formatting, dynamic dashboard metrics and tidying of AI text;
-- the Streamlit app itself (`AppTest`): navigation, every page, the AI flows and HTML escaping.
+- the Streamlit app itself (`AppTest`): navigation, every page including the guide, the AI flows, the
+  shared daily AI limit and HTML escaping.
 
 The tests never contact OpenAI and never use your key.
 

@@ -20,7 +20,7 @@ from core.highlights import Highlight, dashboard_metrics
 from core.profiler import DatasetProfile
 from ui.components import (callout, md_safe, dataset_header, empty_state, insight_cards, key_charts, kpi_row, panel_title,
                            section_label)
-from ui.state import Source, ai_settings, go_to, requests_left, summary_key
+from ui.state import Source, ai_settings, go_to, requests_left, summary_entry
 
 NAV_CARDS = [
     ("Overview", "Overview", "Key figures, column roles and data quality."),
@@ -49,7 +49,7 @@ def _header(source: Source, ds: LoadedDataset, profile: DatasetProfile, is_sampl
 
 def _ai_highlights(source: Source) -> None:
     key, model = ai_settings()
-    entry = st.session_state.get("ai_summaries", {}).get(summary_key(source, model))
+    entry = summary_entry(source, model)
     with st.container(border=True):
         panel_title("AI highlights", "From your executive summary — every point is linked to a calculation.")
         if entry:
@@ -61,7 +61,7 @@ def _ai_highlights(source: Source) -> None:
                       type="primary")
         elif key is None:
             empty_state("Not connected", "AI features need an OpenAI API key",
-                        "Add your key to the .env file to generate highlights. Everything else works without it.")
+                        "Connect an OpenAI API key to generate highlights. Everything else works without it.")
             st.button("See setup steps", key="home_setup", on_click=go_to, args=("AI Summary",))
         else:
             empty_state("No summary yet", "Generate an AI summary to see highlights here",

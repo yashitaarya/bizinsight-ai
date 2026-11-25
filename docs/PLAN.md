@@ -124,7 +124,7 @@ All six stages were delivered. Compared with the original plan, the final build:
 - **Added a presentation layer**: consistent formatting (`core/formatting.py`), currency detection from
   the data, and pandas-calculated KPI cards and dashboard metrics (`core/highlights.py`).
 - **Added a second synthetic dataset** (customer support tickets) to prove the app adapts to non-sales data.
-- **Grew the test suite** to 220 test cases, including Streamlit `AppTest` tests of the full app and a local
+- **Grew the test suite** to 231 test cases, including Streamlit `AppTest` tests of the full app and a local
   fake OpenAI server, plus an opt-in live check (`scripts/live_check.py`).
 - Cost estimates held: each AI request sends a few thousand tokens of facts and typically costs a fraction
   of a cent with a small model.

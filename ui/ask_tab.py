@@ -21,14 +21,21 @@ from core.llm_client import LLMClient, LLMError
 from core.profiler import DatasetProfile
 from core.qa import QAResponse, ask, describe_dataset, example_questions
 from ui.components import callout, headline, kpi_row, md_safe, number_columns, section_label
-from ui.state import Source, ai_settings, cached_facts, requests_left, setup_help, usage_caption, use_request
+from ui.state import (Source, ai_settings, cached_facts, limit_message, requests_left, setup_help, shared_get,
+                      shared_put, usage_caption, use_request)
 
 MAX_HISTORY = 20
 USER_AVATAR, ASSISTANT_AVATAR = ":material/person:", ":material/insights:"
 
 
-def _ask_button(question: str, key: str) -> None:
-    if st.button(question, key=key, width="stretch", disabled=requests_left() <= 0):
+def _answer_key(fingerprint: str, model: str, question: str, previous: str | None) -> str:
+    """Identifies an answer that can be reused: same file, model, question and previous question."""
+    norm = lambda s: " ".join((s or "").lower().split())
+    return f"qa|{fingerprint}|{model}|{norm(question)}|{norm(previous)}"
+
+
+def _ask_button(question: str, key: str, cached: bool = False) -> None:
+    if st.button(question, key=key, width="stretch", disabled=requests_left() <= 0 and not cached):
         st.session_state["qa_pending"] = question
         st.rerun()
 
@@ -134,9 +141,11 @@ def ask_tab(source: Source, ds: LoadedDataset, profile: DatasetProfile, fmt: For
         if examples:
             section_label("Suggested questions")
             grid = st.columns(2)
+            last = next((h.question for h in reversed(history) if h.status == "answered"), None)
             for i, q in enumerate(examples):
                 with grid[i % 2]:
-                    _ask_button(q, key=f"example_{q}")
+                    _ask_button(q, key=f"example_{q}",
+                                cached=shared_get(_answer_key(fingerprint, model, q, last)) is not None)
 
         facts_by_id = {f.id: f for f in dataset_facts}
         for i, resp in enumerate(history):
@@ -150,21 +159,26 @@ def ask_tab(source: Source, ds: LoadedDataset, profile: DatasetProfile, fmt: For
             history.clear()
             st.rerun()
         if requests_left() <= 0:
-            callout("AI request limit reached", ["This session's limit protects your OpenAI credit. "
-                                                 "Refresh the page to start a new session."], "warn")
+            callout("AI request limit reached", [limit_message()], "warn")
 
         question = typed or st.session_state.pop("qa_pending", None)
-        if question and requests_left() > 0:
-            use_request()
+        if question:
             previous = next((h.question for h in reversed(history) if h.status == "answered"), None)
-            try:
-                with st.spinner("Working out how to answer…"):
-                    resp = ask(LLMClient(key, model), question, ds.df, profile, dataset_facts, previous, fmt)
-            except LLMError as err:
-                resp = QAResponse(question, "error", str(err))
-            history.append(resp)
-            del history[:-MAX_HISTORY]
-            st.rerun()
+            answer_key = _answer_key(fingerprint, model, question, previous)
+            resp = shared_get(answer_key)            # already answered for this exact file: free
+            if resp is None and requests_left() > 0:
+                use_request()
+                try:
+                    with st.spinner("Working out how to answer…"):
+                        resp = ask(LLMClient(key, model), question, ds.df, profile, dataset_facts, previous, fmt)
+                except LLMError as err:
+                    resp = QAResponse(question, "error", str(err))
+                if resp.status != "error":
+                    shared_put(answer_key, resp)
+            if resp is not None:
+                history.append(resp)
+                del history[:-MAX_HISTORY]
+                st.rerun()
 
     with st.expander("What is sent to OpenAI for each question"):
         st.markdown("1. **Your question**, plus column names, column types and the labels of category columns "

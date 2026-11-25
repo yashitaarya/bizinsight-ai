@@ -18,6 +18,7 @@ import json
 import re
 from dataclasses import dataclass, field
 
+from core import config
 from core.facts import Fact
 from core.llm_client import LLMClient, LLMError
 from core.profiler import DatasetProfile
@@ -236,7 +237,8 @@ def generate_summary(llm: LLMClient, facts: list[Fact], profile: DatasetProfile,
     if not facts:
         raise LLMError("There isn't enough information in this dataset to summarize.", "no_facts")
     result = llm.generate_json(INSTRUCTIONS, build_request(facts, profile, dataset_name),
-                               SUMMARY_SCHEMA, "business_summary")
+                               SUMMARY_SCHEMA, "business_summary",
+                               max_output_tokens=config.SUMMARY_MAX_OUTPUT_TOKENS)
     summary = validate_summary(result.data, facts)
     summary.model, summary.input_tokens, summary.output_tokens = result.model, result.input_tokens, result.output_tokens
     if not any(summary.section(s) for s in SECTIONS):

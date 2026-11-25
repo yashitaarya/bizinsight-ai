@@ -39,7 +39,9 @@ See `README.md` for the product overview and `docs/ARCHITECTURE.md` for the full
 - Charts: `recommend_charts(profile)` → `ChartSpec` → `make_chart(spec, df)` → figure + table + notes.
   Fixed color per category, one y-axis, totals start at zero, honest notes (cut-offs, partial periods).
 - Navigation: `st.session_state["nav"]` with `ui/state.go_to()` callbacks; pages in `ui/state.PAGES`.
-- AI requests per session are capped by `config.MAX_AI_REQUESTS_PER_SESSION` (10).
+- AI requests are capped per session (`config.MAX_AI_REQUESTS_PER_SESSION`, 10) and per day across all
+  visitors (`config.AI_DAILY_LIMIT`, 2; override with `AI_DAILY_LIMIT` in .env or secrets).
+- Keep the per-request cost caps in `config` (reasoning effort, output tokens, input size) when adding AI calls.
 
 ## Testing
 - Tests never call OpenAI: `tests/fake_openai.py` is a local fake server, and `tests/test_app.py`
